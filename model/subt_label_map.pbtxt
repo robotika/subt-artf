@@ -1,0 +1,36 @@
+item {
+ id: 1
+ name: "BACKPACK"
+}
+item {
+ id: 2
+ name: "DUCT"
+}
+item {
+ id: 3
+ name: "ELECTRICAL_BOX"
+}
+item {
+ id: 4
+ name: "EXTINGUISHER"
+}
+item {
+ id: 5
+ name: "PHONE"
+}
+item {
+ id: 6
+ name: "RADIO"
+}
+item {
+ id: 7
+ name: "TOOLBOX"
+}
+item {
+ id: 8
+ name: "VALVE"
+}
+item {
+ id: 9
+ name: "ROBOT"
+}
