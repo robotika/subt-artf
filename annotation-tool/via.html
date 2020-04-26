@@ -2043,9 +2043,9 @@ function map_to_json(m) {
   var s = [];
   for ( var key in m ) {
     var v   = m[key];
-    var si  = JSON.stringify(key);
+    var si  = JSON.stringify(key, null, 2);
     si += VIA_CSV_KEYVAL_SEP;
-    si += JSON.stringify(v);
+    si += JSON.stringify(v, null, 2);
     s.push( si );
   }
   return '{' + s.join(VIA_CSV_SEP) + '}';
@@ -2290,13 +2290,13 @@ function pack_via_metadata(return_type) {
             }
           }
         }
-        ok_callback( [ JSON.stringify(d) ] );
+        ok_callback( [ JSON.stringify(d, null, 2) ] );
       }.bind(this), function(err) {
         err_callback(err);
       }.bind(this));
     } else {
       // default format is JSON
-      ok_callback( [ JSON.stringify(_via_img_metadata) ] );
+      ok_callback( [ JSON.stringify(_via_img_metadata, null, 2) ] );
     }
   }.bind(this));
 }
@@ -5286,11 +5286,11 @@ function delete_regions(img_index) {
     var img_id = _via_image_id_list[img_index];
     var i;
     for ( i = 0; i < _via_copied_image_regions.length; ++i ) {
-      var copied_region_shape_str = JSON.stringify(_via_copied_image_regions[i].shape_attributes);
+      var copied_region_shape_str = JSON.stringify(_via_copied_image_regions[i].shape_attributes, null, 2);
       var j;
       // start from last region in order to delete the last pasted region
       for ( j = _via_img_metadata[img_id].regions.length-1; j >= 0; --j ) {
-        if ( JSON.stringify(_via_img_metadata[img_id].regions[j].shape_attributes) === copied_region_shape_str ) {
+        if ( JSON.stringify(_via_img_metadata[img_id].regions[j].shape_attributes) === copied_region_shape_str, null, 2) {
           _via_img_metadata[img_id].regions.splice( j, 1);
           del_region_count += 1;
           break; // delete only one matching region
@@ -7332,8 +7332,8 @@ function annotation_editor_get_metadata_row_html(row_id) {
               break;
             default:
               attr_value = '';
-              attr_placeholder = attr_value_set.length + ' different values: ' + JSON.stringify(attr_value_set).replace(/"/g,'\'');
-              console.log(JSON.stringify(attr_value_set))
+              attr_placeholder = attr_value_set.length + ' different values: ' + JSON.stringify(attr_value_set, null, 2).replace(/"/g,'\'');
+              console.log(JSON.stringify(attr_value_set, null, 2))
             }
           }
         } else {
@@ -8045,7 +8045,7 @@ function project_save_confirmed(input) {
                        '_via_attributes': _via_attributes };
 
   var filename = input.project_name.value + '.json';
-  var data_blob = new Blob( [JSON.stringify(_via_project)],
+  var data_blob = new Blob( [JSON.stringify(_via_project, null, 2)],
                             {type: 'text/json;charset=utf-8'});
 
   save_data_to_local_file(data_blob, filename);
@@ -8454,7 +8454,7 @@ function project_filepath_del(path) {
 
 function project_save_attributes() {
   var blob_attr = {type: 'application/json;charset=utf-8'};
-  var all_region_data_blob = new Blob( [ JSON.stringify(_via_attributes) ], blob_attr);
+  var all_region_data_blob = new Blob( [ JSON.stringify(_via_attributes, null, 2) ], blob_attr);
 
   save_data_to_local_file(all_region_data_blob, _via_settings.project.name + '_attributes.json');
 }
@@ -8475,13 +8475,13 @@ function project_import_attributes_from_json(data) {
     var rattr_count = 0;
     // process file attributes
     for ( attr in d['file'] ) {
-      _via_attributes['file'][attr] = JSON.parse( JSON.stringify( d['file'][attr] ) );
+      _via_attributes['file'][attr] = JSON.parse( JSON.stringify( d['file'][attr], null, 2 ) );
       fattr_count += 1;
     }
 
     // process region attributes
     for ( attr in d['region'] ) {
-      _via_attributes['region'][attr] = JSON.parse( JSON.stringify( d['region'][attr] ) );
+      _via_attributes['region'][attr] = JSON.parse( JSON.stringify( d['region'][attr], null, 2 ) );
       rattr_count += 1;
     }
 
