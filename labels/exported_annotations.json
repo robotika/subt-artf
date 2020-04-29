@@ -8374,5 +8374,195 @@
       }
     ],
     "file_attributes": {}
+  },
+  "../virtual/rope/rope-0000.jpg-1": {
+    "filename": "../virtual/rope/rope-0000.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 119,
+          "y": 254,
+          "width": 112,
+          "height": 46
+        },
+        "region_attributes": {
+          "artifact": "rope"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/rope/rope-0001.jpg-1": {
+    "filename": "../virtual/rope/rope-0001.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 102,
+          "y": 256,
+          "width": 125,
+          "height": 55
+        },
+        "region_attributes": {
+          "artifact": "rope"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/rope/rope-0002.jpg-1": {
+    "filename": "../virtual/rope/rope-0002.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 81,
+          "y": 263,
+          "width": 138,
+          "height": 64
+        },
+        "region_attributes": {
+          "artifact": "rope"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/rope/rope-0003.jpg-1": {
+    "filename": "../virtual/rope/rope-0003.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 61,
+          "y": 268,
+          "width": 150,
+          "height": 72
+        },
+        "region_attributes": {
+          "artifact": "rope"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/rope/rope-0004.jpg-1": {
+    "filename": "../virtual/rope/rope-0004.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 16,
+          "y": 278,
+          "width": 188,
+          "height": 80
+        },
+        "region_attributes": {
+          "artifact": "rope"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/rope/rope-0005.jpg-1": {
+    "filename": "../virtual/rope/rope-0005.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 0,
+          "y": 285,
+          "width": 200,
+          "height": 74
+        },
+        "region_attributes": {
+          "artifact": "rope"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/rope/rope-0006.jpg-1": {
+    "filename": "../virtual/rope/rope-0006.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 0,
+          "y": 277,
+          "width": 189,
+          "height": 81
+        },
+        "region_attributes": {
+          "artifact": "rope"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/rope/rope-0007.jpg-1": {
+    "filename": "../virtual/rope/rope-0007.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1,
+          "y": 257,
+          "width": 163,
+          "height": 102
+        },
+        "region_attributes": {
+          "artifact": "rope"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/rope/rope-0008.jpg-1": {
+    "filename": "../virtual/rope/rope-0008.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 4,
+          "y": 248,
+          "width": 123,
+          "height": 79
+        },
+        "region_attributes": {
+          "artifact": "rope"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/rope/rope-0009.jpg-1": {
+    "filename": "../virtual/rope/rope-0009.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 3,
+          "y": 259,
+          "width": 55,
+          "height": 75
+        },
+        "region_attributes": {
+          "artifact": "rope"
+        }
+      }
+    ],
+    "file_attributes": {}
   }
 }
