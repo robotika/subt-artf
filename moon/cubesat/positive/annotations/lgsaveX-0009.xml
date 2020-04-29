@@ -1,0 +1,26 @@
+<annotation>
+	<folder>img</folder>
+	<filename>lgsaveX-0009.jpg</filename>
+	<path>/home/brabec/space-challenge/subt-artf/moon/cubesat/positive/img/lgsaveX-0009.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cubesat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>434</xmin>
+			<ymin>52</ymin>
+			<xmax>481</xmax>
+			<ymax>108</ymax>
+		</bndbox>
+	</object>
+</annotation>
