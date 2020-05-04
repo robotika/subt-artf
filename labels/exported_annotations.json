@@ -8564,5 +8564,214 @@
       }
     ],
     "file_attributes": {}
+  },
+  "../virtual/helmet/helmet01.jpg-1": {
+    "filename": "../virtual/helmet/helmet01.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 343,
+          "y": 301,
+          "width": 14,
+          "height": 12
+        },
+        "region_attributes": {
+          "artifact": "helmet"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/helmet/helmet04.jpg-1": {
+    "filename": "../virtual/helmet/helmet04.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 143,
+          "y": 173,
+          "width": 33,
+          "height": 20
+        },
+        "region_attributes": {
+          "artifact": "helmet"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/helmet/helmet08.jpg-1": {
+    "filename": "../virtual/helmet/helmet08.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 436,
+          "y": 243,
+          "width": 203,
+          "height": 118
+        },
+        "region_attributes": {
+          "artifact": "helmet"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/helmet/helmet07.jpg-1": {
+    "filename": "../virtual/helmet/helmet07.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 259,
+          "y": 227,
+          "width": 145,
+          "height": 115
+        },
+        "region_attributes": {
+          "artifact": "helmet"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/helmet/helmet.jpg-1": {
+    "filename": "../virtual/helmet/helmet.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 268,
+          "y": 168,
+          "width": 58,
+          "height": 42
+        },
+        "region_attributes": {
+          "artifact": "helmet"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/helmet/helmet02.jpg-1": {
+    "filename": "../virtual/helmet/helmet02.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 337,
+          "y": 305,
+          "width": 17,
+          "height": 12
+        },
+        "region_attributes": {
+          "artifact": "helmet"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/helmet/helmet06.jpg-1": {
+    "filename": "../virtual/helmet/helmet06.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 136,
+          "y": 209,
+          "width": 95,
+          "height": 74
+        },
+        "region_attributes": {
+          "artifact": "helmet"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/helmet/helmet00.jpg-1": {
+    "filename": "../virtual/helmet/helmet00.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 345,
+          "y": 298,
+          "width": 16,
+          "height": 12
+        },
+        "region_attributes": {
+          "artifact": "helmet"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/helmet/helmet03.jpg-1": {
+    "filename": "../virtual/helmet/helmet03.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 244,
+          "y": 216,
+          "width": 22,
+          "height": 16
+        },
+        "region_attributes": {
+          "artifact": "helmet"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/helmet/helmet05.jpg-1": {
+    "filename": "../virtual/helmet/helmet05.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 163,
+          "y": 169,
+          "width": 56,
+          "height": 40
+        },
+        "region_attributes": {
+          "artifact": "helmet"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/helmet/helmet2.jpg-1": {
+    "filename": "../virtual/helmet/helmet2.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 234,
+          "y": 226,
+          "width": 148,
+          "height": 121
+        },
+        "region_attributes": {
+          "artifact": "helmet"
+        }
+      }
+    ],
+    "file_attributes": {}
   }
 }
