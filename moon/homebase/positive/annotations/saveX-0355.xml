@@ -1,0 +1,26 @@
+<annotation>
+	<folder>img</folder>
+	<filename>saveX-0355.jpg</filename>
+	<path>/home/brabec/space-challenge/subt-artf/moon/homebase/positive/img/saveX-0355.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>homebase</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>199</xmin>
+			<ymin>113</ymin>
+			<xmax>287</xmax>
+			<ymax>181</ymax>
+		</bndbox>
+	</object>
+</annotation>

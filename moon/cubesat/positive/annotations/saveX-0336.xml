@@ -1,7 +1,7 @@
 <annotation>
 	<folder>img</folder>
 	<filename>saveX-0336.jpg</filename>
-	<path>/home/brabec/space-challenge/osgar/moon/cascade_training/positive/img/saveX-0336.jpg</path>
+	<path>/home/brabec/space-challenge/subt-artf/moon/cubesat/positive/img/saveX-0336.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>298</xmin>
-			<ymin>37</ymin>
-			<xmax>325</xmax>
-			<ymax>63</ymax>
+			<xmin>302</xmin>
+			<ymin>40</ymin>
+			<xmax>319</xmax>
+			<ymax>60</ymax>
 		</bndbox>
 	</object>
 </annotation>
