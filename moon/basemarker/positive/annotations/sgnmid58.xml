@@ -1,0 +1,26 @@
+<annotation>
+	<folder>img</folder>
+	<filename>sgnmid58.jpg</filename>
+	<path>/home/brabec/space-challenge/subt-artf/moon/basemarker/positive/img/sgnmid58.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>basemarker</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>234</xmin>
+			<ymin>224</ymin>
+			<xmax>369</xmax>
+			<ymax>360</ymax>
+		</bndbox>
+	</object>
+</annotation>

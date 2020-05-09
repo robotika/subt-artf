@@ -1,0 +1,26 @@
+<annotation>
+	<folder>img</folder>
+	<filename>rghtvi21.jpg</filename>
+	<path>/home/brabec/space-challenge/subt-artf/moon/basemarker/positive/img/rghtvi21.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>basemarker</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>184</xmin>
+			<ymin>268</ymin>
+			<xmax>241</xmax>
+			<ymax>333</ymax>
+		</bndbox>
+	</object>
+</annotation>
