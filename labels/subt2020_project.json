@@ -8804,6 +8804,745 @@
         }
       ],
       "file_attributes": {}
+    },
+    "../virtual/helmet/v62A-001.jpg-1": {
+      "filename": "../virtual/helmet/v62A-001.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 265,
+            "y": 218,
+            "width": 18,
+            "height": 14
+          },
+          "region_attributes": {
+            "artifact": "helmet"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/backpack/v62A-001.jpg-1": {
+      "filename": "../virtual/backpack/v62A-001.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 184,
+            "y": 233,
+            "width": 23,
+            "height": 22
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/backpack/v62A-004.jpg-1": {
+      "filename": "../virtual/backpack/v62A-004.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 269,
+            "y": 234,
+            "width": 21,
+            "height": 28
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 66,
+            "y": 193,
+            "width": 46,
+            "height": 27
+          },
+          "region_attributes": {
+            "artifact": "robot"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/backpack/v62A-007.jpg-1": {
+      "filename": "../virtual/backpack/v62A-007.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 120,
+            "y": 197,
+            "width": 37,
+            "height": 28
+          },
+          "region_attributes": {
+            "artifact": "robot"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 303,
+            "y": 238,
+            "width": 23,
+            "height": 32
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/backpack/v62A-010.jpg-1": {
+      "filename": "../virtual/backpack/v62A-010.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 35,
+            "y": 191,
+            "width": 44,
+            "height": 30
+          },
+          "region_attributes": {
+            "artifact": "robot"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 244,
+            "y": 233,
+            "width": 25,
+            "height": 36
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/backpack/v62A-013.jpg-1": {
+      "filename": "../virtual/backpack/v62A-013.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 160,
+            "y": 237,
+            "width": 32,
+            "height": 36
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/backpack/v62A-017.jpg-1": {
+      "filename": "../virtual/backpack/v62A-017.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 109,
+            "y": 172,
+            "width": 36,
+            "height": 38
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/backpack/v62A-018.jpg-1": {
+      "filename": "../virtual/backpack/v62A-018.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 78,
+            "y": 155,
+            "width": 37,
+            "height": 40
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/backpack/v62A-021.jpg-1": {
+      "filename": "../virtual/backpack/v62A-021.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 32,
+            "y": 157,
+            "width": 39,
+            "height": 44
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/backpack/v62A-024.jpg-1": {
+      "filename": "../virtual/backpack/v62A-024.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 2,
+            "y": 155,
+            "width": 28,
+            "height": 49
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/backpack/v62A-026.jpg-1": {
+      "filename": "../virtual/backpack/v62A-026.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 36,
+            "y": 134,
+            "width": 44,
+            "height": 59
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/backpack/v62A-027.jpg-1": {
+      "filename": "../virtual/backpack/v62A-027.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 42,
+            "y": 135,
+            "width": 40,
+            "height": 60
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/backpack/v62A-030.jpg-1": {
+      "filename": "../virtual/backpack/v62A-030.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 20,
+            "y": 131,
+            "width": 48,
+            "height": 65
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/backpack/v62A-031.jpg-1": {
+      "filename": "../virtual/backpack/v62A-031.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 28,
+            "y": 129,
+            "width": 47,
+            "height": 67
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/backpack/v62A-032.jpg-1": {
+      "filename": "../virtual/backpack/v62A-032.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 35,
+            "y": 134,
+            "width": 45,
+            "height": 63
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "        ../virtual/helmet/v62A-004.jpg-1": {
+      "filename": "        ../virtual/helmet/v62A-004.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 124,
+            "y": 218,
+            "width": 29,
+            "height": 20
+          },
+          "region_attributes": {
+            "artifact": "helmet"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "        ../virtual/helmet/v62A-007.jpg-1": {
+      "filename": "        ../virtual/helmet/v62A-007.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 128,
+            "y": 218,
+            "width": 30,
+            "height": 21
+          },
+          "region_attributes": {
+            "artifact": "helmet"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "        ../virtual/helmet/v62A-010.jpg-1": {
+      "filename": "        ../virtual/helmet/v62A-010.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 165,
+            "y": 219,
+            "width": 29,
+            "height": 21
+          },
+          "region_attributes": {
+            "artifact": "helmet"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "        ../virtual/helmet/v62A-013.jpg-1": {
+      "filename": "        ../virtual/helmet/v62A-013.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 155,
+            "y": 218,
+            "width": 31,
+            "height": 21
+          },
+          "region_attributes": {
+            "artifact": "helmet"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "        ../virtual/helmet/v62A-016.jpg-1": {
+      "filename": "        ../virtual/helmet/v62A-016.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 134,
+            "y": 179,
+            "width": 36,
+            "height": 25
+          },
+          "region_attributes": {
+            "artifact": "helmet"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "        ../virtual/helmet/v62A-019.jpg-1": {
+      "filename": "        ../virtual/helmet/v62A-019.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 3,
+            "y": 171,
+            "width": 46,
+            "height": 29
+          },
+          "region_attributes": {
+            "artifact": "helmet"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "        ../virtual/helmet/v62A-022.jpg-1": {
+      "filename": "        ../virtual/helmet/v62A-022.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 226,
+            "y": 168,
+            "width": 55,
+            "height": 42
+          },
+          "region_attributes": {
+            "artifact": "helmet"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "        ../virtual/helmet/v62A-025.jpg-1": {
+      "filename": "        ../virtual/helmet/v62A-025.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 179,
+            "y": 163,
+            "width": 65,
+            "height": 47
+          },
+          "region_attributes": {
+            "artifact": "helmet"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "        ../virtual/helmet/v62A-028.jpg-1": {
+      "filename": "        ../virtual/helmet/v62A-028.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 136,
+            "y": 197,
+            "width": 84,
+            "height": 61
+          },
+          "region_attributes": {
+            "artifact": "helmet"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "        ../virtual/helmet/v62A-031.jpg-1": {
+      "filename": "        ../virtual/helmet/v62A-031.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 126,
+            "y": 215,
+            "width": 90,
+            "height": 61
+          },
+          "region_attributes": {
+            "artifact": "helmet"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "        ../virtual/helmet/v62A-032.jpg-1": {
+      "filename": "        ../virtual/helmet/v62A-032.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 99,
+            "y": 239,
+            "width": 158,
+            "height": 121
+          },
+          "region_attributes": {
+            "artifact": "helmet"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/rope/v62A-001.jpg-1": {
+      "filename": "../virtual/rope/v62A-001.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 537,
+            "y": 240,
+            "width": 78,
+            "height": 19
+          },
+          "region_attributes": {
+            "artifact": "rope"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "        ../virtual/rope/v62A-003.jpg-1": {
+      "filename": "        ../virtual/rope/v62A-003.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 523,
+            "y": 241,
+            "width": 78,
+            "height": 21
+          },
+          "region_attributes": {
+            "artifact": "rope"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "        ../virtual/rope/v62A-005.jpg-1": {
+      "filename": "        ../virtual/rope/v62A-005.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 513,
+            "y": 244,
+            "width": 85,
+            "height": 22
+          },
+          "region_attributes": {
+            "artifact": "rope"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "        ../virtual/rope/v62A-007.jpg-1": {
+      "filename": "        ../virtual/rope/v62A-007.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 500,
+            "y": 249,
+            "width": 94,
+            "height": 25
+          },
+          "region_attributes": {
+            "artifact": "rope"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "        ../virtual/rope/v62A-009.jpg-1": {
+      "filename": "        ../virtual/rope/v62A-009.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 486,
+            "y": 255,
+            "width": 104,
+            "height": 23
+          },
+          "region_attributes": {
+            "artifact": "rope"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "        ../virtual/rope/v62A-011.jpg-1": {
+      "filename": "        ../virtual/rope/v62A-011.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 475,
+            "y": 263,
+            "width": 113,
+            "height": 30
+          },
+          "region_attributes": {
+            "artifact": "rope"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "        ../virtual/rope/v62A-013.jpg-1": {
+      "filename": "        ../virtual/rope/v62A-013.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 462,
+            "y": 237,
+            "width": 137,
+            "height": 32
+          },
+          "region_attributes": {
+            "artifact": "rope"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "        ../virtual/rope/v62A-015.jpg-1": {
+      "filename": "        ../virtual/rope/v62A-015.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 495,
+            "y": 249,
+            "width": 143,
+            "height": 34
+          },
+          "region_attributes": {
+            "artifact": "rope"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "        ../virtual/rope/v62A-017.jpg-1": {
+      "filename": "        ../virtual/rope/v62A-017.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 511,
+            "y": 267,
+            "width": 129,
+            "height": 35
+          },
+          "region_attributes": {
+            "artifact": "rope"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "        ../virtual/rope/v62A-019.jpg-1": {
+      "filename": "        ../virtual/rope/v62A-019.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 522,
+            "y": 259,
+            "width": 115,
+            "height": 38
+          },
+          "region_attributes": {
+            "artifact": "rope"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "        ../virtual/rope/v62A-021.jpg-1": {
+      "filename": "        ../virtual/rope/v62A-021.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 536,
+            "y": 221,
+            "width": 99,
+            "height": 46
+          },
+          "region_attributes": {
+            "artifact": "rope"
+          }
+        }
+      ],
+      "file_attributes": {}
     }
   },
   "_via_attributes": {
