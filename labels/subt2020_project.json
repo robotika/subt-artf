@@ -9543,6 +9543,538 @@
         }
       ],
       "file_attributes": {}
+    },
+    "../virtual/survivor/survivor_000.jpg-1": {
+      "filename": "../virtual/survivor/survivor_000.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 54,
+            "y": 156,
+            "width": 36,
+            "height": 35
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/survivor_001.jpg-1": {
+      "filename": "../virtual/survivor/survivor_001.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 40,
+            "y": 156,
+            "width": 41,
+            "height": 35
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/survivor_002.jpg-1": {
+      "filename": "../virtual/survivor/survivor_002.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 45,
+            "y": 129,
+            "width": 43,
+            "height": 41
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/survivor_003.jpg-1": {
+      "filename": "../virtual/survivor/survivor_003.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 87,
+            "y": 126,
+            "width": 36,
+            "height": 38
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/survivor_004.jpg-1": {
+      "filename": "../virtual/survivor/survivor_004.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 171,
+            "y": 130,
+            "width": 37,
+            "height": 33
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/survivor_005.jpg-1": {
+      "filename": "../virtual/survivor/survivor_005.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 220,
+            "y": 132,
+            "width": 38,
+            "height": 32
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/survivor_006.jpg-1": {
+      "filename": "../virtual/survivor/survivor_006.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 380,
+            "y": 161,
+            "width": 40,
+            "height": 37
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/survivor_007.jpg-1": {
+      "filename": "../virtual/survivor/survivor_007.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 426,
+            "y": 160,
+            "width": 44,
+            "height": 40
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/survivor_008.jpg-1": {
+      "filename": "../virtual/survivor/survivor_008.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 437,
+            "y": 145,
+            "width": 46,
+            "height": 43
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/survivor_009.jpg-1": {
+      "filename": "../virtual/survivor/survivor_009.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 420,
+            "y": 111,
+            "width": 50,
+            "height": 48
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/survivor_010.jpg-1": {
+      "filename": "../virtual/survivor/survivor_010.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 418,
+            "y": 111,
+            "width": 53,
+            "height": 47
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/survivor_011.jpg-1": {
+      "filename": "../virtual/survivor/survivor_011.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 431,
+            "y": 164,
+            "width": 62,
+            "height": 52
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/survivor_012.jpg-1": {
+      "filename": "../virtual/survivor/survivor_012.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 433,
+            "y": 163,
+            "width": 59,
+            "height": 51
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/survivor_013.jpg-1": {
+      "filename": "../virtual/survivor/survivor_013.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 472,
+            "y": 157,
+            "width": 64,
+            "height": 63
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/survivor_014.jpg-1": {
+      "filename": "../virtual/survivor/survivor_014.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 481,
+            "y": 155,
+            "width": 75,
+            "height": 68
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/survivor_015.jpg-1": {
+      "filename": "../virtual/survivor/survivor_015.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 507,
+            "y": 155,
+            "width": 84,
+            "height": 73
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/survivor_016.jpg-1": {
+      "filename": "../virtual/survivor/survivor_016.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 522,
+            "y": 157,
+            "width": 80,
+            "height": 77
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/survivor_017.jpg-1": {
+      "filename": "../virtual/survivor/survivor_017.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 549,
+            "y": 161,
+            "width": 79,
+            "height": 78
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/survivor_018.jpg-1": {
+      "filename": "../virtual/survivor/survivor_018.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 530,
+            "y": 141,
+            "width": 104,
+            "height": 102
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/survivor_019.jpg-1": {
+      "filename": "../virtual/survivor/survivor_019.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 486,
+            "y": 156,
+            "width": 101,
+            "height": 90
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/survivor_020.jpg-1": {
+      "filename": "../virtual/survivor/survivor_020.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 351,
+            "y": 158,
+            "width": 91,
+            "height": 92
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/survivor_021.jpg-1": {
+      "filename": "../virtual/survivor/survivor_021.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 56,
+            "y": 154,
+            "width": 96,
+            "height": 97
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/survivor_022.jpg-1": {
+      "filename": "../virtual/survivor/survivor_022.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 415,
+            "y": 158,
+            "width": 45,
+            "height": 42
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/survivor_023.jpg-1": {
+      "filename": "../virtual/survivor/survivor_023.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 459,
+            "y": 130,
+            "width": 41,
+            "height": 36
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/survivor_024.jpg-1": {
+      "filename": "../virtual/survivor/survivor_024.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 27,
+            "y": 105,
+            "width": 63,
+            "height": 52
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/survivor_025.jpg-1": {
+      "filename": "../virtual/survivor/survivor_025.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 58,
+            "y": 105,
+            "width": 68,
+            "height": 54
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/survivor_026.jpg-1": {
+      "filename": "../virtual/survivor/survivor_026.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 161,
+            "y": 106,
+            "width": 53,
+            "height": 52
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/survivor_027.jpg-1": {
+      "filename": "../virtual/survivor/survivor_027.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 116,
+            "y": 105,
+            "width": 60,
+            "height": 52
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
     }
   },
   "_via_attributes": {
