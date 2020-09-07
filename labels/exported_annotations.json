@@ -18457,5 +18457,936 @@
       }
     ],
     "file_attributes": {}
+  },
+  "../virtual/helmet/freyja68q_001.jpg-1": {
+    "filename": "../virtual/helmet/freyja68q_001.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 289,
+          "y": 173,
+          "width": 17,
+          "height": 12
+        },
+        "region_attributes": {
+          "artifact": "helmet"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/helmet/freyja68q_002.jpg-1": {
+    "filename": "../virtual/helmet/freyja68q_002.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 311,
+          "y": 170,
+          "width": 20,
+          "height": 16
+        },
+        "region_attributes": {
+          "artifact": "helmet"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/helmet/freyja68q_003.jpg-1": {
+    "filename": "../virtual/helmet/freyja68q_003.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 308,
+          "y": 178,
+          "width": 27,
+          "height": 21
+        },
+        "region_attributes": {
+          "artifact": "helmet"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/helmet/freyja68q_004.jpg-1": {
+    "filename": "../virtual/helmet/freyja68q_004.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 315,
+          "y": 184,
+          "width": 45,
+          "height": 33
+        },
+        "region_attributes": {
+          "artifact": "helmet"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/helmet/freyja68q_005.jpg-1": {
+    "filename": "../virtual/helmet/freyja68q_005.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 306,
+          "y": 186,
+          "width": 56,
+          "height": 44
+        },
+        "region_attributes": {
+          "artifact": "helmet"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/helmet/freyja68q_006.jpg-1": {
+    "filename": "../virtual/helmet/freyja68q_006.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 314,
+          "y": 186,
+          "width": 72,
+          "height": 60
+        },
+        "region_attributes": {
+          "artifact": "helmet"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/helmet/freyja68q_007.jpg-1": {
+    "filename": "../virtual/helmet/freyja68q_007.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 321,
+          "y": 194,
+          "width": 125,
+          "height": 101
+        },
+        "region_attributes": {
+          "artifact": "helmet"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/helmet/freyja68q_008.jpg-1": {
+    "filename": "../virtual/helmet/freyja68q_008.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 265,
+          "y": 195,
+          "width": 119,
+          "height": 91
+        },
+        "region_attributes": {
+          "artifact": "helmet"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/helmet/freyja68q_009.jpg-1": {
+    "filename": "../virtual/helmet/freyja68q_009.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 289,
+          "y": 184,
+          "width": 73,
+          "height": 53
+        },
+        "region_attributes": {
+          "artifact": "helmet"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/helmet/freyja68q_010.jpg-1": {
+    "filename": "../virtual/helmet/freyja68q_010.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 300,
+          "y": 183,
+          "width": 52,
+          "height": 36
+        },
+        "region_attributes": {
+          "artifact": "helmet"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/helmet/freyja68q_011.jpg-1": {
+    "filename": "../virtual/helmet/freyja68q_011.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 305,
+          "y": 180,
+          "width": 39,
+          "height": 29
+        },
+        "region_attributes": {
+          "artifact": "helmet"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/helmet/freyja68q_012.jpg-1": {
+    "filename": "../virtual/helmet/freyja68q_012.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 306,
+          "y": 180,
+          "width": 34,
+          "height": 25
+        },
+        "region_attributes": {
+          "artifact": "helmet"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/helmet/freyja68q_013.jpg-1": {
+    "filename": "../virtual/helmet/freyja68q_013.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 352,
+          "y": 181,
+          "width": 32,
+          "height": 21
+        },
+        "region_attributes": {
+          "artifact": "helmet"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/helmet/freyja68q_014.jpg-1": {
+    "filename": "../virtual/helmet/freyja68q_014.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 429,
+          "y": 179,
+          "width": 51,
+          "height": 30
+        },
+        "region_attributes": {
+          "artifact": "helmet"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/helmet/freyja68q_015.jpg-1": {
+    "filename": "../virtual/helmet/freyja68q_015.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 463,
+          "y": 180,
+          "width": 65,
+          "height": 32
+        },
+        "region_attributes": {
+          "artifact": "helmet"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/helmet/freyja68q_016.jpg-1": {
+    "filename": "../virtual/helmet/freyja68q_016.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 562,
+          "y": 182,
+          "width": 77,
+          "height": 40
+        },
+        "region_attributes": {
+          "artifact": "helmet"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/helmet/freyja68q_017.jpg-1": {
+    "filename": "../virtual/helmet/freyja68q_017.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 531,
+          "y": 155,
+          "width": 68,
+          "height": 24
+        },
+        "region_attributes": {
+          "artifact": "helmet"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/helmet/freyja68q_018.jpg-1": {
+    "filename": "../virtual/helmet/freyja68q_018.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 529,
+          "y": 152,
+          "width": 76,
+          "height": 27
+        },
+        "region_attributes": {
+          "artifact": "helmet"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/helmet/freyja68q_019.jpg-1": {
+    "filename": "../virtual/helmet/freyja68q_019.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 576,
+          "y": 154,
+          "width": 64,
+          "height": 26
+        },
+        "region_attributes": {
+          "artifact": "helmet"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/helmet/x4-68q_001.jpg-1": {
+    "filename": "../virtual/helmet/x4-68q_001.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 557,
+          "y": 231,
+          "width": 19,
+          "height": 16
+        },
+        "region_attributes": {
+          "artifact": "helmet"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/helmet/x4-68q_002.jpg-1": {
+    "filename": "../virtual/helmet/x4-68q_002.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 550,
+          "y": 247,
+          "width": 20,
+          "height": 14
+        },
+        "region_attributes": {
+          "artifact": "helmet"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/helmet/x4-68q_003.jpg-1": {
+    "filename": "../virtual/helmet/x4-68q_003.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 475,
+          "y": 299,
+          "width": 22,
+          "height": 15
+        },
+        "region_attributes": {
+          "artifact": "helmet"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/helmet/x4-68q_004.jpg-1": {
+    "filename": "../virtual/helmet/x4-68q_004.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 397,
+          "y": 285,
+          "width": 21,
+          "height": 14
+        },
+        "region_attributes": {
+          "artifact": "helmet"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/helmet/x4-68q_005.jpg-1": {
+    "filename": "../virtual/helmet/x4-68q_005.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 355,
+          "y": 291,
+          "width": 24,
+          "height": 14
+        },
+        "region_attributes": {
+          "artifact": "helmet"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/helmet/x4-68q_006.jpg-1": {
+    "filename": "../virtual/helmet/x4-68q_006.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 272,
+          "y": 320,
+          "width": 25,
+          "height": 15
+        },
+        "region_attributes": {
+          "artifact": "helmet"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/helmet/x4-68q_007.jpg-1": {
+    "filename": "../virtual/helmet/x4-68q_007.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 229,
+          "y": 337,
+          "width": 24,
+          "height": 16
+        },
+        "region_attributes": {
+          "artifact": "helmet"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/helmet/x4-68q_008.jpg-1": {
+    "filename": "../virtual/helmet/x4-68q_008.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 140,
+          "y": 365,
+          "width": 28,
+          "height": 18
+        },
+        "region_attributes": {
+          "artifact": "helmet"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/helmet/x4-68q_009.jpg-1": {
+    "filename": "../virtual/helmet/x4-68q_009.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 132,
+          "y": 332,
+          "width": 31,
+          "height": 21
+        },
+        "region_attributes": {
+          "artifact": "helmet"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/helmet/x4-68q_010.jpg-1": {
+    "filename": "../virtual/helmet/x4-68q_010.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 105,
+          "y": 370,
+          "width": 36,
+          "height": 24
+        },
+        "region_attributes": {
+          "artifact": "helmet"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/helmet/x4-68q_011.jpg-1": {
+    "filename": "../virtual/helmet/x4-68q_011.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 60,
+          "y": 435,
+          "width": 46,
+          "height": 29
+        },
+        "region_attributes": {
+          "artifact": "helmet"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/helmet/x4-68q_012.jpg-1": {
+    "filename": "../virtual/helmet/x4-68q_012.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 82,
+          "y": 402,
+          "width": 40,
+          "height": 24
+        },
+        "region_attributes": {
+          "artifact": "helmet"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/robot/x4-68q_001.jpg-1": {
+    "filename": "../virtual/robot/x4-68q_001.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 2,
+          "y": 120,
+          "width": 131,
+          "height": 98
+        },
+        "region_attributes": {
+          "artifact": "robot"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/robot/x4-68q_002.jpg-1": {
+    "filename": "../virtual/robot/x4-68q_002.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1,
+          "y": 162,
+          "width": 279,
+          "height": 86
+        },
+        "region_attributes": {
+          "artifact": "robot"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/robot/x4-68q_003.jpg-1": {
+    "filename": "../virtual/robot/x4-68q_003.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 140,
+          "y": 180,
+          "width": 282,
+          "height": 88
+        },
+        "region_attributes": {
+          "artifact": "robot"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/robot/x4-68q_004.jpg-1": {
+    "filename": "../virtual/robot/x4-68q_004.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 245,
+          "y": 203,
+          "width": 268,
+          "height": 85
+        },
+        "region_attributes": {
+          "artifact": "robot"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/robot/x4-68q_005.jpg-1": {
+    "filename": "../virtual/robot/x4-68q_005.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 351,
+          "y": 219,
+          "width": 235,
+          "height": 74
+        },
+        "region_attributes": {
+          "artifact": "robot"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/robot/x4-68q_006.jpg-1": {
+    "filename": "../virtual/robot/x4-68q_006.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 429,
+          "y": 229,
+          "width": 198,
+          "height": 69
+        },
+        "region_attributes": {
+          "artifact": "robot"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/robot/x4-68q_007.jpg-1": {
+    "filename": "../virtual/robot/x4-68q_007.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 418,
+          "y": 226,
+          "width": 35,
+          "height": 12
+        },
+        "region_attributes": {
+          "artifact": "robot"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/robot/x4-68q_008.jpg-1": {
+    "filename": "../virtual/robot/x4-68q_008.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 478,
+          "y": 237,
+          "width": 43,
+          "height": 13
+        },
+        "region_attributes": {
+          "artifact": "robot"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/robot/x4-68q_009.jpg-1": {
+    "filename": "../virtual/robot/x4-68q_009.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 183,
+          "y": 207,
+          "width": 33,
+          "height": 13
+        },
+        "region_attributes": {
+          "artifact": "robot"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/robot/x4-68q_010.jpg-1": {
+    "filename": "../virtual/robot/x4-68q_010.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 88,
+          "y": 176,
+          "width": 38,
+          "height": 14
+        },
+        "region_attributes": {
+          "artifact": "robot"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/robot/x4-68q_011.jpg-1": {
+    "filename": "../virtual/robot/x4-68q_011.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 176,
+          "y": 216,
+          "width": 38,
+          "height": 11
+        },
+        "region_attributes": {
+          "artifact": "robot"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/rope/x4-68q_001.jpg-1": {
+    "filename": "../virtual/rope/x4-68q_001.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 524,
+          "y": 330,
+          "width": 35,
+          "height": 21
+        },
+        "region_attributes": {
+          "artifact": "rope"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/rope/x4-68q_002.jpg-1": {
+    "filename": "../virtual/rope/x4-68q_002.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 483,
+          "y": 332,
+          "width": 36,
+          "height": 22
+        },
+        "region_attributes": {
+          "artifact": "rope"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/rope/x4-68q_003.jpg-1": {
+    "filename": "../virtual/rope/x4-68q_003.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 397,
+          "y": 304,
+          "width": 37,
+          "height": 18
+        },
+        "region_attributes": {
+          "artifact": "rope"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/rope/x4-68q_004.jpg-1": {
+    "filename": "../virtual/rope/x4-68q_004.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 286,
+          "y": 332,
+          "width": 44,
+          "height": 20
+        },
+        "region_attributes": {
+          "artifact": "rope"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/rope/x4-68q_005.jpg-1": {
+    "filename": "../virtual/rope/x4-68q_005.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 145,
+          "y": 346,
+          "width": 47,
+          "height": 27
+        },
+        "region_attributes": {
+          "artifact": "rope"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/rope/x4-68q_006.jpg-1": {
+    "filename": "../virtual/rope/x4-68q_006.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 60,
+          "y": 353,
+          "width": 57,
+          "height": 28
+        },
+        "region_attributes": {
+          "artifact": "rope"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/rope/x4-68q_007.jpg-1": {
+    "filename": "../virtual/rope/x4-68q_007.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1,
+          "y": 363,
+          "width": 36,
+          "height": 28
+        },
+        "region_attributes": {
+          "artifact": "rope"
+        }
+      }
+    ],
+    "file_attributes": {}
   }
 }
