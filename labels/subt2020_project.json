@@ -20549,6 +20549,1089 @@
         }
       ],
       "file_attributes": {}
+    },
+    "../virtual/errors/zmq-subt-x2-200525_174428-TYPE_RESCUE_RANDY-228.jpg-1": {
+      "filename": "../virtual/errors/zmq-subt-x2-200525_174428-TYPE_RESCUE_RANDY-228.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 5,
+            "y": 184,
+            "width": 187,
+            "height": 66
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/errors/zmq-subt-x2-200526_193732-TYPE_RESCUE_RANDY-218.jpg-1": {
+      "filename": "../virtual/errors/zmq-subt-x2-200526_193732-TYPE_RESCUE_RANDY-218.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 9,
+            "y": 33,
+            "width": 285,
+            "height": 324
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 11,
+            "y": 190,
+            "width": 623,
+            "height": 162
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/errors/zmq-subt-x2-200526_193732-TYPE_RESCUE_RANDY-225.jpg-1": {
+      "filename": "../virtual/errors/zmq-subt-x2-200526_193732-TYPE_RESCUE_RANDY-225.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1,
+            "y": 145,
+            "width": 638,
+            "height": 213
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/errors/zmq-subt-x2-200526_193732-TYPE_RESCUE_RANDY-226.jpg-1": {
+      "filename": "../virtual/errors/zmq-subt-x2-200526_193732-TYPE_RESCUE_RANDY-226.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 3,
+            "y": 239,
+            "width": 634,
+            "height": 119
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/errors/zmq-subt-x2-200526_193732-TYPE_RESCUE_RANDY-228.jpg-1": {
+      "filename": "../virtual/errors/zmq-subt-x2-200526_193732-TYPE_RESCUE_RANDY-228.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 3,
+            "y": 275,
+            "width": 635,
+            "height": 83
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 89,
+            "y": 185,
+            "width": 543,
+            "height": 91
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/errors/zmq-subt-x2-200526_193732-TYPE_RESCUE_RANDY-230.jpg-1": {
+      "filename": "../virtual/errors/zmq-subt-x2-200526_193732-TYPE_RESCUE_RANDY-230.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 5,
+            "y": 100,
+            "width": 633,
+            "height": 257
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/errors/zmq-subt-x2-200526_193732-TYPE_RESCUE_RANDY-231.jpg-1": {
+      "filename": "../virtual/errors/zmq-subt-x2-200526_193732-TYPE_RESCUE_RANDY-231.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 5,
+            "y": 101,
+            "width": 633,
+            "height": 257
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/errors/zmq-subt-x2-200526_193732-TYPE_RESCUE_RANDY-232.jpg-1": {
+      "filename": "../virtual/errors/zmq-subt-x2-200526_193732-TYPE_RESCUE_RANDY-232.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 3,
+            "y": 123,
+            "width": 634,
+            "height": 235
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/errors/zmq-subt-x2-200526_193732-TYPE_RESCUE_RANDY-233.jpg-1": {
+      "filename": "../virtual/errors/zmq-subt-x2-200526_193732-TYPE_RESCUE_RANDY-233.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 4,
+            "y": 45,
+            "width": 633,
+            "height": 314
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/errors/zmq-subt-x2-200526_193732-TYPE_RESCUE_RANDY-238.jpg-1": {
+      "filename": "../virtual/errors/zmq-subt-x2-200526_193732-TYPE_RESCUE_RANDY-238.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 2,
+            "y": 80,
+            "width": 635,
+            "height": 278
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/errors/zmq-subt-x2-200526_193732-TYPE_RESCUE_RANDY-239.jpg-1": {
+      "filename": "../virtual/errors/zmq-subt-x2-200526_193732-TYPE_RESCUE_RANDY-239.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 2,
+            "y": 132,
+            "width": 631,
+            "height": 225
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/errors/zmq-subt-x2-200526_193732-TYPE_RESCUE_RANDY-240.jpg-1": {
+      "filename": "../virtual/errors/zmq-subt-x2-200526_193732-TYPE_RESCUE_RANDY-240.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 5,
+            "y": 169,
+            "width": 548,
+            "height": 188
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/errors/zmq-subt-x2-200526_193732-TYPE_RESCUE_RANDY-241.jpg-1": {
+      "filename": "../virtual/errors/zmq-subt-x2-200526_193732-TYPE_RESCUE_RANDY-241.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 5,
+            "y": 168,
+            "width": 535,
+            "height": 189
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/errors/zmq-subt-x2-200526_193732-TYPE_RESCUE_RANDY-247.jpg-1": {
+      "filename": "../virtual/errors/zmq-subt-x2-200526_193732-TYPE_RESCUE_RANDY-247.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 4,
+            "y": 158,
+            "width": 634,
+            "height": 200
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/errors/zmq-subt-x2-200526_193732-TYPE_RESCUE_RANDY-248.jpg-1": {
+      "filename": "../virtual/errors/zmq-subt-x2-200526_193732-TYPE_RESCUE_RANDY-248.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 3,
+            "y": 211,
+            "width": 635,
+            "height": 146
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/errors/zmq-subt-x2-200526_193732-TYPE_RESCUE_RANDY-249.jpg-1": {
+      "filename": "../virtual/errors/zmq-subt-x2-200526_193732-TYPE_RESCUE_RANDY-249.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 3,
+            "y": 224,
+            "width": 635,
+            "height": 134
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/errors/zmq-subt-x2-200526_193732-TYPE_RESCUE_RANDY-251.jpg-1": {
+      "filename": "../virtual/errors/zmq-subt-x2-200526_193732-TYPE_RESCUE_RANDY-251.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1,
+            "y": 261,
+            "width": 637,
+            "height": 97
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/errors/zmq-subt-x2-200526_193732-TYPE_RESCUE_RANDY-252.jpg-1": {
+      "filename": "../virtual/errors/zmq-subt-x2-200526_193732-TYPE_RESCUE_RANDY-252.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 2,
+            "y": 221,
+            "width": 637,
+            "height": 137
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/errors/zmq-subt-x2-200526_193732-TYPE_RESCUE_RANDY-254.jpg-1": {
+      "filename": "../virtual/errors/zmq-subt-x2-200526_193732-TYPE_RESCUE_RANDY-254.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 6,
+            "y": 151,
+            "width": 632,
+            "height": 207
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 472,
+            "y": 2,
+            "width": 165,
+            "height": 143
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/errors/zmq-subt-x2-200526_193732-TYPE_RESCUE_RANDY-255.jpg-1": {
+      "filename": "../virtual/errors/zmq-subt-x2-200526_193732-TYPE_RESCUE_RANDY-255.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 2,
+            "y": 185,
+            "width": 636,
+            "height": 173
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 461,
+            "y": 4,
+            "width": 173,
+            "height": 142
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/errors/zmq-subt-x2-200526_193732-TYPE_RESCUE_RANDY-256.jpg-1": {
+      "filename": "../virtual/errors/zmq-subt-x2-200526_193732-TYPE_RESCUE_RANDY-256.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 4,
+            "y": 157,
+            "width": 634,
+            "height": 202
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 459,
+            "y": 4,
+            "width": 178,
+            "height": 142
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/errors/zmq-subt-x2-200526_193732-TYPE_RESCUE_RANDY-258.jpg-1": {
+      "filename": "../virtual/errors/zmq-subt-x2-200526_193732-TYPE_RESCUE_RANDY-258.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 3,
+            "y": 173,
+            "width": 635,
+            "height": 186
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 479,
+            "y": 6,
+            "width": 148,
+            "height": 140
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/errors/zmq-subt-x2-200526_193732-TYPE_RESCUE_RANDY-259.jpg-1": {
+      "filename": "../virtual/errors/zmq-subt-x2-200526_193732-TYPE_RESCUE_RANDY-259.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 3,
+            "y": 207,
+            "width": 635,
+            "height": 151
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/errors/zmq-subt-x2-200526_193732-TYPE_RESCUE_RANDY-260.jpg-1": {
+      "filename": "../virtual/errors/zmq-subt-x2-200526_193732-TYPE_RESCUE_RANDY-260.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 2,
+            "y": 207,
+            "width": 635,
+            "height": 151
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/errors/zmq-subt-x2-200526_193732-TYPE_RESCUE_RANDY-261.jpg-1": {
+      "filename": "../virtual/errors/zmq-subt-x2-200526_193732-TYPE_RESCUE_RANDY-261.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1,
+            "y": 215,
+            "width": 637,
+            "height": 143
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/errors/zmq-subt-x2-200526_193732-TYPE_RESCUE_RANDY-262.jpg-1": {
+      "filename": "../virtual/errors/zmq-subt-x2-200526_193732-TYPE_RESCUE_RANDY-262.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 3,
+            "y": 227,
+            "width": 635,
+            "height": 130
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 475,
+            "y": 1,
+            "width": 160,
+            "height": 170
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/errors/zmq-subt-x2-200526_193732-TYPE_RESCUE_RANDY-340.jpg-1": {
+      "filename": "../virtual/errors/zmq-subt-x2-200526_193732-TYPE_RESCUE_RANDY-340.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 2,
+            "y": 35,
+            "width": 637,
+            "height": 324
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/errors/zmq-subt-x2-200526_193732-TYPE_RESCUE_RANDY-348.jpg-1": {
+      "filename": "../virtual/errors/zmq-subt-x2-200526_193732-TYPE_RESCUE_RANDY-348.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 4,
+            "y": 289,
+            "width": 633,
+            "height": 69
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 4,
+            "y": 55,
+            "width": 95,
+            "height": 63
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 133,
+            "y": 26,
+            "width": 153,
+            "height": 51
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/errors/zmq-subt-x2-200527_081634-TYPE_ROPE-195.jpg-1": {
+      "filename": "../virtual/errors/zmq-subt-x2-200527_081634-TYPE_ROPE-195.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 121,
+            "y": 107,
+            "width": 69,
+            "height": 33
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 5,
+            "y": 55,
+            "width": 216,
+            "height": 160
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 245,
+            "y": 61,
+            "width": 301,
+            "height": 8
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 405,
+            "y": 71,
+            "width": 132,
+            "height": 84
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 403,
+            "y": 1,
+            "width": 136,
+            "height": 57
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/errors/zmq-subt-x2-200527_081634-TYPE_ROPE-196.jpg-1": {
+      "filename": "../virtual/errors/zmq-subt-x2-200527_081634-TYPE_ROPE-196.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 5,
+            "y": 79,
+            "width": 85,
+            "height": 49
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 0,
+            "y": 122,
+            "width": 126,
+            "height": 103
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 179,
+            "y": 46,
+            "width": 322,
+            "height": 17
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 357,
+            "y": 66,
+            "width": 133,
+            "height": 93
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 357,
+            "y": 3,
+            "width": 139,
+            "height": 50
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/errors/zmq-subt-x2-200527_081634-TYPE_ROPE-223.jpg-1": {
+      "filename": "../virtual/errors/zmq-subt-x2-200527_081634-TYPE_ROPE-223.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 3,
+            "y": 171,
+            "width": 14,
+            "height": 22
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 79,
+            "y": 95,
+            "width": 83,
+            "height": 87
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 357,
+            "y": 96,
+            "width": 42,
+            "height": 43
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 327,
+            "y": 132,
+            "width": 45,
+            "height": 68
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 253,
+            "y": 133,
+            "width": 71,
+            "height": 65
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 257,
+            "y": 7,
+            "width": 23,
+            "height": 51
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 213,
+            "y": 73,
+            "width": 20,
+            "height": 77
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 327,
+            "y": 75,
+            "width": 11,
+            "height": 11
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/errors/zmq-subt-x2-200527_081634-TYPE_ROPE-224.jpg-1": {
+      "filename": "../virtual/errors/zmq-subt-x2-200527_081634-TYPE_ROPE-224.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 28,
+            "y": 171,
+            "width": 22,
+            "height": 24
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 122,
+            "y": 88,
+            "width": 83,
+            "height": 95
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 254,
+            "y": 59,
+            "width": 21,
+            "height": 89
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 305,
+            "y": 1,
+            "width": 25,
+            "height": 40
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 305,
+            "y": 123,
+            "width": 83,
+            "height": 81
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 391,
+            "y": 122,
+            "width": 57,
+            "height": 84
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 427,
+            "y": 76,
+            "width": 54,
+            "height": 47
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 388,
+            "y": 55,
+            "width": 13,
+            "height": 10
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/errors/zmq-subt-x2-200527_081634-TYPE_ROPE-225.jpg-1": {
+      "filename": "../virtual/errors/zmq-subt-x2-200527_081634-TYPE_ROPE-225.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 48,
+            "y": 171,
+            "width": 21,
+            "height": 25
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 142,
+            "y": 83,
+            "width": 83,
+            "height": 103
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 275,
+            "y": 53,
+            "width": 24,
+            "height": 92
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 330,
+            "y": 121,
+            "width": 88,
+            "height": 85
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 425,
+            "y": 116,
+            "width": 62,
+            "height": 91
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 330,
+            "y": 2,
+            "width": 25,
+            "height": 30
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 421,
+            "y": 42,
+            "width": 12,
+            "height": 12
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 465,
+            "y": 61,
+            "width": 61,
+            "height": 61
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        }
+      ],
+      "file_attributes": {}
     }
   },
   "_via_attributes": {
