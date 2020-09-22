@@ -21632,6 +21632,7869 @@
         }
       ],
       "file_attributes": {}
+    },
+    "../virtual/backpack/local_J00_001.jpg-1": {
+      "filename": "../virtual/backpack/local_J00_001.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 306,
+            "y": 243,
+            "width": 25,
+            "height": 34
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/backpack/local_J00_002.jpg-1": {
+      "filename": "../virtual/backpack/local_J00_002.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 25,
+            "y": 192,
+            "width": 39,
+            "height": 47
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 77,
+            "y": 0,
+            "width": 103,
+            "height": 39
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/backpack/local_J00_003.jpg-1": {
+      "filename": "../virtual/backpack/local_J00_003.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": -1,
+            "y": 234,
+            "width": 37,
+            "height": 61
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/backpack/local_J00_004.jpg-1": {
+      "filename": "../virtual/backpack/local_J00_004.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 6,
+            "y": 201,
+            "width": 43,
+            "height": 49
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/backpack/local_J00_005.jpg-1": {
+      "filename": "../virtual/backpack/local_J00_005.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 6,
+            "y": 201,
+            "width": 44,
+            "height": 49
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/backpack/local_J00_006.jpg-1": {
+      "filename": "../virtual/backpack/local_J00_006.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 77,
+            "y": 1,
+            "width": 79,
+            "height": 29
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 25,
+            "y": 195,
+            "width": 39,
+            "height": 45
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/backpack/local_J00_007.jpg-1": {
+      "filename": "../virtual/backpack/local_J00_007.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 470,
+            "y": 186,
+            "width": 18,
+            "height": 23
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 547,
+            "y": 5,
+            "width": 89,
+            "height": 32
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/backpack/local_J00_008.jpg-1": {
+      "filename": "../virtual/backpack/local_J00_008.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 588,
+            "y": 192,
+            "width": 20,
+            "height": 26
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/backpack/local_J00_009.jpg-1": {
+      "filename": "../virtual/backpack/local_J00_009.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 540,
+            "y": 187,
+            "width": 19,
+            "height": 25
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/backpack/local_J08_000.jpg-1": {
+      "filename": "../virtual/backpack/local_J08_000.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 450,
+            "y": 299,
+            "width": 18,
+            "height": 22
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/backpack/local_J08_001.jpg-1": {
+      "filename": "../virtual/backpack/local_J08_001.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 557,
+            "y": 300,
+            "width": 18,
+            "height": 21
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/backpack/local_J08_002.jpg-1": {
+      "filename": "../virtual/backpack/local_J08_002.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 572,
+            "y": 326,
+            "width": 26,
+            "height": 29
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/backpack/local_J08_003.jpg-1": {
+      "filename": "../virtual/backpack/local_J08_003.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 523,
+            "y": 316,
+            "width": 23,
+            "height": 24
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/backpack/local_J08_004.jpg-1": {
+      "filename": "../virtual/backpack/local_J08_004.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 480,
+            "y": 311,
+            "width": 24,
+            "height": 25
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/backpack/local_J08_005.jpg-1": {
+      "filename": "../virtual/backpack/local_J08_005.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 446,
+            "y": 303,
+            "width": 22,
+            "height": 25
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/backpack/local_J08_006.jpg-1": {
+      "filename": "../virtual/backpack/local_J08_006.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 416,
+            "y": 303,
+            "width": 21,
+            "height": 28
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/backpack/local_J08_007.jpg-1": {
+      "filename": "../virtual/backpack/local_J08_007.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 384,
+            "y": 309,
+            "width": 23,
+            "height": 25
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/backpack/local_J08_008.jpg-1": {
+      "filename": "../virtual/backpack/local_J08_008.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 353,
+            "y": 316,
+            "width": 22,
+            "height": 27
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/backpack/local_J08_009.jpg-1": {
+      "filename": "../virtual/backpack/local_J08_009.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 324,
+            "y": 322,
+            "width": 23,
+            "height": 28
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/backpack/local_J08_010.jpg-1": {
+      "filename": "../virtual/backpack/local_J08_010.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 305,
+            "y": 316,
+            "width": 22,
+            "height": 28
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/backpack/local_J08_011.jpg-1": {
+      "filename": "../virtual/backpack/local_J08_011.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 285,
+            "y": 318,
+            "width": 23,
+            "height": 30
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/backpack/local_J08_012.jpg-1": {
+      "filename": "../virtual/backpack/local_J08_012.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 266,
+            "y": 322,
+            "width": 22,
+            "height": 30
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/backpack/local_J08_013.jpg-1": {
+      "filename": "../virtual/backpack/local_J08_013.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 233,
+            "y": 334,
+            "width": 26,
+            "height": 34
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/backpack/local_J08_014.jpg-1": {
+      "filename": "../virtual/backpack/local_J08_014.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 252,
+            "y": 345,
+            "width": 28,
+            "height": 35
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/backpack/local_J08_015.jpg-1": {
+      "filename": "../virtual/backpack/local_J08_015.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 276,
+            "y": 345,
+            "width": 29,
+            "height": 36
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/backpack/local_J08_016.jpg-1": {
+      "filename": "../virtual/backpack/local_J08_016.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 300,
+            "y": 346,
+            "width": 29,
+            "height": 35
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/backpack/local_J08_017.jpg-1": {
+      "filename": "../virtual/backpack/local_J08_017.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 326,
+            "y": 346,
+            "width": 29,
+            "height": 39
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/backpack/local_J08_018.jpg-1": {
+      "filename": "../virtual/backpack/local_J08_018.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 348,
+            "y": 350,
+            "width": 29,
+            "height": 39
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/backpack/local_J08_019.jpg-1": {
+      "filename": "../virtual/backpack/local_J08_019.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 360,
+            "y": 340,
+            "width": 31,
+            "height": 39
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/backpack/local_J08_020.jpg-1": {
+      "filename": "../virtual/backpack/local_J08_020.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 375,
+            "y": 345,
+            "width": 32,
+            "height": 40
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/backpack/local_J08_021.jpg-1": {
+      "filename": "../virtual/backpack/local_J08_021.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 405,
+            "y": 371,
+            "width": 36,
+            "height": 44
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/backpack/local_J08_022.jpg-1": {
+      "filename": "../virtual/backpack/local_J08_022.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 420,
+            "y": 375,
+            "width": 38,
+            "height": 47
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/backpack/local_J08_023.jpg-1": {
+      "filename": "../virtual/backpack/local_J08_023.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 431,
+            "y": 376,
+            "width": 38,
+            "height": 51
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/backpack/local_J08_024.jpg-1": {
+      "filename": "../virtual/backpack/local_J08_024.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 442,
+            "y": 386,
+            "width": 39,
+            "height": 52
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/backpack/local_J08_025.jpg-1": {
+      "filename": "../virtual/backpack/local_J08_025.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 455,
+            "y": 393,
+            "width": 43,
+            "height": 56
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/backpack/local_J08_026.jpg-1": {
+      "filename": "../virtual/backpack/local_J08_026.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 469,
+            "y": 406,
+            "width": 44,
+            "height": 58
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/backpack/local_J08_067.jpg-1": {
+      "filename": "../virtual/backpack/local_J08_067.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 200,
+            "y": 322,
+            "width": 14,
+            "height": 15
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/backpack/local_J08_068.jpg-1": {
+      "filename": "../virtual/backpack/local_J08_068.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 119,
+            "y": 321,
+            "width": 14,
+            "height": 15
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/backpack/local_J08_069.jpg-1": {
+      "filename": "../virtual/backpack/local_J08_069.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 29,
+            "y": 321,
+            "width": 13,
+            "height": 16
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/backpack/local_J08_070.jpg-1": {
+      "filename": "../virtual/backpack/local_J08_070.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 15,
+            "y": 335,
+            "width": 18,
+            "height": 19
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/backpack/local_J08_071.jpg-1": {
+      "filename": "../virtual/backpack/local_J08_071.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 41,
+            "y": 325,
+            "width": 19,
+            "height": 21
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/backpack/local_J08_072.jpg-1": {
+      "filename": "../virtual/backpack/local_J08_072.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 70,
+            "y": 321,
+            "width": 17,
+            "height": 21
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/backpack/local_J08_073.jpg-1": {
+      "filename": "../virtual/backpack/local_J08_073.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 88,
+            "y": 319,
+            "width": 17,
+            "height": 20
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/backpack/local_J08_074.jpg-1": {
+      "filename": "../virtual/backpack/local_J08_074.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 80,
+            "y": 303,
+            "width": 19,
+            "height": 20
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/backpack/local_J08_075.jpg-1": {
+      "filename": "../virtual/backpack/local_J08_075.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 69,
+            "y": 306,
+            "width": 17,
+            "height": 22
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/backpack/local_J08_076.jpg-1": {
+      "filename": "../virtual/backpack/local_J08_076.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 55,
+            "y": 321,
+            "width": 18,
+            "height": 22
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/backpack/local_J08_077.jpg-1": {
+      "filename": "../virtual/backpack/local_J08_077.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 40,
+            "y": 331,
+            "width": 19,
+            "height": 24
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/backpack/local_J08_078.jpg-1": {
+      "filename": "../virtual/backpack/local_J08_078.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 35,
+            "y": 330,
+            "width": 20,
+            "height": 26
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/backpack/local_J08_079.jpg-1": {
+      "filename": "../virtual/backpack/local_J08_079.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 70,
+            "y": 346,
+            "width": 21,
+            "height": 27
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/backpack/local_J08_080.jpg-1": {
+      "filename": "../virtual/backpack/local_J08_080.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 110,
+            "y": 342,
+            "width": 20,
+            "height": 26
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/backpack/local_J08_081.jpg-1": {
+      "filename": "../virtual/backpack/local_J08_081.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 149,
+            "y": 326,
+            "width": 21,
+            "height": 23
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/backpack/local_J08_082.jpg-1": {
+      "filename": "../virtual/backpack/local_J08_082.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 188,
+            "y": 314,
+            "width": 21,
+            "height": 26
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/backpack/local_J08_083.jpg-1": {
+      "filename": "../virtual/backpack/local_J08_083.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 233,
+            "y": 317,
+            "width": 21,
+            "height": 24
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/backpack/local_J08_084.jpg-1": {
+      "filename": "../virtual/backpack/local_J08_084.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 302,
+            "y": 339,
+            "width": 20,
+            "height": 27
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/backpack/local_J08_085.jpg-1": {
+      "filename": "../virtual/backpack/local_J08_085.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 375,
+            "y": 342,
+            "width": 20,
+            "height": 25
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/backpack/local_J08_086.jpg-1": {
+      "filename": "../virtual/backpack/local_J08_086.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 452,
+            "y": 333,
+            "width": 19,
+            "height": 24
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/backpack/local_J08_087.jpg-1": {
+      "filename": "../virtual/backpack/local_J08_087.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 532,
+            "y": 326,
+            "width": 24,
+            "height": 29
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/backpack/local_J08_088.jpg-1": {
+      "filename": "../virtual/backpack/local_J08_088.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 610,
+            "y": 320,
+            "width": 26,
+            "height": 34
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/backpack/local_J08_089.jpg-1": {
+      "filename": "../virtual/backpack/local_J08_089.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 613,
+            "y": 345,
+            "width": 27,
+            "height": 44
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/backpack/local_J08_090.jpg-1": {
+      "filename": "../virtual/backpack/local_J08_090.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 581,
+            "y": 340,
+            "width": 34,
+            "height": 41
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/backpack/local_J08_091.jpg-1": {
+      "filename": "../virtual/backpack/local_J08_091.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 551,
+            "y": 339,
+            "width": 34,
+            "height": 42
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/backpack/local_J08_092.jpg-1": {
+      "filename": "../virtual/backpack/local_J08_092.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 527,
+            "y": 331,
+            "width": 34,
+            "height": 43
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/backpack/local_J08_093.jpg-1": {
+      "filename": "../virtual/backpack/local_J08_093.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 505,
+            "y": 333,
+            "width": 34,
+            "height": 43
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/backpack/local_J08_094.jpg-1": {
+      "filename": "../virtual/backpack/local_J08_094.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 483,
+            "y": 344,
+            "width": 33,
+            "height": 41
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/backpack/local_J08_095.jpg-1": {
+      "filename": "../virtual/backpack/local_J08_095.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 462,
+            "y": 345,
+            "width": 33,
+            "height": 44
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/backpack/local_J08_096.jpg-1": {
+      "filename": "../virtual/backpack/local_J08_096.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 441,
+            "y": 348,
+            "width": 32,
+            "height": 42
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/backpack/local_J08_097.jpg-1": {
+      "filename": "../virtual/backpack/local_J08_097.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 419,
+            "y": 350,
+            "width": 34,
+            "height": 45
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/backpack/local_J08_098.jpg-1": {
+      "filename": "../virtual/backpack/local_J08_098.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 396,
+            "y": 351,
+            "width": 34,
+            "height": 46
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/backpack/local_J08_099.jpg-1": {
+      "filename": "../virtual/backpack/local_J08_099.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 374,
+            "y": 356,
+            "width": 34,
+            "height": 46
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/backpack/local_J08_100.jpg-1": {
+      "filename": "../virtual/backpack/local_J08_100.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 352,
+            "y": 362,
+            "width": 35,
+            "height": 48
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/backpack/local_J08_101.jpg-1": {
+      "filename": "../virtual/backpack/local_J08_101.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 328,
+            "y": 368,
+            "width": 39,
+            "height": 50
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/backpack/local_J08_102.jpg-1": {
+      "filename": "../virtual/backpack/local_J08_102.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 312,
+            "y": 372,
+            "width": 38,
+            "height": 52
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/backpack/local_J08_103.jpg-1": {
+      "filename": "../virtual/backpack/local_J08_103.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 291,
+            "y": 377,
+            "width": 41,
+            "height": 54
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/backpack/local_J08_104.jpg-1": {
+      "filename": "../virtual/backpack/local_J08_104.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 271,
+            "y": 386,
+            "width": 41,
+            "height": 54
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/backpack/local_J08_105.jpg-1": {
+      "filename": "../virtual/backpack/local_J08_105.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 251,
+            "y": 393,
+            "width": 44,
+            "height": 60
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/backpack/local_J08_106.jpg-1": {
+      "filename": "../virtual/backpack/local_J08_106.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 225,
+            "y": 406,
+            "width": 46,
+            "height": 66
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/backpack/local_J08_107.jpg-1": {
+      "filename": "../virtual/backpack/local_J08_107.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 187,
+            "y": 431,
+            "width": 49,
+            "height": 49
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/backpack/local_J08_108.jpg-1": {
+      "filename": "../virtual/backpack/local_J08_108.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 150,
+            "y": 449,
+            "width": 52,
+            "height": 31
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/backpack/local_J08_109.jpg-1": {
+      "filename": "../virtual/backpack/local_J08_109.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 109,
+            "y": 461,
+            "width": 48,
+            "height": 18
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/helmet/local_J01_000.jpg-1": {
+      "filename": "../virtual/helmet/local_J01_000.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 374,
+            "y": 267,
+            "width": 13,
+            "height": 13
+          },
+          "region_attributes": {
+            "artifact": "helmet"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/helmet/local_J01_001.jpg-1": {
+      "filename": "../virtual/helmet/local_J01_001.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 375,
+            "y": 267,
+            "width": 13,
+            "height": 13
+          },
+          "region_attributes": {
+            "artifact": "helmet"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/helmet/local_J01_002.jpg-1": {
+      "filename": "../virtual/helmet/local_J01_002.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 365,
+            "y": 269,
+            "width": 12,
+            "height": 14
+          },
+          "region_attributes": {
+            "artifact": "helmet"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/helmet/local_J01_003.jpg-1": {
+      "filename": "../virtual/helmet/local_J01_003.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 359,
+            "y": 278,
+            "width": 16,
+            "height": 15
+          },
+          "region_attributes": {
+            "artifact": "helmet"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/helmet/local_J01_004.jpg-1": {
+      "filename": "../virtual/helmet/local_J01_004.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 401,
+            "y": 299,
+            "width": 16,
+            "height": 15
+          },
+          "region_attributes": {
+            "artifact": "helmet"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/helmet/local_J01_005.jpg-1": {
+      "filename": "../virtual/helmet/local_J01_005.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 447,
+            "y": 302,
+            "width": 17,
+            "height": 17
+          },
+          "region_attributes": {
+            "artifact": "helmet"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/helmet/local_J01_006.jpg-1": {
+      "filename": "../virtual/helmet/local_J01_006.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 419,
+            "y": 345,
+            "width": 20,
+            "height": 16
+          },
+          "region_attributes": {
+            "artifact": "helmet"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/helmet/local_J01_007.jpg-1": {
+      "filename": "../virtual/helmet/local_J01_007.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 339,
+            "y": 331,
+            "width": 16,
+            "height": 15
+          },
+          "region_attributes": {
+            "artifact": "helmet"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/helmet/local_J01_008.jpg-1": {
+      "filename": "../virtual/helmet/local_J01_008.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 245,
+            "y": 335,
+            "width": 21,
+            "height": 16
+          },
+          "region_attributes": {
+            "artifact": "helmet"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/helmet/local_J01_009.jpg-1": {
+      "filename": "../virtual/helmet/local_J01_009.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 86,
+            "y": 388,
+            "width": 24,
+            "height": 19
+          },
+          "region_attributes": {
+            "artifact": "helmet"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/helmet/local_J01_010.jpg-1": {
+      "filename": "../virtual/helmet/local_J01_010.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 171,
+            "y": 371,
+            "width": 19,
+            "height": 17
+          },
+          "region_attributes": {
+            "artifact": "helmet"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/helmet/local_J01_011.jpg-1": {
+      "filename": "../virtual/helmet/local_J01_011.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 0,
+            "y": 388,
+            "width": 19,
+            "height": 23
+          },
+          "region_attributes": {
+            "artifact": "helmet"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/helmet/local_J01_012.jpg-1": {
+      "filename": "../virtual/helmet/local_J01_012.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 571,
+            "y": 222,
+            "width": 12,
+            "height": 11
+          },
+          "region_attributes": {
+            "artifact": "helmet"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/helmet/local_J01_013.jpg-1": {
+      "filename": "../virtual/helmet/local_J01_013.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 624,
+            "y": 254,
+            "width": 13,
+            "height": 13
+          },
+          "region_attributes": {
+            "artifact": "helmet"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/helmet/local_J01_014.jpg-1": {
+      "filename": "../virtual/helmet/local_J01_014.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 625,
+            "y": 249,
+            "width": 12,
+            "height": 14
+          },
+          "region_attributes": {
+            "artifact": "helmet"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/helmet/local_J01_015.jpg-1": {
+      "filename": "../virtual/helmet/local_J01_015.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 255,
+            "y": 251,
+            "width": 9,
+            "height": 11
+          },
+          "region_attributes": {
+            "artifact": "helmet"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/helmet/local_J01_016.jpg-1": {
+      "filename": "../virtual/helmet/local_J01_016.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 120,
+            "y": 252,
+            "width": 9,
+            "height": 11
+          },
+          "region_attributes": {
+            "artifact": "helmet"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/helmet/local_J03_000.jpg-1": {
+      "filename": "../virtual/helmet/local_J03_000.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 630,
+            "y": 322,
+            "width": 9,
+            "height": 9
+          },
+          "region_attributes": {
+            "artifact": "helmet"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/helmet/local_J03_001.jpg-1": {
+      "filename": "../virtual/helmet/local_J03_001.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 576,
+            "y": 346,
+            "width": 13,
+            "height": 9
+          },
+          "region_attributes": {
+            "artifact": "helmet"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/helmet/local_J03_002.jpg-1": {
+      "filename": "../virtual/helmet/local_J03_002.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 524,
+            "y": 341,
+            "width": 11,
+            "height": 9
+          },
+          "region_attributes": {
+            "artifact": "helmet"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/helmet/local_J03_003.jpg-1": {
+      "filename": "../virtual/helmet/local_J03_003.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 474,
+            "y": 326,
+            "width": 10,
+            "height": 10
+          },
+          "region_attributes": {
+            "artifact": "helmet"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/helmet/local_J03_004.jpg-1": {
+      "filename": "../virtual/helmet/local_J03_004.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 424,
+            "y": 318,
+            "width": 10,
+            "height": 8
+          },
+          "region_attributes": {
+            "artifact": "helmet"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/helmet/local_J03_005.jpg-1": {
+      "filename": "../virtual/helmet/local_J03_005.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 378,
+            "y": 313,
+            "width": 9,
+            "height": 9
+          },
+          "region_attributes": {
+            "artifact": "helmet"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/helmet/local_J03_006.jpg-1": {
+      "filename": "../virtual/helmet/local_J03_006.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 333,
+            "y": 316,
+            "width": 9,
+            "height": 8
+          },
+          "region_attributes": {
+            "artifact": "helmet"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/helmet/local_J03_007.jpg-1": {
+      "filename": "../virtual/helmet/local_J03_007.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 285,
+            "y": 317,
+            "width": 9,
+            "height": 8
+          },
+          "region_attributes": {
+            "artifact": "helmet"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/helmet/local_J03_008.jpg-1": {
+      "filename": "../virtual/helmet/local_J03_008.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 237,
+            "y": 319,
+            "width": 11,
+            "height": 10
+          },
+          "region_attributes": {
+            "artifact": "helmet"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/helmet/local_J03_009.jpg-1": {
+      "filename": "../virtual/helmet/local_J03_009.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 190,
+            "y": 323,
+            "width": 10,
+            "height": 8
+          },
+          "region_attributes": {
+            "artifact": "helmet"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/helmet/local_J03_010.jpg-1": {
+      "filename": "../virtual/helmet/local_J03_010.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 155,
+            "y": 325,
+            "width": 12,
+            "height": 10
+          },
+          "region_attributes": {
+            "artifact": "helmet"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/helmet/local_J03_011.jpg-1": {
+      "filename": "../virtual/helmet/local_J03_011.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 191,
+            "y": 319,
+            "width": 11,
+            "height": 10
+          },
+          "region_attributes": {
+            "artifact": "helmet"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/helmet/local_J03_012.jpg-1": {
+      "filename": "../virtual/helmet/local_J03_012.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 228,
+            "y": 313,
+            "width": 12,
+            "height": 10
+          },
+          "region_attributes": {
+            "artifact": "helmet"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/helmet/local_J03_013.jpg-1": {
+      "filename": "../virtual/helmet/local_J03_013.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 267,
+            "y": 314,
+            "width": 12,
+            "height": 11
+          },
+          "region_attributes": {
+            "artifact": "helmet"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/helmet/local_J03_014.jpg-1": {
+      "filename": "../virtual/helmet/local_J03_014.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 452,
+            "y": 317,
+            "width": 13,
+            "height": 12
+          },
+          "region_attributes": {
+            "artifact": "helmet"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/helmet/local_J03_015.jpg-1": {
+      "filename": "../virtual/helmet/local_J03_015.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 486,
+            "y": 327,
+            "width": 15,
+            "height": 12
+          },
+          "region_attributes": {
+            "artifact": "helmet"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/helmet/local_J03_016.jpg-1": {
+      "filename": "../virtual/helmet/local_J03_016.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 532,
+            "y": 342,
+            "width": 11,
+            "height": 13
+          },
+          "region_attributes": {
+            "artifact": "helmet"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/helmet/local_J03_017.jpg-1": {
+      "filename": "../virtual/helmet/local_J03_017.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 577,
+            "y": 347,
+            "width": 12,
+            "height": 12
+          },
+          "region_attributes": {
+            "artifact": "helmet"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/helmet/local_J03_018.jpg-1": {
+      "filename": "../virtual/helmet/local_J03_018.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 626,
+            "y": 348,
+            "width": 14,
+            "height": 15
+          },
+          "region_attributes": {
+            "artifact": "helmet"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/helmet/local_J06_034.jpg-1": {
+      "filename": "../virtual/helmet/local_J06_034.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 618,
+            "y": 178,
+            "width": 20,
+            "height": 19
+          },
+          "region_attributes": {
+            "artifact": "helmet"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/helmet/local_J06_035.jpg-1": {
+      "filename": "../virtual/helmet/local_J06_035.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 595,
+            "y": 6,
+            "width": 43,
+            "height": 28
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 613,
+            "y": 176,
+            "width": 21,
+            "height": 18
+          },
+          "region_attributes": {
+            "artifact": "helmet"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/helmet/local_J06_036.jpg-1": {
+      "filename": "../virtual/helmet/local_J06_036.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 609,
+            "y": 175,
+            "width": 25,
+            "height": 17
+          },
+          "region_attributes": {
+            "artifact": "helmet"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/helmet/local_J06_037.jpg-1": {
+      "filename": "../virtual/helmet/local_J06_037.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 605,
+            "y": 175,
+            "width": 26,
+            "height": 18
+          },
+          "region_attributes": {
+            "artifact": "helmet"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/helmet/local_J06_038.jpg-1": {
+      "filename": "../virtual/helmet/local_J06_038.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 601,
+            "y": 169,
+            "width": 28,
+            "height": 21
+          },
+          "region_attributes": {
+            "artifact": "helmet"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/helmet/local_J06_039.jpg-1": {
+      "filename": "../virtual/helmet/local_J06_039.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 596,
+            "y": 171,
+            "width": 26,
+            "height": 19
+          },
+          "region_attributes": {
+            "artifact": "helmet"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/helmet/local_J06_040.jpg-1": {
+      "filename": "../virtual/helmet/local_J06_040.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 588,
+            "y": 175,
+            "width": 22,
+            "height": 18
+          },
+          "region_attributes": {
+            "artifact": "helmet"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/helmet/local_J06_041.jpg-1": {
+      "filename": "../virtual/helmet/local_J06_041.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 575,
+            "y": 171,
+            "width": 27,
+            "height": 19
+          },
+          "region_attributes": {
+            "artifact": "helmet"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/helmet/local_J06_042.jpg-1": {
+      "filename": "../virtual/helmet/local_J06_042.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 565,
+            "y": 169,
+            "width": 27,
+            "height": 20
+          },
+          "region_attributes": {
+            "artifact": "helmet"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/helmet/local_J06_043.jpg-1": {
+      "filename": "../virtual/helmet/local_J06_043.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 555,
+            "y": 169,
+            "width": 28,
+            "height": 22
+          },
+          "region_attributes": {
+            "artifact": "helmet"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/helmet/local_J06_044.jpg-1": {
+      "filename": "../virtual/helmet/local_J06_044.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 557,
+            "y": 166,
+            "width": 28,
+            "height": 20
+          },
+          "region_attributes": {
+            "artifact": "helmet"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/helmet/local_J06_045.jpg-1": {
+      "filename": "../virtual/helmet/local_J06_045.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 609,
+            "y": 171,
+            "width": 30,
+            "height": 25
+          },
+          "region_attributes": {
+            "artifact": "helmet"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/helmet/local_J07_000.jpg-1": {
+      "filename": "../virtual/helmet/local_J07_000.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 210,
+            "y": 243,
+            "width": 12,
+            "height": 10
+          },
+          "region_attributes": {
+            "artifact": "helmet"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/helmet/local_J07_001.jpg-1": {
+      "filename": "../virtual/helmet/local_J07_001.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 167,
+            "y": 237,
+            "width": 11,
+            "height": 10
+          },
+          "region_attributes": {
+            "artifact": "helmet"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/helmet/local_J07_002.jpg-1": {
+      "filename": "../virtual/helmet/local_J07_002.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 122,
+            "y": 226,
+            "width": 13,
+            "height": 10
+          },
+          "region_attributes": {
+            "artifact": "helmet"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/helmet/local_J07_003.jpg-1": {
+      "filename": "../virtual/helmet/local_J07_003.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 72,
+            "y": 221,
+            "width": 12,
+            "height": 12
+          },
+          "region_attributes": {
+            "artifact": "helmet"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/helmet/local_J07_004.jpg-1": {
+      "filename": "../virtual/helmet/local_J07_004.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 72,
+            "y": 216,
+            "width": 12,
+            "height": 11
+          },
+          "region_attributes": {
+            "artifact": "helmet"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/helmet/local_J07_005.jpg-1": {
+      "filename": "../virtual/helmet/local_J07_005.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 97,
+            "y": 208,
+            "width": 17,
+            "height": 11
+          },
+          "region_attributes": {
+            "artifact": "helmet"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/helmet/local_J07_006.jpg-1": {
+      "filename": "../virtual/helmet/local_J07_006.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 124,
+            "y": 208,
+            "width": 13,
+            "height": 11
+          },
+          "region_attributes": {
+            "artifact": "helmet"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/helmet/local_J07_007.jpg-1": {
+      "filename": "../virtual/helmet/local_J07_007.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 151,
+            "y": 209,
+            "width": 15,
+            "height": 11
+          },
+          "region_attributes": {
+            "artifact": "helmet"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/helmet/local_J07_008.jpg-1": {
+      "filename": "../virtual/helmet/local_J07_008.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 175,
+            "y": 212,
+            "width": 15,
+            "height": 12
+          },
+          "region_attributes": {
+            "artifact": "helmet"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/helmet/local_J07_009.jpg-1": {
+      "filename": "../virtual/helmet/local_J07_009.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 195,
+            "y": 208,
+            "width": 15,
+            "height": 11
+          },
+          "region_attributes": {
+            "artifact": "helmet"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/helmet/local_J07_010.jpg-1": {
+      "filename": "../virtual/helmet/local_J07_010.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 212,
+            "y": 203,
+            "width": 15,
+            "height": 13
+          },
+          "region_attributes": {
+            "artifact": "helmet"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/helmet/local_J07_011.jpg-1": {
+      "filename": "../virtual/helmet/local_J07_011.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 231,
+            "y": 206,
+            "width": 14,
+            "height": 14
+          },
+          "region_attributes": {
+            "artifact": "helmet"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/helmet/local_J07_012.jpg-1": {
+      "filename": "../virtual/helmet/local_J07_012.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 249,
+            "y": 215,
+            "width": 14,
+            "height": 12
+          },
+          "region_attributes": {
+            "artifact": "helmet"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/helmet/local_J07_013.jpg-1": {
+      "filename": "../virtual/helmet/local_J07_013.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 267,
+            "y": 214,
+            "width": 14,
+            "height": 12
+          },
+          "region_attributes": {
+            "artifact": "helmet"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/helmet/local_J07_014.jpg-1": {
+      "filename": "../virtual/helmet/local_J07_014.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 256,
+            "y": 215,
+            "width": 15,
+            "height": 12
+          },
+          "region_attributes": {
+            "artifact": "helmet"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/helmet/local_J07_015.jpg-1": {
+      "filename": "../virtual/helmet/local_J07_015.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 226,
+            "y": 217,
+            "width": 19,
+            "height": 14
+          },
+          "region_attributes": {
+            "artifact": "helmet"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/helmet/local_J07_016.jpg-1": {
+      "filename": "../virtual/helmet/local_J07_016.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 167,
+            "y": 218,
+            "width": 19,
+            "height": 16
+          },
+          "region_attributes": {
+            "artifact": "helmet"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/helmet/local_J07_017.jpg-1": {
+      "filename": "../virtual/helmet/local_J07_017.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 133,
+            "y": 218,
+            "width": 21,
+            "height": 14
+          },
+          "region_attributes": {
+            "artifact": "helmet"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/helmet/local_J07_018.jpg-1": {
+      "filename": "../virtual/helmet/local_J07_018.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 99,
+            "y": 222,
+            "width": 22,
+            "height": 15
+          },
+          "region_attributes": {
+            "artifact": "helmet"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/helmet/local_J07_019.jpg-1": {
+      "filename": "../virtual/helmet/local_J07_019.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 62,
+            "y": 228,
+            "width": 24,
+            "height": 16
+          },
+          "region_attributes": {
+            "artifact": "helmet"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/helmet/local_J07_020.jpg-1": {
+      "filename": "../virtual/helmet/local_J07_020.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 25,
+            "y": 231,
+            "width": 20,
+            "height": 15
+          },
+          "region_attributes": {
+            "artifact": "helmet"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/helmet/local_J07_021.jpg-1": {
+      "filename": "../virtual/helmet/local_J07_021.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 460,
+            "y": 236,
+            "width": 11,
+            "height": 10
+          },
+          "region_attributes": {
+            "artifact": "helmet"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/helmet/local_J07_022.jpg-1": {
+      "filename": "../virtual/helmet/local_J07_022.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 505,
+            "y": 224,
+            "width": 13,
+            "height": 9
+          },
+          "region_attributes": {
+            "artifact": "helmet"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/helmet/local_J07_023.jpg-1": {
+      "filename": "../virtual/helmet/local_J07_023.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 553,
+            "y": 216,
+            "width": 15,
+            "height": 12
+          },
+          "region_attributes": {
+            "artifact": "helmet"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/helmet/local_J07_024.jpg-1": {
+      "filename": "../virtual/helmet/local_J07_024.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 590,
+            "y": 205,
+            "width": 14,
+            "height": 11
+          },
+          "region_attributes": {
+            "artifact": "helmet"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/helmet/local_J07_025.jpg-1": {
+      "filename": "../virtual/helmet/local_J07_025.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 623,
+            "y": 190,
+            "width": 12,
+            "height": 12
+          },
+          "region_attributes": {
+            "artifact": "helmet"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/local_J08_027.jpg-1": {
+      "filename": "../virtual/phone/local_J08_027.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 617,
+            "y": 447,
+            "width": 10,
+            "height": 14
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/local_J08_028.jpg-1": {
+      "filename": "../virtual/phone/local_J08_028.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 599,
+            "y": 446,
+            "width": 11,
+            "height": 12
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/local_J08_029.jpg-1": {
+      "filename": "../virtual/phone/local_J08_029.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 574,
+            "y": 454,
+            "width": 11,
+            "height": 9
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/local_J08_030.jpg-1": {
+      "filename": "../virtual/phone/local_J08_030.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 360,
+            "y": 467,
+            "width": 12,
+            "height": 11
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/local_J08_031.jpg-1": {
+      "filename": "../virtual/phone/local_J08_031.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 309,
+            "y": 470,
+            "width": 13,
+            "height": 9
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/local_J08_032.jpg-1": {
+      "filename": "../virtual/phone/local_J08_032.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 281,
+            "y": 448,
+            "width": 15,
+            "height": 11
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/local_J08_033.jpg-1": {
+      "filename": "../virtual/phone/local_J08_033.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 256,
+            "y": 453,
+            "width": 14,
+            "height": 11
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/rope/local_J00_010.jpg-1": {
+      "filename": "../virtual/rope/local_J00_010.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 45,
+            "y": 164,
+            "width": 14,
+            "height": 25
+          },
+          "region_attributes": {
+            "artifact": "rope"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/rope/local_J00_011.jpg-1": {
+      "filename": "../virtual/rope/local_J00_011.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 101,
+            "y": 137,
+            "width": 14,
+            "height": 24
+          },
+          "region_attributes": {
+            "artifact": "rope"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/rope/local_J00_012.jpg-1": {
+      "filename": "../virtual/rope/local_J00_012.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 155,
+            "y": 131,
+            "width": 14,
+            "height": 26
+          },
+          "region_attributes": {
+            "artifact": "rope"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/rope/local_J00_013.jpg-1": {
+      "filename": "../virtual/rope/local_J00_013.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 215,
+            "y": 137,
+            "width": 14,
+            "height": 28
+          },
+          "region_attributes": {
+            "artifact": "rope"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/rope/local_J00_014.jpg-1": {
+      "filename": "../virtual/rope/local_J00_014.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 278,
+            "y": 144,
+            "width": 14,
+            "height": 27
+          },
+          "region_attributes": {
+            "artifact": "rope"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/rope/local_J00_015.jpg-1": {
+      "filename": "../virtual/rope/local_J00_015.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 338,
+            "y": 137,
+            "width": 17,
+            "height": 28
+          },
+          "region_attributes": {
+            "artifact": "rope"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/rope/local_J00_016.jpg-1": {
+      "filename": "../virtual/rope/local_J00_016.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 405,
+            "y": 134,
+            "width": 12,
+            "height": 28
+          },
+          "region_attributes": {
+            "artifact": "rope"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/rope/local_J00_017.jpg-1": {
+      "filename": "../virtual/rope/local_J00_017.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 472,
+            "y": 128,
+            "width": 17,
+            "height": 32
+          },
+          "region_attributes": {
+            "artifact": "rope"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/rope/local_J00_018.jpg-1": {
+      "filename": "../virtual/rope/local_J00_018.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 511,
+            "y": 97,
+            "width": 16,
+            "height": 35
+          },
+          "region_attributes": {
+            "artifact": "rope"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/rope/local_J00_019.jpg-1": {
+      "filename": "../virtual/rope/local_J00_019.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 534,
+            "y": 64,
+            "width": 20,
+            "height": 33
+          },
+          "region_attributes": {
+            "artifact": "rope"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/rope/local_J00_020.jpg-1": {
+      "filename": "../virtual/rope/local_J00_020.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 575,
+            "y": 82,
+            "width": 25,
+            "height": 38
+          },
+          "region_attributes": {
+            "artifact": "rope"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/rope/local_J00_021.jpg-1": {
+      "filename": "../virtual/rope/local_J00_021.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 601,
+            "y": 91,
+            "width": 24,
+            "height": 40
+          },
+          "region_attributes": {
+            "artifact": "rope"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/rope/local_J00_022.jpg-1": {
+      "filename": "../virtual/rope/local_J00_022.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 605,
+            "y": 96,
+            "width": 19,
+            "height": 41
+          },
+          "region_attributes": {
+            "artifact": "rope"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/rope/local_J00_023.jpg-1": {
+      "filename": "../virtual/rope/local_J00_023.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 591,
+            "y": 99,
+            "width": 21,
+            "height": 45
+          },
+          "region_attributes": {
+            "artifact": "rope"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/rope/local_J00_024.jpg-1": {
+      "filename": "../virtual/rope/local_J00_024.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 566,
+            "y": 79,
+            "width": 23,
+            "height": 47
+          },
+          "region_attributes": {
+            "artifact": "rope"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/rope/local_J00_025.jpg-1": {
+      "filename": "../virtual/rope/local_J00_025.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 547,
+            "y": 69,
+            "width": 24,
+            "height": 54
+          },
+          "region_attributes": {
+            "artifact": "rope"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/rope/local_J00_026.jpg-1": {
+      "filename": "../virtual/rope/local_J00_026.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 536,
+            "y": 69,
+            "width": 27,
+            "height": 54
+          },
+          "region_attributes": {
+            "artifact": "rope"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/rope/local_J00_027.jpg-1": {
+      "filename": "../virtual/rope/local_J00_027.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 530,
+            "y": 62,
+            "width": 27,
+            "height": 61
+          },
+          "region_attributes": {
+            "artifact": "rope"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/rope/local_J00_028.jpg-1": {
+      "filename": "../virtual/rope/local_J00_028.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 515,
+            "y": 55,
+            "width": 28,
+            "height": 63
+          },
+          "region_attributes": {
+            "artifact": "rope"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/rope/local_J00_029.jpg-1": {
+      "filename": "../virtual/rope/local_J00_029.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 493,
+            "y": 52,
+            "width": 29,
+            "height": 70
+          },
+          "region_attributes": {
+            "artifact": "rope"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/rope/local_J00_030.jpg-1": {
+      "filename": "../virtual/rope/local_J00_030.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 470,
+            "y": 29,
+            "width": 33,
+            "height": 80
+          },
+          "region_attributes": {
+            "artifact": "rope"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/rope/local_J00_031.jpg-1": {
+      "filename": "../virtual/rope/local_J00_031.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 461,
+            "y": 23,
+            "width": 34,
+            "height": 84
+          },
+          "region_attributes": {
+            "artifact": "rope"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/rope/local_J00_032.jpg-1": {
+      "filename": "../virtual/rope/local_J00_032.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 472,
+            "y": 2,
+            "width": 44,
+            "height": 91
+          },
+          "region_attributes": {
+            "artifact": "rope"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/rope/local_J00_033.jpg-1": {
+      "filename": "../virtual/rope/local_J00_033.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 504,
+            "y": 2,
+            "width": 40,
+            "height": 74
+          },
+          "region_attributes": {
+            "artifact": "rope"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/rope/local_J00_034.jpg-1": {
+      "filename": "../virtual/rope/local_J00_034.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 543,
+            "y": 2,
+            "width": 43,
+            "height": 67
+          },
+          "region_attributes": {
+            "artifact": "rope"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 450,
+            "y": 3,
+            "width": 54,
+            "height": 17
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/rope/local_J00_035.jpg-1": {
+      "filename": "../virtual/rope/local_J00_035.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 588,
+            "y": 1,
+            "width": 51,
+            "height": 63
+          },
+          "region_attributes": {
+            "artifact": "rope"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/rope/local_J06_000.jpg-1": {
+      "filename": "../virtual/rope/local_J06_000.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 562,
+            "y": 176,
+            "width": 14,
+            "height": 13
+          },
+          "region_attributes": {
+            "artifact": "rope"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/rope/local_J06_001.jpg-1": {
+      "filename": "../virtual/rope/local_J06_001.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 571,
+            "y": 166,
+            "width": 20,
+            "height": 14
+          },
+          "region_attributes": {
+            "artifact": "rope"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/rope/local_J06_002.jpg-1": {
+      "filename": "../virtual/rope/local_J06_002.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 586,
+            "y": 163,
+            "width": 18,
+            "height": 14
+          },
+          "region_attributes": {
+            "artifact": "rope"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/rope/local_J06_003.jpg-1": {
+      "filename": "../virtual/rope/local_J06_003.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 601,
+            "y": 168,
+            "width": 17,
+            "height": 13
+          },
+          "region_attributes": {
+            "artifact": "rope"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/rope/local_J06_004.jpg-1": {
+      "filename": "../virtual/rope/local_J06_004.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 615,
+            "y": 166,
+            "width": 17,
+            "height": 14
+          },
+          "region_attributes": {
+            "artifact": "rope"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/rope/local_J06_005.jpg-1": {
+      "filename": "../virtual/rope/local_J06_005.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 624,
+            "y": 170,
+            "width": 15,
+            "height": 14
+          },
+          "region_attributes": {
+            "artifact": "rope"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/rope/local_J06_006.jpg-1": {
+      "filename": "../virtual/rope/local_J06_006.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 588,
+            "y": 173,
+            "width": 19,
+            "height": 14
+          },
+          "region_attributes": {
+            "artifact": "rope"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/rope/local_J06_007.jpg-1": {
+      "filename": "../virtual/rope/local_J06_007.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 569,
+            "y": 166,
+            "width": 19,
+            "height": 13
+          },
+          "region_attributes": {
+            "artifact": "rope"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/rope/local_J06_008.jpg-1": {
+      "filename": "../virtual/rope/local_J06_008.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 540,
+            "y": 156,
+            "width": 18,
+            "height": 13
+          },
+          "region_attributes": {
+            "artifact": "rope"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/rope/local_J06_009.jpg-1": {
+      "filename": "../virtual/rope/local_J06_009.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 544,
+            "y": 141,
+            "width": 19,
+            "height": 12
+          },
+          "region_attributes": {
+            "artifact": "rope"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/rope/local_J06_010.jpg-1": {
+      "filename": "../virtual/rope/local_J06_010.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 557,
+            "y": 144,
+            "width": 21,
+            "height": 13
+          },
+          "region_attributes": {
+            "artifact": "rope"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/rope/local_J06_011.jpg-1": {
+      "filename": "../virtual/rope/local_J06_011.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 565,
+            "y": 150,
+            "width": 20,
+            "height": 14
+          },
+          "region_attributes": {
+            "artifact": "rope"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/rope/local_J06_012.jpg-1": {
+      "filename": "../virtual/rope/local_J06_012.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 570,
+            "y": 152,
+            "width": 22,
+            "height": 16
+          },
+          "region_attributes": {
+            "artifact": "rope"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/rope/local_J06_013.jpg-1": {
+      "filename": "../virtual/rope/local_J06_013.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 520,
+            "y": 5,
+            "width": 70,
+            "height": 27
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 578,
+            "y": 150,
+            "width": 24,
+            "height": 18
+          },
+          "region_attributes": {
+            "artifact": "rope"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/rope/local_J06_014.jpg-1": {
+      "filename": "../virtual/rope/local_J06_014.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 585,
+            "y": 147,
+            "width": 25,
+            "height": 18
+          },
+          "region_attributes": {
+            "artifact": "rope"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/rope/local_J06_015.jpg-1": {
+      "filename": "../virtual/rope/local_J06_015.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 595,
+            "y": 143,
+            "width": 26,
+            "height": 19
+          },
+          "region_attributes": {
+            "artifact": "rope"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/rope/local_J06_016.jpg-1": {
+      "filename": "../virtual/rope/local_J06_016.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 605,
+            "y": 139,
+            "width": 27,
+            "height": 20
+          },
+          "region_attributes": {
+            "artifact": "rope"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 593,
+            "y": 7,
+            "width": 47,
+            "height": 32
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/rope/local_J06_017.jpg-1": {
+      "filename": "../virtual/rope/local_J06_017.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 609,
+            "y": 143,
+            "width": 30,
+            "height": 21
+          },
+          "region_attributes": {
+            "artifact": "rope"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/rope/local_J06_018.jpg-1": {
+      "filename": "../virtual/rope/local_J06_018.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 597,
+            "y": 149,
+            "width": 30,
+            "height": 18
+          },
+          "region_attributes": {
+            "artifact": "rope"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 528,
+            "y": 3,
+            "width": 75,
+            "height": 32
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/rope/local_J06_019.jpg-1": {
+      "filename": "../virtual/rope/local_J06_019.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 604,
+            "y": 150,
+            "width": 28,
+            "height": 20
+          },
+          "region_attributes": {
+            "artifact": "rope"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/rope/local_J06_020.jpg-1": {
+      "filename": "../virtual/rope/local_J06_020.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 598,
+            "y": 148,
+            "width": 30,
+            "height": 20
+          },
+          "region_attributes": {
+            "artifact": "rope"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 523,
+            "y": 3,
+            "width": 74,
+            "height": 34
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/rope/local_J06_021.jpg-1": {
+      "filename": "../virtual/rope/local_J06_021.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 580,
+            "y": 132,
+            "width": 34,
+            "height": 22
+          },
+          "region_attributes": {
+            "artifact": "rope"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 587,
+            "y": 2,
+            "width": 51,
+            "height": 36
+          },
+          "region_attributes": {
+            "artifact": "rope"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/rope/local_J06_022.jpg-1": {
+      "filename": "../virtual/rope/local_J06_022.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 582,
+            "y": 127,
+            "width": 34,
+            "height": 21
+          },
+          "region_attributes": {
+            "artifact": "rope"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/rope/local_J06_023.jpg-1": {
+      "filename": "../virtual/rope/local_J06_023.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 582,
+            "y": 123,
+            "width": 38,
+            "height": 21
+          },
+          "region_attributes": {
+            "artifact": "rope"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/rope/local_J06_024.jpg-1": {
+      "filename": "../virtual/rope/local_J06_024.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 587,
+            "y": 122,
+            "width": 38,
+            "height": 22
+          },
+          "region_attributes": {
+            "artifact": "rope"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/rope/local_J06_025.jpg-1": {
+      "filename": "../virtual/rope/local_J06_025.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 591,
+            "y": 119,
+            "width": 39,
+            "height": 24
+          },
+          "region_attributes": {
+            "artifact": "rope"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/rope/local_J06_026.jpg-1": {
+      "filename": "../virtual/rope/local_J06_026.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 589,
+            "y": 119,
+            "width": 43,
+            "height": 26
+          },
+          "region_attributes": {
+            "artifact": "rope"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/rope/local_J06_027.jpg-1": {
+      "filename": "../virtual/rope/local_J06_027.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 570,
+            "y": 132,
+            "width": 43,
+            "height": 26
+          },
+          "region_attributes": {
+            "artifact": "rope"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 620,
+            "y": 21,
+            "width": 19,
+            "height": 22
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/rope/local_J06_028.jpg-1": {
+      "filename": "../virtual/rope/local_J06_028.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 550,
+            "y": 131,
+            "width": 43,
+            "height": 25
+          },
+          "region_attributes": {
+            "artifact": "rope"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/rope/local_J06_029.jpg-1": {
+      "filename": "../virtual/rope/local_J06_029.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 527,
+            "y": 123,
+            "width": 45,
+            "height": 27
+          },
+          "region_attributes": {
+            "artifact": "rope"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/rope/local_J06_030.jpg-1": {
+      "filename": "../virtual/rope/local_J06_030.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 506,
+            "y": 119,
+            "width": 48,
+            "height": 26
+          },
+          "region_attributes": {
+            "artifact": "rope"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/rope/local_J06_031.jpg-1": {
+      "filename": "../virtual/rope/local_J06_031.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 500,
+            "y": 115,
+            "width": 48,
+            "height": 28
+          },
+          "region_attributes": {
+            "artifact": "rope"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 440,
+            "y": 2,
+            "width": 56,
+            "height": 15
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/rope/local_J06_032.jpg-1": {
+      "filename": "../virtual/rope/local_J06_032.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 535,
+            "y": 117,
+            "width": 53,
+            "height": 27
+          },
+          "region_attributes": {
+            "artifact": "rope"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/rope/local_J06_033.jpg-1": {
+      "filename": "../virtual/rope/local_J06_033.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 577,
+            "y": 114,
+            "width": 60,
+            "height": 30
+          },
+          "region_attributes": {
+            "artifact": "rope"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 442,
+            "y": 2,
+            "width": 61,
+            "height": 15
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J00_036.jpg-1": {
+      "filename": "../virtual/survivor/local_J00_036.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 362,
+            "y": 295,
+            "width": 14,
+            "height": 15
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J00_037.jpg-1": {
+      "filename": "../virtual/survivor/local_J00_037.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 354,
+            "y": 298,
+            "width": 12,
+            "height": 12
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J00_038.jpg-1": {
+      "filename": "../virtual/survivor/local_J00_038.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 340,
+            "y": 306,
+            "width": 11,
+            "height": 15
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J00_039.jpg-1": {
+      "filename": "../virtual/survivor/local_J00_039.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 311,
+            "y": 310,
+            "width": 11,
+            "height": 16
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J00_040.jpg-1": {
+      "filename": "../virtual/survivor/local_J00_040.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 281,
+            "y": 309,
+            "width": 10,
+            "height": 15
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J00_041.jpg-1": {
+      "filename": "../virtual/survivor/local_J00_041.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 253,
+            "y": 313,
+            "width": 9,
+            "height": 14
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J00_042.jpg-1": {
+      "filename": "../virtual/survivor/local_J00_042.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 219,
+            "y": 317,
+            "width": 11,
+            "height": 16
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J00_043.jpg-1": {
+      "filename": "../virtual/survivor/local_J00_043.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 188,
+            "y": 316,
+            "width": 12,
+            "height": 17
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J00_044.jpg-1": {
+      "filename": "../virtual/survivor/local_J00_044.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 161,
+            "y": 319,
+            "width": 12,
+            "height": 17
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J00_045.jpg-1": {
+      "filename": "../virtual/survivor/local_J00_045.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 134,
+            "y": 333,
+            "width": 12,
+            "height": 18
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J00_046.jpg-1": {
+      "filename": "../virtual/survivor/local_J00_046.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 147,
+            "y": 332,
+            "width": 14,
+            "height": 20
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J00_047.jpg-1": {
+      "filename": "../virtual/survivor/local_J00_047.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 170,
+            "y": 331,
+            "width": 14,
+            "height": 18
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J00_048.jpg-1": {
+      "filename": "../virtual/survivor/local_J00_048.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 202,
+            "y": 337,
+            "width": 16,
+            "height": 23
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J00_049.jpg-1": {
+      "filename": "../virtual/survivor/local_J00_049.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 257,
+            "y": 340,
+            "width": 16,
+            "height": 22
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J00_050.jpg-1": {
+      "filename": "../virtual/survivor/local_J00_050.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 314,
+            "y": 328,
+            "width": 17,
+            "height": 28
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J00_051.jpg-1": {
+      "filename": "../virtual/survivor/local_J00_051.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 372,
+            "y": 328,
+            "width": 18,
+            "height": 31
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J00_052.jpg-1": {
+      "filename": "../virtual/survivor/local_J00_052.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 432,
+            "y": 329,
+            "width": 19,
+            "height": 32
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J00_053.jpg-1": {
+      "filename": "../virtual/survivor/local_J00_053.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 482,
+            "y": 320,
+            "width": 21,
+            "height": 32
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J00_054.jpg-1": {
+      "filename": "../virtual/survivor/local_J00_054.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 504,
+            "y": 316,
+            "width": 19,
+            "height": 37
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J00_055.jpg-1": {
+      "filename": "../virtual/survivor/local_J00_055.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 528,
+            "y": 334,
+            "width": 21,
+            "height": 43
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J00_056.jpg-1": {
+      "filename": "../virtual/survivor/local_J00_056.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 532,
+            "y": 340,
+            "width": 26,
+            "height": 46
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J00_057.jpg-1": {
+      "filename": "../virtual/survivor/local_J00_057.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 527,
+            "y": 348,
+            "width": 28,
+            "height": 48
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J00_058.jpg-1": {
+      "filename": "../virtual/survivor/local_J00_058.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 525,
+            "y": 348,
+            "width": 30,
+            "height": 51
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J00_059.jpg-1": {
+      "filename": "../virtual/survivor/local_J00_059.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 496,
+            "y": 374,
+            "width": 31,
+            "height": 56
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J00_060.jpg-1": {
+      "filename": "../virtual/survivor/local_J00_060.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 458,
+            "y": 371,
+            "width": 32,
+            "height": 57
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J00_061.jpg-1": {
+      "filename": "../virtual/survivor/local_J00_061.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 421,
+            "y": 371,
+            "width": 38,
+            "height": 61
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J00_062.jpg-1": {
+      "filename": "../virtual/survivor/local_J00_062.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 385,
+            "y": 380,
+            "width": 41,
+            "height": 65
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J00_063.jpg-1": {
+      "filename": "../virtual/survivor/local_J00_063.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 345,
+            "y": 391,
+            "width": 41,
+            "height": 73
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J00_064.jpg-1": {
+      "filename": "../virtual/survivor/local_J00_064.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 398,
+            "y": 406,
+            "width": 42,
+            "height": 73
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J00_065.jpg-1": {
+      "filename": "../virtual/survivor/local_J00_065.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 602,
+            "y": 192,
+            "width": 30,
+            "height": 45
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J00_066.jpg-1": {
+      "filename": "../virtual/survivor/local_J00_066.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 588,
+            "y": 183,
+            "width": 33,
+            "height": 42
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J00_067.jpg-1": {
+      "filename": "../virtual/survivor/local_J00_067.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 599,
+            "y": 166,
+            "width": 33,
+            "height": 45
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J00_068.jpg-1": {
+      "filename": "../virtual/survivor/local_J00_068.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 607,
+            "y": 175,
+            "width": 31,
+            "height": 48
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J02_000.jpg-1": {
+      "filename": "../virtual/survivor/local_J02_000.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 47,
+            "y": 72,
+            "width": 33,
+            "height": 46
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J02_001.jpg-1": {
+      "filename": "../virtual/survivor/local_J02_001.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 128,
+            "y": 77,
+            "width": 35,
+            "height": 45
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J02_002.jpg-1": {
+      "filename": "../virtual/survivor/local_J02_002.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 208,
+            "y": 91,
+            "width": 32,
+            "height": 43
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J02_003.jpg-1": {
+      "filename": "../virtual/survivor/local_J02_003.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 282,
+            "y": 92,
+            "width": 33,
+            "height": 47
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J02_004.jpg-1": {
+      "filename": "../virtual/survivor/local_J02_004.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 343,
+            "y": 86,
+            "width": 32,
+            "height": 46
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J02_005.jpg-1": {
+      "filename": "../virtual/survivor/local_J02_005.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 350,
+            "y": 41,
+            "width": 33,
+            "height": 51
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J02_006.jpg-1": {
+      "filename": "../virtual/survivor/local_J02_006.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 349,
+            "y": 24,
+            "width": 35,
+            "height": 53
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J02_007.jpg-1": {
+      "filename": "../virtual/survivor/local_J02_007.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 342,
+            "y": 27,
+            "width": 39,
+            "height": 51
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J02_008.jpg-1": {
+      "filename": "../virtual/survivor/local_J02_008.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 341,
+            "y": 26,
+            "width": 43,
+            "height": 55
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J02_009.jpg-1": {
+      "filename": "../virtual/survivor/local_J02_009.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 336,
+            "y": 25,
+            "width": 39,
+            "height": 56
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J02_010.jpg-1": {
+      "filename": "../virtual/survivor/local_J02_010.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 301,
+            "y": 57,
+            "width": 40,
+            "height": 56
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J02_011.jpg-1": {
+      "filename": "../virtual/survivor/local_J02_011.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 260,
+            "y": 68,
+            "width": 42,
+            "height": 59
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J02_012.jpg-1": {
+      "filename": "../virtual/survivor/local_J02_012.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 218,
+            "y": 63,
+            "width": 42,
+            "height": 61
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J02_013.jpg-1": {
+      "filename": "../virtual/survivor/local_J02_013.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 174,
+            "y": 56,
+            "width": 47,
+            "height": 62
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J02_014.jpg-1": {
+      "filename": "../virtual/survivor/local_J02_014.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 145,
+            "y": 52,
+            "width": 49,
+            "height": 69
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J02_015.jpg-1": {
+      "filename": "../virtual/survivor/local_J02_015.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 184,
+            "y": 65,
+            "width": 50,
+            "height": 68
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J02_016.jpg-1": {
+      "filename": "../virtual/survivor/local_J02_016.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 230,
+            "y": 67,
+            "width": 53,
+            "height": 71
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J02_017.jpg-1": {
+      "filename": "../virtual/survivor/local_J02_017.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 275,
+            "y": 63,
+            "width": 55,
+            "height": 75
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J02_018.jpg-1": {
+      "filename": "../virtual/survivor/local_J02_018.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 320,
+            "y": 61,
+            "width": 60,
+            "height": 78
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J02_019.jpg-1": {
+      "filename": "../virtual/survivor/local_J02_019.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 357,
+            "y": 58,
+            "width": 67,
+            "height": 85
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J02_020.jpg-1": {
+      "filename": "../virtual/survivor/local_J02_020.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 380,
+            "y": 33,
+            "width": 66,
+            "height": 92
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J02_021.jpg-1": {
+      "filename": "../virtual/survivor/local_J02_021.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 397,
+            "y": 33,
+            "width": 74,
+            "height": 97
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J02_022.jpg-1": {
+      "filename": "../virtual/survivor/local_J02_022.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 423,
+            "y": 42,
+            "width": 77,
+            "height": 115
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1,
+            "y": 5,
+            "width": 43,
+            "height": 38
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J02_023.jpg-1": {
+      "filename": "../virtual/survivor/local_J02_023.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 445,
+            "y": 55,
+            "width": 97,
+            "height": 117
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J02_024.jpg-1": {
+      "filename": "../virtual/survivor/local_J02_024.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 488,
+            "y": 73,
+            "width": 112,
+            "height": 128
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J02_025.jpg-1": {
+      "filename": "../virtual/survivor/local_J02_025.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 576,
+            "y": 158,
+            "width": 63,
+            "height": 112
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J04_000.jpg-1": {
+      "filename": "../virtual/survivor/local_J04_000.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 268,
+            "y": 455,
+            "width": 20,
+            "height": 23
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J04_001.jpg-1": {
+      "filename": "../virtual/survivor/local_J04_001.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 155,
+            "y": 48,
+            "width": 24,
+            "height": 28
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J04_002.jpg-1": {
+      "filename": "../virtual/survivor/local_J04_002.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 209,
+            "y": 48,
+            "width": 23,
+            "height": 30
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J04_003.jpg-1": {
+      "filename": "../virtual/survivor/local_J04_003.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 259,
+            "y": 39,
+            "width": 23,
+            "height": 28
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J04_004.jpg-1": {
+      "filename": "../virtual/survivor/local_J04_004.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 286,
+            "y": 48,
+            "width": 24,
+            "height": 36
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J04_005.jpg-1": {
+      "filename": "../virtual/survivor/local_J04_005.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 128,
+            "y": 102,
+            "width": 25,
+            "height": 32
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J04_006.jpg-1": {
+      "filename": "../virtual/survivor/local_J04_006.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 105,
+            "y": 81,
+            "width": 32,
+            "height": 43
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J04_007.jpg-1": {
+      "filename": "../virtual/survivor/local_J04_007.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 65,
+            "y": 134,
+            "width": 35,
+            "height": 43
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J04_008.jpg-1": {
+      "filename": "../virtual/survivor/local_J04_008.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 76,
+            "y": 76,
+            "width": 34,
+            "height": 53
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J04_009.jpg-1": {
+      "filename": "../virtual/survivor/local_J04_009.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 142,
+            "y": 114,
+            "width": 37,
+            "height": 49
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J04_010.jpg-1": {
+      "filename": "../virtual/survivor/local_J04_010.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 289,
+            "y": 141,
+            "width": 33,
+            "height": 52
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J04_011.jpg-1": {
+      "filename": "../virtual/survivor/local_J04_011.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 361,
+            "y": 127,
+            "width": 35,
+            "height": 53
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J04_012.jpg-1": {
+      "filename": "../virtual/survivor/local_J04_012.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 468,
+            "y": 83,
+            "width": 37,
+            "height": 58
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J04_013.jpg-1": {
+      "filename": "../virtual/survivor/local_J04_013.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 495,
+            "y": 74,
+            "width": 47,
+            "height": 66
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J04_014.jpg-1": {
+      "filename": "../virtual/survivor/local_J04_014.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 453,
+            "y": 133,
+            "width": 49,
+            "height": 74
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J04_015.jpg-1": {
+      "filename": "../virtual/survivor/local_J04_015.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 381,
+            "y": 118,
+            "width": 64,
+            "height": 81
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J04_016.jpg-1": {
+      "filename": "../virtual/survivor/local_J04_016.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 298,
+            "y": 136,
+            "width": 57,
+            "height": 86
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J04_017.jpg-1": {
+      "filename": "../virtual/survivor/local_J04_017.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 165,
+            "y": 150,
+            "width": 74,
+            "height": 99
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J04_018.jpg-1": {
+      "filename": "../virtual/survivor/local_J04_018.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 91,
+            "y": 140,
+            "width": 82,
+            "height": 111
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J04_019.jpg-1": {
+      "filename": "../virtual/survivor/local_J04_019.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 0,
+            "y": 130,
+            "width": 93,
+            "height": 124
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J04_020.jpg-1": {
+      "filename": "../virtual/survivor/local_J04_020.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 61,
+            "y": 173,
+            "width": 130,
+            "height": 211
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J04_021.jpg-1": {
+      "filename": "../virtual/survivor/local_J04_021.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 33,
+            "y": 117,
+            "width": 122,
+            "height": 187
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J04_022.jpg-1": {
+      "filename": "../virtual/survivor/local_J04_022.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 140,
+            "y": 261,
+            "width": 131,
+            "height": 217
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J04_023.jpg-1": {
+      "filename": "../virtual/survivor/local_J04_023.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 190,
+            "y": 269,
+            "width": 140,
+            "height": 209
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J04_024.jpg-1": {
+      "filename": "../virtual/survivor/local_J04_024.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 250,
+            "y": 296,
+            "width": 149,
+            "height": 184
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J05_000.jpg-1": {
+      "filename": "../virtual/survivor/local_J05_000.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 496,
+            "y": 411,
+            "width": 31,
+            "height": 36
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J05_001.jpg-1": {
+      "filename": "../virtual/survivor/local_J05_001.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 496,
+            "y": 409,
+            "width": 29,
+            "height": 37
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J05_002.jpg-1": {
+      "filename": "../virtual/survivor/local_J05_002.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 450,
+            "y": 401,
+            "width": 32,
+            "height": 44
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J05_003.jpg-1": {
+      "filename": "../virtual/survivor/local_J05_003.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 409,
+            "y": 393,
+            "width": 30,
+            "height": 42
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J05_004.jpg-1": {
+      "filename": "../virtual/survivor/local_J05_004.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 364,
+            "y": 391,
+            "width": 31,
+            "height": 42
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J05_005.jpg-1": {
+      "filename": "../virtual/survivor/local_J05_005.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 344,
+            "y": 371,
+            "width": 27,
+            "height": 40
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J05_006.jpg-1": {
+      "filename": "../virtual/survivor/local_J05_006.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 327,
+            "y": 354,
+            "width": 32,
+            "height": 41
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J05_007.jpg-1": {
+      "filename": "../virtual/survivor/local_J05_007.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 315,
+            "y": 369,
+            "width": 33,
+            "height": 42
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J05_008.jpg-1": {
+      "filename": "../virtual/survivor/local_J05_008.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 301,
+            "y": 388,
+            "width": 32,
+            "height": 50
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J05_009.jpg-1": {
+      "filename": "../virtual/survivor/local_J05_009.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 290,
+            "y": 399,
+            "width": 33,
+            "height": 51
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J05_010.jpg-1": {
+      "filename": "../virtual/survivor/local_J05_010.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 495,
+            "y": 444,
+            "width": 36,
+            "height": 35
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J05_011.jpg-1": {
+      "filename": "../virtual/survivor/local_J05_011.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 455,
+            "y": 404,
+            "width": 50,
+            "height": 60
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J05_012.jpg-1": {
+      "filename": "../virtual/survivor/local_J05_012.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 430,
+            "y": 401,
+            "width": 46,
+            "height": 57
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J05_013.jpg-1": {
+      "filename": "../virtual/survivor/local_J05_013.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 389,
+            "y": 397,
+            "width": 50,
+            "height": 60
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J05_014.jpg-1": {
+      "filename": "../virtual/survivor/local_J05_014.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 368,
+            "y": 373,
+            "width": 47,
+            "height": 57
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J05_015.jpg-1": {
+      "filename": "../virtual/survivor/local_J05_015.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 359,
+            "y": 347,
+            "width": 49,
+            "height": 65
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J05_016.jpg-1": {
+      "filename": "../virtual/survivor/local_J05_016.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 337,
+            "y": 363,
+            "width": 55,
+            "height": 76
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J05_017.jpg-1": {
+      "filename": "../virtual/survivor/local_J05_017.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 327,
+            "y": 366,
+            "width": 59,
+            "height": 74
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J05_018.jpg-1": {
+      "filename": "../virtual/survivor/local_J05_018.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 323,
+            "y": 353,
+            "width": 63,
+            "height": 77
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J05_019.jpg-1": {
+      "filename": "../virtual/survivor/local_J05_019.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 326,
+            "y": 340,
+            "width": 64,
+            "height": 80
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J05_020.jpg-1": {
+      "filename": "../virtual/survivor/local_J05_020.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 320,
+            "y": 344,
+            "width": 72,
+            "height": 81
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J05_021.jpg-1": {
+      "filename": "../virtual/survivor/local_J05_021.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 319,
+            "y": 345,
+            "width": 84,
+            "height": 92
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J05_022.jpg-1": {
+      "filename": "../virtual/survivor/local_J05_022.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 318,
+            "y": 341,
+            "width": 92,
+            "height": 101
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J05_023.jpg-1": {
+      "filename": "../virtual/survivor/local_J05_023.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 368,
+            "y": 386,
+            "width": 103,
+            "height": 94
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J05_024.jpg-1": {
+      "filename": "../virtual/survivor/local_J05_024.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 8,
+            "y": 382,
+            "width": 68,
+            "height": 92
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J05_025.jpg-1": {
+      "filename": "../virtual/survivor/local_J05_025.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 110,
+            "y": 357,
+            "width": 51,
+            "height": 86
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J05_026.jpg-1": {
+      "filename": "../virtual/survivor/local_J05_026.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 192,
+            "y": 334,
+            "width": 48,
+            "height": 86
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J05_027.jpg-1": {
+      "filename": "../virtual/survivor/local_J05_027.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 267,
+            "y": 337,
+            "width": 49,
+            "height": 85
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J05_028.jpg-1": {
+      "filename": "../virtual/survivor/local_J05_028.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 360,
+            "y": 355,
+            "width": 47,
+            "height": 89
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J05_029.jpg-1": {
+      "filename": "../virtual/survivor/local_J05_029.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 433,
+            "y": 363,
+            "width": 47,
+            "height": 96
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J05_030.jpg-1": {
+      "filename": "../virtual/survivor/local_J05_030.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 466,
+            "y": 341,
+            "width": 43,
+            "height": 96
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J05_031.jpg-1": {
+      "filename": "../virtual/survivor/local_J05_031.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 501,
+            "y": 320,
+            "width": 48,
+            "height": 99
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J05_032.jpg-1": {
+      "filename": "../virtual/survivor/local_J05_032.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 540,
+            "y": 317,
+            "width": 58,
+            "height": 108
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J05_033.jpg-1": {
+      "filename": "../virtual/survivor/local_J05_033.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 592,
+            "y": 326,
+            "width": 48,
+            "height": 121
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J05_034.jpg-1": {
+      "filename": "../virtual/survivor/local_J05_034.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 596,
+            "y": 278,
+            "width": 43,
+            "height": 53
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J05_035.jpg-1": {
+      "filename": "../virtual/survivor/local_J05_035.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 550,
+            "y": 282,
+            "width": 37,
+            "height": 50
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J05_036.jpg-1": {
+      "filename": "../virtual/survivor/local_J05_036.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 478,
+            "y": 303,
+            "width": 35,
+            "height": 46
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J05_037.jpg-1": {
+      "filename": "../virtual/survivor/local_J05_037.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 424,
+            "y": 317,
+            "width": 34,
+            "height": 48
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J05_038.jpg-1": {
+      "filename": "../virtual/survivor/local_J05_038.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 389,
+            "y": 304,
+            "width": 35,
+            "height": 49
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J05_039.jpg-1": {
+      "filename": "../virtual/survivor/local_J05_039.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 368,
+            "y": 296,
+            "width": 37,
+            "height": 51
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J05_040.jpg-1": {
+      "filename": "../virtual/survivor/local_J05_040.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 330,
+            "y": 312,
+            "width": 39,
+            "height": 51
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J05_041.jpg-1": {
+      "filename": "../virtual/survivor/local_J05_041.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 302,
+            "y": 329,
+            "width": 39,
+            "height": 50
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J05_042.jpg-1": {
+      "filename": "../virtual/survivor/local_J05_042.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 273,
+            "y": 339,
+            "width": 50,
+            "height": 56
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J05_043.jpg-1": {
+      "filename": "../virtual/survivor/local_J05_043.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 300,
+            "y": 346,
+            "width": 55,
+            "height": 58
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J05_044.jpg-1": {
+      "filename": "../virtual/survivor/local_J05_044.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 325,
+            "y": 351,
+            "width": 53,
+            "height": 60
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J05_045.jpg-1": {
+      "filename": "../virtual/survivor/local_J05_045.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 355,
+            "y": 361,
+            "width": 58,
+            "height": 67
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J05_046.jpg-1": {
+      "filename": "../virtual/survivor/local_J05_046.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 378,
+            "y": 371,
+            "width": 56,
+            "height": 69
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J05_047.jpg-1": {
+      "filename": "../virtual/survivor/local_J05_047.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 378,
+            "y": 336,
+            "width": 59,
+            "height": 101
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J05_048.jpg-1": {
+      "filename": "../virtual/survivor/local_J05_048.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 298,
+            "y": 293,
+            "width": 52,
+            "height": 97
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J05_049.jpg-1": {
+      "filename": "../virtual/survivor/local_J05_049.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 232,
+            "y": 296,
+            "width": 59,
+            "height": 104
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J05_050.jpg-1": {
+      "filename": "../virtual/survivor/local_J05_050.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 188,
+            "y": 309,
+            "width": 55,
+            "height": 108
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J05_051.jpg-1": {
+      "filename": "../virtual/survivor/local_J05_051.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 116,
+            "y": 338,
+            "width": 64,
+            "height": 113
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J05_052.jpg-1": {
+      "filename": "../virtual/survivor/local_J05_052.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 121,
+            "y": 349,
+            "width": 63,
+            "height": 123
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J05_053.jpg-1": {
+      "filename": "../virtual/survivor/local_J05_053.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 166,
+            "y": 350,
+            "width": 62,
+            "height": 124
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J08_034.jpg-1": {
+      "filename": "../virtual/survivor/local_J08_034.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 586,
+            "y": 411,
+            "width": 32,
+            "height": 38
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J08_035.jpg-1": {
+      "filename": "../virtual/survivor/local_J08_035.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 545,
+            "y": 412,
+            "width": 30,
+            "height": 34
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J08_036.jpg-1": {
+      "filename": "../virtual/survivor/local_J08_036.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 518,
+            "y": 404,
+            "width": 31,
+            "height": 35
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J08_037.jpg-1": {
+      "filename": "../virtual/survivor/local_J08_037.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 537,
+            "y": 389,
+            "width": 33,
+            "height": 35
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J08_038.jpg-1": {
+      "filename": "../virtual/survivor/local_J08_038.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 564,
+            "y": 394,
+            "width": 36,
+            "height": 38
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J08_039.jpg-1": {
+      "filename": "../virtual/survivor/local_J08_039.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 591,
+            "y": 409,
+            "width": 44,
+            "height": 44
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J08_040.jpg-1": {
+      "filename": "../virtual/survivor/local_J08_040.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 529,
+            "y": 295,
+            "width": 31,
+            "height": 46
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J08_041.jpg-1": {
+      "filename": "../virtual/survivor/local_J08_041.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 509,
+            "y": 247,
+            "width": 32,
+            "height": 42
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J08_042.jpg-1": {
+      "filename": "../virtual/survivor/local_J08_042.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 494,
+            "y": 235,
+            "width": 36,
+            "height": 41
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J08_043.jpg-1": {
+      "filename": "../virtual/survivor/local_J08_043.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 484,
+            "y": 247,
+            "width": 35,
+            "height": 40
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J08_044.jpg-1": {
+      "filename": "../virtual/survivor/local_J08_044.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 477,
+            "y": 264,
+            "width": 35,
+            "height": 41
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J08_045.jpg-1": {
+      "filename": "../virtual/survivor/local_J08_045.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 471,
+            "y": 273,
+            "width": 32,
+            "height": 44
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J08_046.jpg-1": {
+      "filename": "../virtual/survivor/local_J08_046.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 469,
+            "y": 279,
+            "width": 35,
+            "height": 47
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J08_047.jpg-1": {
+      "filename": "../virtual/survivor/local_J08_047.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 465,
+            "y": 287,
+            "width": 35,
+            "height": 43
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J08_048.jpg-1": {
+      "filename": "../virtual/survivor/local_J08_048.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 464,
+            "y": 290,
+            "width": 37,
+            "height": 48
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J08_049.jpg-1": {
+      "filename": "../virtual/survivor/local_J08_049.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 462,
+            "y": 297,
+            "width": 41,
+            "height": 51
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J08_050.jpg-1": {
+      "filename": "../virtual/survivor/local_J08_050.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 465,
+            "y": 305,
+            "width": 38,
+            "height": 52
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J08_051.jpg-1": {
+      "filename": "../virtual/survivor/local_J08_051.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 473,
+            "y": 304,
+            "width": 41,
+            "height": 54
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J08_052.jpg-1": {
+      "filename": "../virtual/survivor/local_J08_052.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 489,
+            "y": 311,
+            "width": 42,
+            "height": 60
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J08_053.jpg-1": {
+      "filename": "../virtual/survivor/local_J08_053.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 500,
+            "y": 314,
+            "width": 44,
+            "height": 62
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J08_054.jpg-1": {
+      "filename": "../virtual/survivor/local_J08_054.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 517,
+            "y": 322,
+            "width": 47,
+            "height": 64
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J08_055.jpg-1": {
+      "filename": "../virtual/survivor/local_J08_055.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 525,
+            "y": 332,
+            "width": 47,
+            "height": 69
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J08_056.jpg-1": {
+      "filename": "../virtual/survivor/local_J08_056.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 516,
+            "y": 345,
+            "width": 50,
+            "height": 70
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J08_057.jpg-1": {
+      "filename": "../virtual/survivor/local_J08_057.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 502,
+            "y": 351,
+            "width": 57,
+            "height": 70
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J08_058.jpg-1": {
+      "filename": "../virtual/survivor/local_J08_058.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 489,
+            "y": 344,
+            "width": 60,
+            "height": 71
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J08_059.jpg-1": {
+      "filename": "../virtual/survivor/local_J08_059.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 478,
+            "y": 344,
+            "width": 58,
+            "height": 74
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J08_060.jpg-1": {
+      "filename": "../virtual/survivor/local_J08_060.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 464,
+            "y": 348,
+            "width": 58,
+            "height": 75
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J08_061.jpg-1": {
+      "filename": "../virtual/survivor/local_J08_061.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 448,
+            "y": 356,
+            "width": 59,
+            "height": 78
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J08_062.jpg-1": {
+      "filename": "../virtual/survivor/local_J08_062.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 437,
+            "y": 356,
+            "width": 59,
+            "height": 82
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J08_063.jpg-1": {
+      "filename": "../virtual/survivor/local_J08_063.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 426,
+            "y": 365,
+            "width": 58,
+            "height": 82
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J08_064.jpg-1": {
+      "filename": "../virtual/survivor/local_J08_064.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 411,
+            "y": 371,
+            "width": 60,
+            "height": 89
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J08_065.jpg-1": {
+      "filename": "../virtual/survivor/local_J08_065.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 413,
+            "y": 383,
+            "width": 64,
+            "height": 96
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J08_066.jpg-1": {
+      "filename": "../virtual/survivor/local_J08_066.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 465,
+            "y": 416,
+            "width": 62,
+            "height": 64
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J09_000.jpg-1": {
+      "filename": "../virtual/survivor/local_J09_000.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 15,
+            "y": 349,
+            "width": 24,
+            "height": 38
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J09_001.jpg-1": {
+      "filename": "../virtual/survivor/local_J09_001.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 56,
+            "y": 353,
+            "width": 22,
+            "height": 34
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J09_002.jpg-1": {
+      "filename": "../virtual/survivor/local_J09_002.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 97,
+            "y": 339,
+            "width": 22,
+            "height": 35
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J09_003.jpg-1": {
+      "filename": "../virtual/survivor/local_J09_003.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 137,
+            "y": 335,
+            "width": 24,
+            "height": 34
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J09_004.jpg-1": {
+      "filename": "../virtual/survivor/local_J09_004.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 164,
+            "y": 332,
+            "width": 22,
+            "height": 33
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J09_005.jpg-1": {
+      "filename": "../virtual/survivor/local_J09_005.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 138,
+            "y": 325,
+            "width": 21,
+            "height": 34
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J09_006.jpg-1": {
+      "filename": "../virtual/survivor/local_J09_006.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 107,
+            "y": 334,
+            "width": 20,
+            "height": 33
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J09_007.jpg-1": {
+      "filename": "../virtual/survivor/local_J09_007.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 73,
+            "y": 353,
+            "width": 21,
+            "height": 36
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J09_008.jpg-1": {
+      "filename": "../virtual/survivor/local_J09_008.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 33,
+            "y": 370,
+            "width": 29,
+            "height": 35
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J09_009.jpg-1": {
+      "filename": "../virtual/survivor/local_J09_009.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 2,
+            "y": 376,
+            "width": 25,
+            "height": 45
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J09_010.jpg-1": {
+      "filename": "../virtual/survivor/local_J09_010.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 2,
+            "y": 366,
+            "width": 28,
+            "height": 44
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J09_011.jpg-1": {
+      "filename": "../virtual/survivor/local_J09_011.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 2,
+            "y": 368,
+            "width": 32,
+            "height": 40
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J09_012.jpg-1": {
+      "filename": "../virtual/survivor/local_J09_012.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1,
+            "y": 380,
+            "width": 28,
+            "height": 45
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/local_J09_013.jpg-1": {
+      "filename": "../virtual/survivor/local_J09_013.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1,
+            "y": 386,
+            "width": 30,
+            "height": 46
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
     }
   },
   "_via_attributes": {
