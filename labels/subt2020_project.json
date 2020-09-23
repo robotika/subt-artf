@@ -33,476 +33,151 @@
     "../virtual/toolbox/artf_TYPE_TOOLBOX_3109.jpg-1": {
       "filename": "../virtual/toolbox/artf_TYPE_TOOLBOX_3109.jpg",
       "size": -1,
-      "regions": [
-        {
-          "shape_attributes": {
-            "name": "rect",
-            "x": 3,
-            "y": 199,
-            "width": 415,
-            "height": 197
-          },
-          "region_attributes": {
-            "artifact": "toolbox"
-          }
-        }
-      ],
+      "regions": [],
       "file_attributes": {}
     },
     "../virtual/toolbox/artf_TYPE_TOOLBOX_3156.jpg-1": {
       "filename": "../virtual/toolbox/artf_TYPE_TOOLBOX_3156.jpg",
       "size": -1,
-      "regions": [
-        {
-          "shape_attributes": {
-            "name": "rect",
-            "x": 1104,
-            "y": 181,
-            "width": 168,
-            "height": 90
-          },
-          "region_attributes": {
-            "artifact": "toolbox"
-          }
-        }
-      ],
+      "regions": [],
       "file_attributes": {}
     },
     "../virtual/valve/artf_TYPE_VALVE_1119.jpg-1": {
       "filename": "../virtual/valve/artf_TYPE_VALVE_1119.jpg",
       "size": -1,
-      "regions": [
-        {
-          "shape_attributes": {
-            "name": "rect",
-            "x": 220,
-            "y": 1,
-            "width": 25,
-            "height": 29
-          },
-          "region_attributes": {
-            "artifact": "valve"
-          }
-        }
-      ],
+      "regions": [],
       "file_attributes": {}
     },
     "../virtual/radio/saveX-0010.jpg-1": {
       "filename": "../virtual/radio/saveX-0010.jpg",
       "size": -1,
-      "regions": [
-        {
-          "shape_attributes": {
-            "name": "rect",
-            "x": 282,
-            "y": 212,
-            "width": 9,
-            "height": 21
-          },
-          "region_attributes": {
-            "artifact": "radio"
-          }
-        }
-      ],
+      "regions": [],
       "file_attributes": {}
     },
     "../virtual/radio/saveX-0001.jpg-1": {
       "filename": "../virtual/radio/saveX-0001.jpg",
       "size": -1,
-      "regions": [
-        {
-          "shape_attributes": {
-            "name": "rect",
-            "x": 792,
-            "y": 206,
-            "width": 7,
-            "height": 12
-          },
-          "region_attributes": {
-            "artifact": "radio"
-          }
-        }
-      ],
+      "regions": [],
       "file_attributes": {}
     },
     "../virtual/radio/saveX-0002.jpg-1": {
       "filename": "../virtual/radio/saveX-0002.jpg",
       "size": -1,
-      "regions": [
-        {
-          "shape_attributes": {
-            "name": "rect",
-            "x": 804,
-            "y": 206,
-            "width": 10,
-            "height": 13
-          },
-          "region_attributes": {
-            "artifact": "radio"
-          }
-        }
-      ],
+      "regions": [],
       "file_attributes": {}
     },
     "../virtual/radio/artf_TYPE_RADIO_4316.jpg-1": {
       "filename": "../virtual/radio/artf_TYPE_RADIO_4316.jpg",
       "size": -1,
-      "regions": [
-        {
-          "shape_attributes": {
-            "name": "rect",
-            "x": 16,
-            "y": 224,
-            "width": 21,
-            "height": 31
-          },
-          "region_attributes": {
-            "artifact": "radio"
-          }
-        }
-      ],
+      "regions": [],
       "file_attributes": {}
     },
     "../virtual/radio/saveX-0008.jpg-1": {
       "filename": "../virtual/radio/saveX-0008.jpg",
       "size": -1,
-      "regions": [
-        {
-          "shape_attributes": {
-            "name": "rect",
-            "x": 604,
-            "y": 212,
-            "width": 5,
-            "height": 14
-          },
-          "region_attributes": {
-            "artifact": "radio"
-          }
-        }
-      ],
+      "regions": [],
       "file_attributes": {}
     },
     "../virtual/radio/saveX-0006.jpg-1": {
       "filename": "../virtual/radio/saveX-0006.jpg",
       "size": -1,
-      "regions": [
-        {
-          "shape_attributes": {
-            "name": "rect",
-            "x": 743,
-            "y": 209,
-            "width": 7,
-            "height": 16
-          },
-          "region_attributes": {
-            "artifact": "radio"
-          }
-        }
-      ],
+      "regions": [],
       "file_attributes": {}
     },
     "../virtual/radio/saveX-0005.jpg-1": {
       "filename": "../virtual/radio/saveX-0005.jpg",
       "size": -1,
-      "regions": [
-        {
-          "shape_attributes": {
-            "name": "rect",
-            "x": 779,
-            "y": 208,
-            "width": 7,
-            "height": 13
-          },
-          "region_attributes": {
-            "artifact": "radio"
-          }
-        }
-      ],
+      "regions": [],
       "file_attributes": {}
     },
     "../virtual/radio/saveX-0019.jpg-1": {
       "filename": "../virtual/radio/saveX-0019.jpg",
       "size": -1,
-      "regions": [
-        {
-          "shape_attributes": {
-            "name": "rect",
-            "x": 1,
-            "y": 230,
-            "width": 15,
-            "height": 32
-          },
-          "region_attributes": {
-            "artifact": "radio"
-          }
-        }
-      ],
+      "regions": [],
       "file_attributes": {}
     },
     "../virtual/radio/saveX-0015.jpg-1": {
       "filename": "../virtual/radio/saveX-0015.jpg",
       "size": -1,
-      "regions": [
-        {
-          "shape_attributes": {
-            "name": "rect",
-            "x": 221,
-            "y": 218,
-            "width": 9,
-            "height": 21
-          },
-          "region_attributes": {
-            "artifact": "radio"
-          }
-        }
-      ],
+      "regions": [],
       "file_attributes": {}
     },
     "../virtual/radio/saveX-0003.jpg-1": {
       "filename": "../virtual/radio/saveX-0003.jpg",
       "size": -1,
-      "regions": [
-        {
-          "shape_attributes": {
-            "name": "rect",
-            "x": 821,
-            "y": 207,
-            "width": 8,
-            "height": 13
-          },
-          "region_attributes": {
-            "artifact": "radio"
-          }
-        }
-      ],
+      "regions": [],
       "file_attributes": {}
     },
     "../virtual/radio/saveX-0007.jpg-1": {
       "filename": "../virtual/radio/saveX-0007.jpg",
       "size": -1,
-      "regions": [
-        {
-          "shape_attributes": {
-            "name": "rect",
-            "x": 673,
-            "y": 210,
-            "width": 7,
-            "height": 16
-          },
-          "region_attributes": {
-            "artifact": "radio"
-          }
-        }
-      ],
+      "regions": [],
       "file_attributes": {}
     },
     "../virtual/radio/saveX-0017.jpg-1": {
       "filename": "../virtual/radio/saveX-0017.jpg",
       "size": -1,
-      "regions": [
-        {
-          "shape_attributes": {
-            "name": "rect",
-            "x": 51,
-            "y": 225,
-            "width": 15,
-            "height": 29
-          },
-          "region_attributes": {
-            "artifact": "radio"
-          }
-        }
-      ],
+      "regions": [],
       "file_attributes": {}
     },
     "../virtual/radio/saveX-0011.jpg-1": {
       "filename": "../virtual/radio/saveX-0011.jpg",
       "size": -1,
-      "regions": [
-        {
-          "shape_attributes": {
-            "name": "rect",
-            "x": 274,
-            "y": 216,
-            "width": 10,
-            "height": 18
-          },
-          "region_attributes": {
-            "artifact": "radio"
-          }
-        }
-      ],
+      "regions": [],
       "file_attributes": {}
     },
     "../virtual/radio/saveX-0004.jpg-1": {
       "filename": "../virtual/radio/saveX-0004.jpg",
       "size": -1,
-      "regions": [
-        {
-          "shape_attributes": {
-            "name": "rect",
-            "x": 824,
-            "y": 205,
-            "width": 5,
-            "height": 16
-          },
-          "region_attributes": {
-            "artifact": "radio"
-          }
-        }
-      ],
+      "regions": [],
       "file_attributes": {}
     },
     "../virtual/radio/saveX-0014.jpg-1": {
       "filename": "../virtual/radio/saveX-0014.jpg",
       "size": -1,
-      "regions": [
-        {
-          "shape_attributes": {
-            "name": "rect",
-            "x": 219,
-            "y": 219,
-            "width": 10,
-            "height": 21
-          },
-          "region_attributes": {
-            "artifact": "radio"
-          }
-        }
-      ],
+      "regions": [],
       "file_attributes": {}
     },
     "../virtual/radio/saveX-0000.jpg-1": {
       "filename": "../virtual/radio/saveX-0000.jpg",
       "size": -1,
-      "regions": [
-        {
-          "shape_attributes": {
-            "name": "rect",
-            "x": 774,
-            "y": 207,
-            "width": 5,
-            "height": 12
-          },
-          "region_attributes": {
-            "artifact": "radio"
-          }
-        }
-      ],
+      "regions": [],
       "file_attributes": {}
     },
     "../virtual/radio/saveX-0018.jpg-1": {
       "filename": "../virtual/radio/saveX-0018.jpg",
       "size": -1,
-      "regions": [
-        {
-          "shape_attributes": {
-            "name": "rect",
-            "x": 38,
-            "y": 228,
-            "width": 15,
-            "height": 28
-          },
-          "region_attributes": {
-            "artifact": "radio"
-          }
-        }
-      ],
+      "regions": [],
       "file_attributes": {}
     },
     "../virtual/radio/saveX-0009.jpg-1": {
       "filename": "../virtual/radio/saveX-0009.jpg",
       "size": -1,
-      "regions": [
-        {
-          "shape_attributes": {
-            "name": "rect",
-            "x": 408,
-            "y": 212,
-            "width": 12,
-            "height": 18
-          },
-          "region_attributes": {
-            "artifact": "radio"
-          }
-        }
-      ],
+      "regions": [],
       "file_attributes": {}
     },
     "../virtual/radio/saveX-0012.jpg-1": {
       "filename": "../virtual/radio/saveX-0012.jpg",
       "size": -1,
-      "regions": [
-        {
-          "shape_attributes": {
-            "name": "rect",
-            "x": 266,
-            "y": 215,
-            "width": 10,
-            "height": 22
-          },
-          "region_attributes": {
-            "artifact": "radio"
-          }
-        }
-      ],
+      "regions": [],
       "file_attributes": {}
     },
     "../virtual/radio/saveX-0013.jpg-1": {
       "filename": "../virtual/radio/saveX-0013.jpg",
       "size": -1,
-      "regions": [
-        {
-          "shape_attributes": {
-            "name": "rect",
-            "x": 257,
-            "y": 216,
-            "width": 10,
-            "height": 20
-          },
-          "region_attributes": {
-            "artifact": "radio"
-          }
-        }
-      ],
+      "regions": [],
       "file_attributes": {}
     },
     "../virtual/radio/artf_TYPE_RADIO_3009.jpg-1": {
       "filename": "../virtual/radio/artf_TYPE_RADIO_3009.jpg",
       "size": -1,
-      "regions": [
-        {
-          "shape_attributes": {
-            "name": "rect",
-            "x": 28,
-            "y": 220,
-            "width": 19,
-            "height": 27
-          },
-          "region_attributes": {
-            "artifact": "radio"
-          }
-        }
-      ],
+      "regions": [],
       "file_attributes": {}
     },
     "../virtual/radio/saveX-0016.jpg-1": {
       "filename": "../virtual/radio/saveX-0016.jpg",
       "size": -1,
-      "regions": [
-        {
-          "shape_attributes": {
-            "name": "rect",
-            "x": 169,
-            "y": 222,
-            "width": 13,
-            "height": 25
-          },
-          "region_attributes": {
-            "artifact": "radio"
-          }
-        }
-      ],
+      "regions": [],
       "file_attributes": {}
     },
     "../virtual/phone/jirka-saveX-0000.jpg-1": {
@@ -527,77 +202,25 @@
     "../virtual/phone/saveX-0010.jpg-1": {
       "filename": "../virtual/phone/saveX-0010.jpg",
       "size": -1,
-      "regions": [
-        {
-          "shape_attributes": {
-            "name": "rect",
-            "x": 1153,
-            "y": 317,
-            "width": 66,
-            "height": 11
-          },
-          "region_attributes": {
-            "artifact": "phone"
-          }
-        }
-      ],
+      "regions": [],
       "file_attributes": {}
     },
     "../virtual/phone/saveX-0001.jpg-1": {
       "filename": "../virtual/phone/saveX-0001.jpg",
       "size": -1,
-      "regions": [
-        {
-          "shape_attributes": {
-            "name": "rect",
-            "x": 990,
-            "y": 264,
-            "width": 37,
-            "height": 10
-          },
-          "region_attributes": {
-            "artifact": "phone"
-          }
-        }
-      ],
+      "regions": [],
       "file_attributes": {}
     },
     "../virtual/phone/saveX-0002.jpg-1": {
       "filename": "../virtual/phone/saveX-0002.jpg",
       "size": -1,
-      "regions": [
-        {
-          "shape_attributes": {
-            "name": "rect",
-            "x": 998,
-            "y": 269,
-            "width": 37,
-            "height": 8
-          },
-          "region_attributes": {
-            "artifact": "phone"
-          }
-        }
-      ],
+      "regions": [],
       "file_attributes": {}
     },
     "../virtual/phone/saveX-0030.jpg-1": {
       "filename": "../virtual/phone/saveX-0030.jpg",
       "size": -1,
-      "regions": [
-        {
-          "shape_attributes": {
-            "name": "rect",
-            "x": 87,
-            "y": 235,
-            "width": 29,
-            "height": 4
-          },
-          "region_attributes": {
-            "artifact": "phone"
-          }
-        }
-      ],
+      "regions": [],
       "file_attributes": {}
     },
     "../virtual/phone/jirka-saveX-0008.jpg-1": {
@@ -622,20 +245,7 @@
     "../virtual/phone/saveX-0008.jpg-1": {
       "filename": "../virtual/phone/saveX-0008.jpg",
       "size": -1,
-      "regions": [
-        {
-          "shape_attributes": {
-            "name": "rect",
-            "x": 1144,
-            "y": 294,
-            "width": 54,
-            "height": 11
-          },
-          "region_attributes": {
-            "artifact": "phone"
-          }
-        }
-      ],
+      "regions": [],
       "file_attributes": {}
     },
     "../virtual/phone/phone-ver46p2-1.jpg-1": {
@@ -660,20 +270,7 @@
     "../virtual/phone/saveX-0006.jpg-1": {
       "filename": "../virtual/phone/saveX-0006.jpg",
       "size": -1,
-      "regions": [
-        {
-          "shape_attributes": {
-            "name": "rect",
-            "x": 1115,
-            "y": 282,
-            "width": 48,
-            "height": 12
-          },
-          "region_attributes": {
-            "artifact": "phone"
-          }
-        }
-      ],
+      "regions": [],
       "file_attributes": {}
     },
     "../virtual/phone/saveY-0000.jpg-1": {
@@ -698,39 +295,13 @@
     "../virtual/phone/saveX-0005.jpg-1": {
       "filename": "../virtual/phone/saveX-0005.jpg",
       "size": -1,
-      "regions": [
-        {
-          "shape_attributes": {
-            "name": "rect",
-            "x": 1075,
-            "y": 279,
-            "width": 43,
-            "height": 12
-          },
-          "region_attributes": {
-            "artifact": "phone"
-          }
-        }
-      ],
+      "regions": [],
       "file_attributes": {}
     },
     "../virtual/phone/saveX-0023.jpg-1": {
       "filename": "../virtual/phone/saveX-0023.jpg",
       "size": -1,
-      "regions": [
-        {
-          "shape_attributes": {
-            "name": "rect",
-            "x": 130,
-            "y": 228,
-            "width": 21,
-            "height": 3
-          },
-          "region_attributes": {
-            "artifact": "phone"
-          }
-        }
-      ],
+      "regions": [],
       "file_attributes": {}
     },
     "../virtual/phone/jirka-saveX-0005.jpg-1": {
@@ -812,20 +383,7 @@
     "../virtual/phone/saveX-0031.jpg-1": {
       "filename": "../virtual/phone/saveX-0031.jpg",
       "size": -1,
-      "regions": [
-        {
-          "shape_attributes": {
-            "name": "rect",
-            "x": 63,
-            "y": 235,
-            "width": 25,
-            "height": 6
-          },
-          "region_attributes": {
-            "artifact": "phone"
-          }
-        }
-      ],
+      "regions": [],
       "file_attributes": {}
     },
     "../virtual/phone/ji-ver54-saveX-0005.jpg-1": {
@@ -888,20 +446,7 @@
     "../virtual/phone/saveX-0027.jpg-1": {
       "filename": "../virtual/phone/saveX-0027.jpg",
       "size": -1,
-      "regions": [
-        {
-          "shape_attributes": {
-            "name": "rect",
-            "x": 106,
-            "y": 229,
-            "width": 20,
-            "height": 8
-          },
-          "region_attributes": {
-            "artifact": "phone"
-          }
-        }
-      ],
+      "regions": [],
       "file_attributes": {}
     },
     "../virtual/phone/jirka-saveX-0004.jpg-1": {
@@ -926,96 +471,31 @@
     "../virtual/phone/saveX-0015.jpg-1": {
       "filename": "../virtual/phone/saveX-0015.jpg",
       "size": -1,
-      "regions": [
-        {
-          "shape_attributes": {
-            "name": "rect",
-            "x": 1001,
-            "y": 284,
-            "width": 46,
-            "height": 12
-          },
-          "region_attributes": {
-            "artifact": "phone"
-          }
-        }
-      ],
+      "regions": [],
       "file_attributes": {}
     },
     "../virtual/phone/saveX-0003.jpg-1": {
       "filename": "../virtual/phone/saveX-0003.jpg",
       "size": -1,
-      "regions": [
-        {
-          "shape_attributes": {
-            "name": "rect",
-            "x": 1011,
-            "y": 273,
-            "width": 37,
-            "height": 11
-          },
-          "region_attributes": {
-            "artifact": "phone"
-          }
-        }
-      ],
+      "regions": [],
       "file_attributes": {}
     },
     "../virtual/phone/saveX-0007.jpg-1": {
       "filename": "../virtual/phone/saveX-0007.jpg",
       "size": -1,
-      "regions": [
-        {
-          "shape_attributes": {
-            "name": "rect",
-            "x": 1152,
-            "y": 288,
-            "width": 57,
-            "height": 13
-          },
-          "region_attributes": {
-            "artifact": "phone"
-          }
-        }
-      ],
+      "regions": [],
       "file_attributes": {}
     },
     "../virtual/phone/saveX-0026.jpg-1": {
       "filename": "../virtual/phone/saveX-0026.jpg",
       "size": -1,
-      "regions": [
-        {
-          "shape_attributes": {
-            "name": "rect",
-            "x": 87,
-            "y": 232,
-            "width": 22,
-            "height": 4
-          },
-          "region_attributes": {
-            "artifact": "phone"
-          }
-        }
-      ],
+      "regions": [],
       "file_attributes": {}
     },
     "../virtual/phone/saveX-0029.jpg-1": {
       "filename": "../virtual/phone/saveX-0029.jpg",
       "size": -1,
-      "regions": [
-        {
-          "shape_attributes": {
-            "name": "rect",
-            "x": 96,
-            "y": 233,
-            "width": 26,
-            "height": 4
-          },
-          "region_attributes": {
-            "artifact": "phone"
-          }
-        }
-      ],
+      "regions": [],
       "file_attributes": {}
     },
     "../virtual/phone/ji-ver54-saveX-0002.jpg-1": {
@@ -1059,20 +539,7 @@
     "../virtual/phone/saveX-0025.jpg-1": {
       "filename": "../virtual/phone/saveX-0025.jpg",
       "size": -1,
-      "regions": [
-        {
-          "shape_attributes": {
-            "name": "rect",
-            "x": 48,
-            "y": 231,
-            "width": 20,
-            "height": 4
-          },
-          "region_attributes": {
-            "artifact": "phone"
-          }
-        }
-      ],
+      "regions": [],
       "file_attributes": {}
     },
     "../virtual/phone/jirka-saveX-0006.jpg-1": {
@@ -1116,39 +583,13 @@
     "../virtual/phone/saveX-0020.jpg-1": {
       "filename": "../virtual/phone/saveX-0020.jpg",
       "size": -1,
-      "regions": [
-        {
-          "shape_attributes": {
-            "name": "rect",
-            "x": 220,
-            "y": 224,
-            "width": 18,
-            "height": 2
-          },
-          "region_attributes": {
-            "artifact": "phone"
-          }
-        }
-      ],
+      "regions": [],
       "file_attributes": {}
     },
     "../virtual/phone/saveX-0032.jpg-1": {
       "filename": "../virtual/phone/saveX-0032.jpg",
       "size": -1,
-      "regions": [
-        {
-          "shape_attributes": {
-            "name": "rect",
-            "x": 38,
-            "y": 236,
-            "width": 27,
-            "height": 5
-          },
-          "region_attributes": {
-            "artifact": "phone"
-          }
-        }
-      ],
+      "regions": [],
       "file_attributes": {}
     },
     "../virtual/phone/saveY-0001.jpg-1": {
@@ -1173,96 +614,31 @@
     "../virtual/phone/saveX-0021.jpg-1": {
       "filename": "../virtual/phone/saveX-0021.jpg",
       "size": -1,
-      "regions": [
-        {
-          "shape_attributes": {
-            "name": "rect",
-            "x": 195,
-            "y": 225,
-            "width": 17,
-            "height": 4
-          },
-          "region_attributes": {
-            "artifact": "phone"
-          }
-        }
-      ],
+      "regions": [],
       "file_attributes": {}
     },
     "../virtual/phone/saveX-0011.jpg-1": {
       "filename": "../virtual/phone/saveX-0011.jpg",
       "size": -1,
-      "regions": [
-        {
-          "shape_attributes": {
-            "name": "rect",
-            "x": 728,
-            "y": 268,
-            "width": 40,
-            "height": 5
-          },
-          "region_attributes": {
-            "artifact": "phone"
-          }
-        }
-      ],
+      "regions": [],
       "file_attributes": {}
     },
     "../virtual/phone/saveX-0024.jpg-1": {
       "filename": "../virtual/phone/saveX-0024.jpg",
       "size": -1,
-      "regions": [
-        {
-          "shape_attributes": {
-            "name": "rect",
-            "x": 84,
-            "y": 230,
-            "width": 28,
-            "height": 3
-          },
-          "region_attributes": {
-            "artifact": "phone"
-          }
-        }
-      ],
+      "regions": [],
       "file_attributes": {}
     },
     "../virtual/phone/saveX-0004.jpg-1": {
       "filename": "../virtual/phone/saveX-0004.jpg",
       "size": -1,
-      "regions": [
-        {
-          "shape_attributes": {
-            "name": "rect",
-            "x": 1045,
-            "y": 280,
-            "width": 49,
-            "height": 9
-          },
-          "region_attributes": {
-            "artifact": "phone"
-          }
-        }
-      ],
+      "regions": [],
       "file_attributes": {}
     },
     "../virtual/phone/saveX-0014.jpg-1": {
       "filename": "../virtual/phone/saveX-0014.jpg",
       "size": -1,
-      "regions": [
-        {
-          "shape_attributes": {
-            "name": "rect",
-            "x": 912,
-            "y": 280,
-            "width": 44,
-            "height": 11
-          },
-          "region_attributes": {
-            "artifact": "phone"
-          }
-        }
-      ],
+      "regions": [],
       "file_attributes": {}
     },
     "../virtual/phone/saveY-0002.jpg-1": {
@@ -1287,77 +663,25 @@
     "../virtual/phone/saveX-0009.jpg-1": {
       "filename": "../virtual/phone/saveX-0009.jpg",
       "size": -1,
-      "regions": [
-        {
-          "shape_attributes": {
-            "name": "rect",
-            "x": 1114,
-            "y": 301,
-            "width": 60,
-            "height": 15
-          },
-          "region_attributes": {
-            "artifact": "phone"
-          }
-        }
-      ],
+      "regions": [],
       "file_attributes": {}
     },
     "../virtual/phone/saveX-0012.jpg-1": {
       "filename": "../virtual/phone/saveX-0012.jpg",
       "size": -1,
-      "regions": [
-        {
-          "shape_attributes": {
-            "name": "rect",
-            "x": 776,
-            "y": 273,
-            "width": 37,
-            "height": 7
-          },
-          "region_attributes": {
-            "artifact": "phone"
-          }
-        }
-      ],
+      "regions": [],
       "file_attributes": {}
     },
     "../virtual/phone/saveX-0028.jpg-1": {
       "filename": "../virtual/phone/saveX-0028.jpg",
       "size": -1,
-      "regions": [
-        {
-          "shape_attributes": {
-            "name": "rect",
-            "x": 103,
-            "y": 233,
-            "width": 23,
-            "height": 5
-          },
-          "region_attributes": {
-            "artifact": "phone"
-          }
-        }
-      ],
+      "regions": [],
       "file_attributes": {}
     },
     "../virtual/phone/saveX-0013.jpg-1": {
       "filename": "../virtual/phone/saveX-0013.jpg",
       "size": -1,
-      "regions": [
-        {
-          "shape_attributes": {
-            "name": "rect",
-            "x": 808,
-            "y": 274,
-            "width": 41,
-            "height": 7
-          },
-          "region_attributes": {
-            "artifact": "phone"
-          }
-        }
-      ],
+      "regions": [],
       "file_attributes": {}
     },
     "../virtual/phone/jirka-saveX-0002.jpg-1": {
@@ -1401,20 +725,7 @@
     "../virtual/phone/saveX-0022.jpg-1": {
       "filename": "../virtual/phone/saveX-0022.jpg",
       "size": -1,
-      "regions": [
-        {
-          "shape_attributes": {
-            "name": "rect",
-            "x": 180,
-            "y": 227,
-            "width": 18,
-            "height": 4
-          },
-          "region_attributes": {
-            "artifact": "phone"
-          }
-        }
-      ],
+      "regions": [],
       "file_attributes": {}
     },
     "../virtual/phone/phone-ver46p2-0.jpg-1": {
@@ -5835,77 +5146,25 @@
     "../virtual/electrical-box/artf_TYPE_ELECTRICAL_BOX_1976.jpg-1": {
       "filename": "../virtual/electrical-box/artf_TYPE_ELECTRICAL_BOX_1976.jpg",
       "size": -1,
-      "regions": [
-        {
-          "shape_attributes": {
-            "name": "rect",
-            "x": 85,
-            "y": 173,
-            "width": 677,
-            "height": 371
-          },
-          "region_attributes": {
-            "artifact": "electrical_box"
-          }
-        }
-      ],
+      "regions": [],
       "file_attributes": {}
     },
     "../virtual/electrical-box/artf_TYPE_ELECTRICAL_BOX_1987.jpg-1": {
       "filename": "../virtual/electrical-box/artf_TYPE_ELECTRICAL_BOX_1987.jpg",
       "size": -1,
-      "regions": [
-        {
-          "shape_attributes": {
-            "name": "rect",
-            "x": 714,
-            "y": 181,
-            "width": 461,
-            "height": 237
-          },
-          "region_attributes": {
-            "artifact": "electrical_box"
-          }
-        }
-      ],
+      "regions": [],
       "file_attributes": {}
     },
     "../virtual/electrical-box/artf_TYPE_ELECTRICAL_BOX_1983.jpg-1": {
       "filename": "../virtual/electrical-box/artf_TYPE_ELECTRICAL_BOX_1983.jpg",
       "size": -1,
-      "regions": [
-        {
-          "shape_attributes": {
-            "name": "rect",
-            "x": 68,
-            "y": 179,
-            "width": 639,
-            "height": 336
-          },
-          "region_attributes": {
-            "artifact": "electrical_box"
-          }
-        }
-      ],
+      "regions": [],
       "file_attributes": {}
     },
     "../virtual/extinguisher/artf_TYPE_EXTINGUISHER_1195.jpg-1": {
       "filename": "../virtual/extinguisher/artf_TYPE_EXTINGUISHER_1195.jpg",
       "size": -1,
-      "regions": [
-        {
-          "shape_attributes": {
-            "name": "rect",
-            "x": 2,
-            "y": 156,
-            "width": 68,
-            "height": 250
-          },
-          "region_attributes": {
-            "artifact": "fire_extinguisher"
-          }
-        }
-      ],
+      "regions": [],
       "file_attributes": {}
     },
     "../virtual/backpack/ver51p1b-zw-11.jpg-1": {
@@ -5961,39 +5220,13 @@
     "../virtual/backpack/artf_TYPE_TOOLBOX_2912.jpg-1": {
       "filename": "../virtual/backpack/artf_TYPE_TOOLBOX_2912.jpg",
       "size": -1,
-      "regions": [
-        {
-          "shape_attributes": {
-            "name": "rect",
-            "x": 1219,
-            "y": 142,
-            "width": 60,
-            "height": 96
-          },
-          "region_attributes": {
-            "artifact": "backpack"
-          }
-        }
-      ],
+      "regions": [],
       "file_attributes": {}
     },
     "../virtual/backpack/artf_TYPE_TOOLBOX_3068.jpg-1": {
       "filename": "../virtual/backpack/artf_TYPE_TOOLBOX_3068.jpg",
       "size": -1,
-      "regions": [
-        {
-          "shape_attributes": {
-            "name": "rect",
-            "x": 1210,
-            "y": 144,
-            "width": 61,
-            "height": 91
-          },
-          "region_attributes": {
-            "artifact": "backpack"
-          }
-        }
-      ],
+      "regions": [],
       "file_attributes": {}
     },
     "../virtual/backpack/ver51p1b-zw-03.jpg-1": {
@@ -6698,20 +5931,7 @@
     "../virtual/backpack/artf_TYPE_BACKPACK_1723.jpg-1": {
       "filename": "../virtual/backpack/artf_TYPE_BACKPACK_1723.jpg",
       "size": -1,
-      "regions": [
-        {
-          "shape_attributes": {
-            "name": "rect",
-            "x": 1056,
-            "y": 7,
-            "width": 224,
-            "height": 394
-          },
-          "region_attributes": {
-            "artifact": "backpack"
-          }
-        }
-      ],
+      "regions": [],
       "file_attributes": {}
     },
     "../virtual/backpack/aws-ver44p1-C120F800L-TYPE_BACKPACK-301.jpg-1": {
@@ -6774,20 +5994,7 @@
     "../virtual/backpack/artf_TYPE_TOOLBOX_2285.jpg-1": {
       "filename": "../virtual/backpack/artf_TYPE_TOOLBOX_2285.jpg",
       "size": -1,
-      "regions": [
-        {
-          "shape_attributes": {
-            "name": "rect",
-            "x": 14,
-            "y": 25,
-            "width": 234,
-            "height": 347
-          },
-          "region_attributes": {
-            "artifact": "backpack"
-          }
-        }
-      ],
+      "regions": [],
       "file_attributes": {}
     },
     "../virtual/backpack/ver51p1b-zw-02.jpg-1": {
@@ -6812,20 +6019,7 @@
     "../virtual/backpack/artf_TYPE_TOOLBOX_4409.jpg-1": {
       "filename": "../virtual/backpack/artf_TYPE_TOOLBOX_4409.jpg",
       "size": -1,
-      "regions": [
-        {
-          "shape_attributes": {
-            "name": "rect",
-            "x": 1200,
-            "y": 145,
-            "width": 63,
-            "height": 92
-          },
-          "region_attributes": {
-            "artifact": "backpack"
-          }
-        }
-      ],
+      "regions": [],
       "file_attributes": {}
     },
     "../virtual/backpack/ver51p3b-md-02.jpg-1": {
@@ -6907,20 +6101,7 @@
     "../virtual/backpack/artf_TYPE_TOOLBOX_2268.jpg-1": {
       "filename": "../virtual/backpack/artf_TYPE_TOOLBOX_2268.jpg",
       "size": -1,
-      "regions": [
-        {
-          "shape_attributes": {
-            "name": "rect",
-            "x": 2,
-            "y": 17,
-            "width": 225,
-            "height": 361
-          },
-          "region_attributes": {
-            "artifact": "backpack"
-          }
-        }
-      ],
+      "regions": [],
       "file_attributes": {}
     },
     "../virtual/backpack/ver51p3b-md-01.jpg-1": {
@@ -7021,39 +6202,13 @@
     "../virtual/backpack/artf_TYPE_TOOLBOX_1557.jpg-1": {
       "filename": "../virtual/backpack/artf_TYPE_TOOLBOX_1557.jpg",
       "size": -1,
-      "regions": [
-        {
-          "shape_attributes": {
-            "name": "rect",
-            "x": 3,
-            "y": 17,
-            "width": 249,
-            "height": 369
-          },
-          "region_attributes": {
-            "artifact": "backpack"
-          }
-        }
-      ],
+      "regions": [],
       "file_attributes": {}
     },
     "../virtual/backpack/artf_TYPE_TOOLBOX_1773.jpg-1": {
       "filename": "../virtual/backpack/artf_TYPE_TOOLBOX_1773.jpg",
       "size": -1,
-      "regions": [
-        {
-          "shape_attributes": {
-            "name": "rect",
-            "x": 1038,
-            "y": 8,
-            "width": 234,
-            "height": 400
-          },
-          "region_attributes": {
-            "artifact": "backpack"
-          }
-        }
-      ],
+      "regions": [],
       "file_attributes": {}
     },
     "../virtual/backpack/backpack3.jpg-1": {
@@ -7173,20 +6328,7 @@
     "../virtual/robot/artf_TYPE_VALVE_97.jpg-1": {
       "filename": "../virtual/robot/artf_TYPE_VALVE_97.jpg",
       "size": -1,
-      "regions": [
-        {
-          "shape_attributes": {
-            "name": "rect",
-            "x": 409,
-            "y": 186,
-            "width": 339,
-            "height": 190
-          },
-          "region_attributes": {
-            "artifact": "robot"
-          }
-        }
-      ],
+      "regions": [],
       "file_attributes": {}
     },
     "../virtual/robot/robot2.jpg-1": {
@@ -7211,20 +6353,7 @@
     "../virtual/robot/artf_TYPE_TOOLBOX_158.jpg-1": {
       "filename": "../virtual/robot/artf_TYPE_TOOLBOX_158.jpg",
       "size": -1,
-      "regions": [
-        {
-          "shape_attributes": {
-            "name": "rect",
-            "x": 2,
-            "y": 137,
-            "width": 547,
-            "height": 357
-          },
-          "region_attributes": {
-            "artifact": "robot"
-          }
-        }
-      ],
+      "regions": [],
       "file_attributes": {}
     },
     "../virtual/robot/aws-ver48p3-B90F900R-TYPE_RESCUE_RANDY-500.jpg-1": {
@@ -7261,20 +6390,7 @@
     "../virtual/robot/artf_TYPE_VALVE_215.jpg-1": {
       "filename": "../virtual/robot/artf_TYPE_VALVE_215.jpg",
       "size": -1,
-      "regions": [
-        {
-          "shape_attributes": {
-            "name": "rect",
-            "x": 34,
-            "y": 16,
-            "width": 259,
-            "height": 107
-          },
-          "region_attributes": {
-            "artifact": "robot"
-          }
-        }
-      ],
+      "regions": [],
       "file_attributes": {}
     },
     "../virtual/robot/aws-ver48p3-B90F900R-TYPE_RESCUE_RANDY-502.jpg-1": {
@@ -7299,20 +6415,7 @@
     "../virtual/robot/artf_TYPE_VALVE_269.jpg-1": {
       "filename": "../virtual/robot/artf_TYPE_VALVE_269.jpg",
       "size": -1,
-      "regions": [
-        {
-          "shape_attributes": {
-            "name": "rect",
-            "x": 96,
-            "y": 17,
-            "width": 196,
-            "height": 118
-          },
-          "region_attributes": {
-            "artifact": "robot"
-          }
-        }
-      ],
+      "regions": [],
       "file_attributes": {}
     },
     "../virtual/robot/aws-ver48p3-B90F900R-TYPE_BACKPACK-575.jpg-1": {
@@ -7337,20 +6440,7 @@
     "../virtual/robot/artf_TYPE_TOOLBOX_213.jpg-1": {
       "filename": "../virtual/robot/artf_TYPE_TOOLBOX_213.jpg",
       "size": -1,
-      "regions": [
-        {
-          "shape_attributes": {
-            "name": "rect",
-            "x": 462,
-            "y": 115,
-            "width": 331,
-            "height": 142
-          },
-          "region_attributes": {
-            "artifact": "robot"
-          }
-        }
-      ],
+      "regions": [],
       "file_attributes": {}
     },
     "../virtual/robot/robot0.jpg-1": {
@@ -7603,20 +6693,7 @@
     "../virtual/robot/artf_TYPE_VALVE_234.jpg-1": {
       "filename": "../virtual/robot/artf_TYPE_VALVE_234.jpg",
       "size": -1,
-      "regions": [
-        {
-          "shape_attributes": {
-            "name": "rect",
-            "x": 1088,
-            "y": 146,
-            "width": 190,
-            "height": 102
-          },
-          "region_attributes": {
-            "artifact": "robot"
-          }
-        }
-      ],
+      "regions": [],
       "file_attributes": {}
     },
     "../virtual/robot/aws-ver48p3-B90F900R-TYPE_BACKPACK-65.jpg-1": {
@@ -7717,39 +6794,13 @@
     "../virtual/robot/artf_TYPE_VALVE_147.jpg-1": {
       "filename": "../virtual/robot/artf_TYPE_VALVE_147.jpg",
       "size": -1,
-      "regions": [
-        {
-          "shape_attributes": {
-            "name": "rect",
-            "x": 1,
-            "y": 309,
-            "width": 201,
-            "height": 203
-          },
-          "region_attributes": {
-            "artifact": "robot"
-          }
-        }
-      ],
+      "regions": [],
       "file_attributes": {}
     },
     "../virtual/robot/artf_TYPE_VALVE_92.jpg-1": {
       "filename": "../virtual/robot/artf_TYPE_VALVE_92.jpg",
       "size": -1,
-      "regions": [
-        {
-          "shape_attributes": {
-            "name": "rect",
-            "x": 359,
-            "y": 189,
-            "width": 107,
-            "height": 59
-          },
-          "region_attributes": {
-            "artifact": "robot"
-          }
-        }
-      ],
+      "regions": [],
       "file_attributes": {}
     },
     "../virtual/robot/aws-ver44p1-C120F800L-TYPE_BACKPACK-580.jpg-1": {
@@ -7774,39 +6825,13 @@
     "../virtual/robot/artf_TYPE_VALVE_114.jpg-1": {
       "filename": "../virtual/robot/artf_TYPE_VALVE_114.jpg",
       "size": -1,
-      "regions": [
-        {
-          "shape_attributes": {
-            "name": "rect",
-            "x": 363,
-            "y": 195,
-            "width": 104,
-            "height": 51
-          },
-          "region_attributes": {
-            "artifact": "robot"
-          }
-        }
-      ],
+      "regions": [],
       "file_attributes": {}
     },
     "../virtual/robot/artf_TYPE_VALVE_93.jpg-1": {
       "filename": "../virtual/robot/artf_TYPE_VALVE_93.jpg",
       "size": -1,
-      "regions": [
-        {
-          "shape_attributes": {
-            "name": "rect",
-            "x": 2,
-            "y": 202,
-            "width": 357,
-            "height": 166
-          },
-          "region_attributes": {
-            "artifact": "robot"
-          }
-        }
-      ],
+      "regions": [],
       "file_attributes": {}
     },
     "../virtual/robot/aws-ver48p3-B90F900R-TYPE_BACKPACK-64.jpg-1": {
@@ -29491,6 +28516,3757 @@
           },
           "region_attributes": {
             "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone000.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone000.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 587,
+            "y": 371,
+            "width": 52,
+            "height": 54
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone001.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone001.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 299,
+            "y": 230,
+            "width": 36,
+            "height": 106
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone002.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone002.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 401,
+            "y": 360,
+            "width": 27,
+            "height": 95
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone003.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone003.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 377,
+            "y": 387,
+            "width": 42,
+            "height": 89
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone004.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone004.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 357,
+            "y": 369,
+            "width": 45,
+            "height": 86
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone005.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone005.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 130,
+            "y": 465,
+            "width": 36,
+            "height": 14
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone006.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone006.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 108,
+            "y": 442,
+            "width": 50,
+            "height": 29
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone007.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone007.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 94,
+            "y": 414,
+            "width": 53,
+            "height": 33
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone008.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone008.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 70,
+            "y": 421,
+            "width": 61,
+            "height": 33
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone009.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone009.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 69,
+            "y": 471,
+            "width": 54,
+            "height": 9
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone010.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone010.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 201,
+            "y": 444,
+            "width": 22,
+            "height": 15
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone011.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone011.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 201,
+            "y": 416,
+            "width": 22,
+            "height": 11
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone012.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone012.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 202,
+            "y": 385,
+            "width": 18,
+            "height": 12
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone013.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone013.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 203,
+            "y": 359,
+            "width": 18,
+            "height": 11
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone014.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone014.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 204,
+            "y": 331,
+            "width": 18,
+            "height": 9
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone015.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone015.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 191,
+            "y": 340,
+            "width": 21,
+            "height": 10
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone016.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone016.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 273,
+            "y": 365,
+            "width": 15,
+            "height": 11
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone017.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone017.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 349,
+            "y": 391,
+            "width": 18,
+            "height": 12
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone018.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone018.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 425,
+            "y": 421,
+            "width": 21,
+            "height": 14
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone019.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone019.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 430,
+            "y": 448,
+            "width": 21,
+            "height": 15
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone020.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone020.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 355,
+            "y": 471,
+            "width": 22,
+            "height": 9
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone021.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone021.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 225,
+            "y": 460,
+            "width": 14,
+            "height": 9
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone022.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone022.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 228,
+            "y": 444,
+            "width": 12,
+            "height": 9
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone023.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone023.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 242,
+            "y": 404,
+            "width": 11,
+            "height": 9
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone024.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone024.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 241,
+            "y": 426,
+            "width": 9,
+            "height": 9
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone025.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone025.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 236,
+            "y": 446,
+            "width": 12,
+            "height": 8
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone026.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone026.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 235,
+            "y": 463,
+            "width": 10,
+            "height": 11
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone027.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone027.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 233,
+            "y": 425,
+            "width": 10,
+            "height": 10
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone028.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone028.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 233,
+            "y": 404,
+            "width": 12,
+            "height": 10
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone029.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone029.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 224,
+            "y": 356,
+            "width": 12,
+            "height": 8
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone030.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone030.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 221,
+            "y": 383,
+            "width": 11,
+            "height": 10
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone031.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone031.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 219,
+            "y": 411,
+            "width": 12,
+            "height": 12
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone032.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone032.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 215,
+            "y": 438,
+            "width": 16,
+            "height": 12
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone033.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone033.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 213,
+            "y": 466,
+            "width": 14,
+            "height": 13
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone034.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone034.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 3,
+            "y": 451,
+            "width": 37,
+            "height": 25
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone035.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone035.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1,
+            "y": 411,
+            "width": 37,
+            "height": 22
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone036.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone036.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1,
+            "y": 371,
+            "width": 36,
+            "height": 17
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone037.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone037.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 2,
+            "y": 329,
+            "width": 34,
+            "height": 12
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone038.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone038.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 412,
+            "y": 330,
+            "width": 26,
+            "height": 15
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone039.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone039.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 372,
+            "y": 359,
+            "width": 29,
+            "height": 16
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone040.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone040.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 294,
+            "y": 393,
+            "width": 31,
+            "height": 19
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone041.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone041.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 212,
+            "y": 438,
+            "width": 36,
+            "height": 20
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone042.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone042.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 198,
+            "y": 466,
+            "width": 28,
+            "height": 13
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone043.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone043.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 199,
+            "y": 458,
+            "width": 24,
+            "height": 18
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone044.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone044.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 200,
+            "y": 449,
+            "width": 22,
+            "height": 18
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone045.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone045.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 198,
+            "y": 444,
+            "width": 23,
+            "height": 16
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone046.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone046.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 196,
+            "y": 434,
+            "width": 25,
+            "height": 16
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone047.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone047.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 198,
+            "y": 424,
+            "width": 23,
+            "height": 15
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone048.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone048.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 198,
+            "y": 405,
+            "width": 23,
+            "height": 15
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone049.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone049.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 199,
+            "y": 390,
+            "width": 22,
+            "height": 16
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone050.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone050.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 197,
+            "y": 384,
+            "width": 22,
+            "height": 12
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone051.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone051.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 198,
+            "y": 366,
+            "width": 24,
+            "height": 13
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone052.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone052.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 200,
+            "y": 357,
+            "width": 22,
+            "height": 11
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 548,
+            "y": 4,
+            "width": 78,
+            "height": 35
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone053.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone053.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 200,
+            "y": 350,
+            "width": 22,
+            "height": 10
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone054.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone054.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 331,
+            "y": 352,
+            "width": 21,
+            "height": 11
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone055.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone055.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 348,
+            "y": 398,
+            "width": 23,
+            "height": 14
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone056.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone056.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 352,
+            "y": 421,
+            "width": 21,
+            "height": 15
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone057.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone057.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 352,
+            "y": 448,
+            "width": 22,
+            "height": 16
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone058.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone058.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 350,
+            "y": 456,
+            "width": 22,
+            "height": 15
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone059.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone059.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 350,
+            "y": 444,
+            "width": 21,
+            "height": 14
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone060.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone060.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 352,
+            "y": 414,
+            "width": 19,
+            "height": 13
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone061.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone061.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 350,
+            "y": 401,
+            "width": 21,
+            "height": 15
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone062.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone062.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 352,
+            "y": 393,
+            "width": 18,
+            "height": 12
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone063.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone063.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 352,
+            "y": 379,
+            "width": 19,
+            "height": 13
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone064.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone064.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 351,
+            "y": 356,
+            "width": 20,
+            "height": 11
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone065.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone065.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 351,
+            "y": 344,
+            "width": 19,
+            "height": 9
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone066.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone066.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 352,
+            "y": 397,
+            "width": 22,
+            "height": 14
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone067.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone067.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 354,
+            "y": 440,
+            "width": 23,
+            "height": 17
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone068.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone068.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 367,
+            "y": 450,
+            "width": 17,
+            "height": 10
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone069.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone069.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 368,
+            "y": 441,
+            "width": 16,
+            "height": 9
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone070.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone070.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 368,
+            "y": 427,
+            "width": 15,
+            "height": 9
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone071.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone071.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 369,
+            "y": 413,
+            "width": 13,
+            "height": 11
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone072.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone072.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 368,
+            "y": 408,
+            "width": 16,
+            "height": 8
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone073.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone073.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 367,
+            "y": 398,
+            "width": 16,
+            "height": 10
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone074.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone074.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 367,
+            "y": 380,
+            "width": 14,
+            "height": 8
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone075.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone075.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 336,
+            "y": 325,
+            "width": 19,
+            "height": 7
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone076.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone076.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 411,
+            "y": 357,
+            "width": 16,
+            "height": 12
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone077.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone077.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 486,
+            "y": 398,
+            "width": 25,
+            "height": 14
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone078.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone078.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 574,
+            "y": 452,
+            "width": 32,
+            "height": 16
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone079.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone079.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 362,
+            "y": 433,
+            "width": 14,
+            "height": 11
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone080.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone080.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 360,
+            "y": 418,
+            "width": 16,
+            "height": 12
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone081.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone081.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 363,
+            "y": 402,
+            "width": 14,
+            "height": 10
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone082.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone082.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 364,
+            "y": 388,
+            "width": 14,
+            "height": 11
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone083.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone083.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 364,
+            "y": 422,
+            "width": 15,
+            "height": 14
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone084.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone084.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 366,
+            "y": 459,
+            "width": 14,
+            "height": 14
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone085.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone085.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 368,
+            "y": 429,
+            "width": 21,
+            "height": 16
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone086.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone086.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 368,
+            "y": 362,
+            "width": 18,
+            "height": 10
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone087.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone087.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 326,
+            "y": 454,
+            "width": 24,
+            "height": 18
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone088.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone088.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 360,
+            "y": 436,
+            "width": 31,
+            "height": 24
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone089.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone089.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 361,
+            "y": 392,
+            "width": 30,
+            "height": 18
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone090.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone090.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 358,
+            "y": 341,
+            "width": 32,
+            "height": 13
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone091.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone091.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 309,
+            "y": 410,
+            "width": 26,
+            "height": 16
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone092.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone092.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 338,
+            "y": 463,
+            "width": 39,
+            "height": 15
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone093.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone093.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 343,
+            "y": 444,
+            "width": 35,
+            "height": 17
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone094.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone094.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 344,
+            "y": 441,
+            "width": 34,
+            "height": 16
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone095.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone095.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 344,
+            "y": 426,
+            "width": 34,
+            "height": 14
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone096.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone096.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 344,
+            "y": 409,
+            "width": 35,
+            "height": 14
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone097.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone097.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 342,
+            "y": 397,
+            "width": 35,
+            "height": 13
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone098.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone098.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 342,
+            "y": 381,
+            "width": 34,
+            "height": 12
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone099.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone099.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 345,
+            "y": 364,
+            "width": 33,
+            "height": 13
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone100.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone100.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 344,
+            "y": 354,
+            "width": 36,
+            "height": 12
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone101.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone101.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 344,
+            "y": 340,
+            "width": 34,
+            "height": 12
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone102.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone102.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 344,
+            "y": 324,
+            "width": 36,
+            "height": 10
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 13,
+            "y": 1,
+            "width": 86,
+            "height": 42
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone103.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone103.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 344,
+            "y": 310,
+            "width": 36,
+            "height": 10
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone104.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone104.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 346,
+            "y": 297,
+            "width": 35,
+            "height": 10
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone105.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone105.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 344,
+            "y": 354,
+            "width": 33,
+            "height": 10
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone106.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone106.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 347,
+            "y": 374,
+            "width": 27,
+            "height": 12
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone107.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone107.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 341,
+            "y": 423,
+            "width": 28,
+            "height": 13
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone108.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone108.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 341,
+            "y": 448,
+            "width": 28,
+            "height": 12
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone109.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone109.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 342,
+            "y": 464,
+            "width": 26,
+            "height": 12
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone110.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone110.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 340,
+            "y": 455,
+            "width": 22,
+            "height": 9
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone111.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone111.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 338,
+            "y": 445,
+            "width": 22,
+            "height": 11
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone112.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone112.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 339,
+            "y": 430,
+            "width": 22,
+            "height": 12
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone113.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone113.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 340,
+            "y": 410,
+            "width": 20,
+            "height": 10
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone114.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone114.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 339,
+            "y": 399,
+            "width": 21,
+            "height": 8
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone115.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone115.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 340,
+            "y": 392,
+            "width": 20,
+            "height": 7
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone116.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone116.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 418,
+            "y": 356,
+            "width": 24,
+            "height": 9
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone117.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone117.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 423,
+            "y": 383,
+            "width": 24,
+            "height": 10
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone118.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone118.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 428,
+            "y": 446,
+            "width": 26,
+            "height": 11
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone119.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone119.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 444,
+            "y": 463,
+            "width": 33,
+            "height": 14
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone120.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone120.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 445,
+            "y": 433,
+            "width": 31,
+            "height": 14
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone121.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone121.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 444,
+            "y": 407,
+            "width": 27,
+            "height": 11
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone122.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone122.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 443,
+            "y": 363,
+            "width": 30,
+            "height": 11
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone123.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone123.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 443,
+            "y": 339,
+            "width": 30,
+            "height": 10
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone124.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone124.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 535,
+            "y": 292,
+            "width": 33,
+            "height": 10
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone125.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone125.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 535,
+            "y": 292,
+            "width": 32,
+            "height": 10
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone126.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone126.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 237,
+            "y": 460,
+            "width": 12,
+            "height": 9
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone127.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone127.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 238,
+            "y": 444,
+            "width": 13,
+            "height": 8
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone128.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone128.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 237,
+            "y": 429,
+            "width": 12,
+            "height": 8
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone129.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone129.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 236,
+            "y": 416,
+            "width": 13,
+            "height": 8
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone130.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone130.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 236,
+            "y": 437,
+            "width": 14,
+            "height": 11
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone131.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone131.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 241,
+            "y": 371,
+            "width": 12,
+            "height": 8
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone132.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone132.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 219,
+            "y": 460,
+            "width": 15,
+            "height": 11
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone133.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone133.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 222,
+            "y": 443,
+            "width": 14,
+            "height": 10
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone134.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone134.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 220,
+            "y": 410,
+            "width": 13,
+            "height": 8
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone135.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone135.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 220,
+            "y": 394,
+            "width": 14,
+            "height": 7
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone136.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone136.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 264,
+            "y": 412,
+            "width": 20,
+            "height": 13
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone137.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone137.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 444,
+            "y": 461,
+            "width": 38,
+            "height": 18
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone138.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone138.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 446,
+            "y": 446,
+            "width": 37,
+            "height": 24
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone139.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone139.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 444,
+            "y": 416,
+            "width": 39,
+            "height": 19
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone140.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone140.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 444,
+            "y": 398,
+            "width": 37,
+            "height": 19
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone141.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone141.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 440,
+            "y": 384,
+            "width": 41,
+            "height": 15
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 44,
+            "y": 0,
+            "width": 95,
+            "height": 39
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone142.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone142.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 440,
+            "y": 368,
+            "width": 41,
+            "height": 16
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone143.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone143.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 441,
+            "y": 353,
+            "width": 41,
+            "height": 13
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone144.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone144.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 394,
+            "y": 464,
+            "width": 34,
+            "height": 15
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone145.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone145.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 403,
+            "y": 430,
+            "width": 33,
+            "height": 17
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone146.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone146.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 370,
+            "y": 435,
+            "width": 14,
+            "height": 8
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 75,
+            "y": 3,
+            "width": 84,
+            "height": 31
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone147.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone147.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 370,
+            "y": 410,
+            "width": 15,
+            "height": 9
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone148.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone148.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 371,
+            "y": 385,
+            "width": 14,
+            "height": 8
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone149.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone149.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 392,
+            "y": 398,
+            "width": 14,
+            "height": 7
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone150.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone150.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 391,
+            "y": 435,
+            "width": 19,
+            "height": 10
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone151.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone151.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 445,
+            "y": 440,
+            "width": 30,
+            "height": 18
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone152.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone152.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 446,
+            "y": 400,
+            "width": 30,
+            "height": 15
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone153.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone153.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 457,
+            "y": 370,
+            "width": 27,
+            "height": 12
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone154.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone154.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 532,
+            "y": 392,
+            "width": 28,
+            "height": 13
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1,
+            "y": 2,
+            "width": 57,
+            "height": 40
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone155.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone155.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 408,
+            "y": 467,
+            "width": 25,
+            "height": 11
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone156.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone156.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 411,
+            "y": 467,
+            "width": 22,
+            "height": 10
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone157.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone157.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 411,
+            "y": 425,
+            "width": 24,
+            "height": 10
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone158.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone158.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 411,
+            "y": 406,
+            "width": 23,
+            "height": 8
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone159.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone159.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 409,
+            "y": 449,
+            "width": 31,
+            "height": 11
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone160.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone160.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 617,
+            "y": 411,
+            "width": 22,
+            "height": 14
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone161.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone161.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 603,
+            "y": 395,
+            "width": 24,
+            "height": 12
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone162.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone162.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 586,
+            "y": 373,
+            "width": 24,
+            "height": 10
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone163.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone163.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 564,
+            "y": 351,
+            "width": 20,
+            "height": 10
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone164.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone164.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 479,
+            "y": 296,
+            "width": 20,
+            "height": 7
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone165.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone165.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 397,
+            "y": 285,
+            "width": 19,
+            "height": 8
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone166.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone166.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 331,
+            "y": 397,
+            "width": 21,
+            "height": 7
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone167.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone167.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 336,
+            "y": 440,
+            "width": 18,
+            "height": 8
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone168.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone168.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 334,
+            "y": 450,
+            "width": 19,
+            "height": 9
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone169.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone169.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 334,
+            "y": 418,
+            "width": 17,
+            "height": 8
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone170.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone170.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 336,
+            "y": 406,
+            "width": 16,
+            "height": 8
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone171.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone171.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 335,
+            "y": 386,
+            "width": 19,
+            "height": 8
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone172.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone172.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 336,
+            "y": 347,
+            "width": 19,
+            "height": 8
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone173.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone173.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 344,
+            "y": 446,
+            "width": 27,
+            "height": 14
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone174.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone174.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 348,
+            "y": 440,
+            "width": 24,
+            "height": 12
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone175.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone175.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 347,
+            "y": 419,
+            "width": 25,
+            "height": 11
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone176.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone176.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 344,
+            "y": 390,
+            "width": 26,
+            "height": 10
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone177.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone177.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 346,
+            "y": 332,
+            "width": 32,
+            "height": 10
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone178.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone178.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 352,
+            "y": 429,
+            "width": 30,
+            "height": 15
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone179.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone179.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 349,
+            "y": 359,
+            "width": 32,
+            "height": 14
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone180.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone180.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 351,
+            "y": 292,
+            "width": 31,
+            "height": 10
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone181.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone181.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 352,
+            "y": 458,
+            "width": 34,
+            "height": 18
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone182.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone182.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 352,
+            "y": 392,
+            "width": 44,
+            "height": 20
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone183.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone183.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 352,
+            "y": 307,
+            "width": 45,
+            "height": 14
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone184.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone184.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 349,
+            "y": 434,
+            "width": 47,
+            "height": 21
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 64,
+            "y": 0,
+            "width": 83,
+            "height": 35
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone185.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone185.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 267,
+            "y": 350,
+            "width": 40,
+            "height": 13
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone186.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone186.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 434,
+            "y": 261,
+            "width": 28,
+            "height": 10
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone187.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone187.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 122,
+            "y": 432,
+            "width": 49,
+            "height": 17
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone188.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone188.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 187,
+            "y": 467,
+            "width": 48,
+            "height": 13
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone189.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone189.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 2,
+            "y": 455,
+            "width": 44,
+            "height": 11
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 133,
+            "y": 1,
+            "width": 71,
+            "height": 21
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone190.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone190.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 44,
+            "y": 460,
+            "width": 60,
+            "height": 14
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone191.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone191.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 319,
+            "y": 449,
+            "width": 48,
+            "height": 10
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/manual_collection_phone192.jpg-1": {
+      "filename": "../virtual/phone/manual_collection_phone192.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 321,
+            "y": 426,
+            "width": 46,
+            "height": 11
+          },
+          "region_attributes": {
+            "artifact": "phone"
           }
         }
       ],
