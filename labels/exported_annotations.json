@@ -2761,7 +2761,7 @@
           "name": "rect",
           "x": 21,
           "y": 99,
-          "width": 29,
+          "width": 27,
           "height": 34
         },
         "region_attributes": {
@@ -6856,6 +6856,18 @@
         "region_attributes": {
           "artifact": "survivor"
         }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 262,
+          "y": 135,
+          "width": 11,
+          "height": 13
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
       }
     ],
     "file_attributes": {}
@@ -7202,6 +7214,18 @@
         },
         "region_attributes": {
           "artifact": "survivor"
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 475,
+          "y": 126,
+          "width": 14,
+          "height": 17
+        },
+        "region_attributes": {
+          "artifact": "vent"
         }
       }
     ],
@@ -41750,6 +41774,1469 @@
         },
         "region_attributes": {
           "artifact": "breadcrumb"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/vent-u1-0000.jpg-1": {
+    "filename": "../virtual/vent/vent-u1-0000.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 557,
+          "y": 174,
+          "width": 76,
+          "height": 68
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/vent-u1-0001.jpg-1": {
+    "filename": "../virtual/vent/vent-u1-0001.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 554,
+          "y": 172,
+          "width": 78,
+          "height": 72
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/vent-u1-0002.jpg-1": {
+    "filename": "../virtual/vent/vent-u1-0002.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 595,
+          "y": 191,
+          "width": 45,
+          "height": 76
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/vent-u1-0003.jpg-1": {
+    "filename": "../virtual/vent/vent-u1-0003.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 468,
+          "y": 165,
+          "width": 110,
+          "height": 112
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/vent-u1-0004.jpg-1": {
+    "filename": "../virtual/vent/vent-u1-0004.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 401,
+          "y": 191,
+          "width": 103,
+          "height": 113
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/vent-u1-0005.jpg-1": {
+    "filename": "../virtual/vent/vent-u1-0005.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 336,
+          "y": 184,
+          "width": 96,
+          "height": 116
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/vent-u1-0006.jpg-1": {
+    "filename": "../virtual/vent/vent-u1-0006.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 262,
+          "y": 172,
+          "width": 99,
+          "height": 114
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/vent-u1-0007.jpg-1": {
+    "filename": "../virtual/vent/vent-u1-0007.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 188,
+          "y": 162,
+          "width": 99,
+          "height": 118
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/vent-u1-0008.jpg-1": {
+    "filename": "../virtual/vent/vent-u1-0008.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 101,
+          "y": 164,
+          "width": 113,
+          "height": 124
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/vent-u1-0009.jpg-1": {
+    "filename": "../virtual/vent/vent-u1-0009.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 6,
+          "y": 157,
+          "width": 126,
+          "height": 132
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/vent-u2-0000.jpg-1": {
+    "filename": "../virtual/vent/vent-u2-0000.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 543,
+          "y": 214,
+          "width": 24,
+          "height": 22
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/vent-u2-0001.jpg-1": {
+    "filename": "../virtual/vent/vent-u2-0001.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 460,
+          "y": 214,
+          "width": 23,
+          "height": 23
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/vent-u2-0002.jpg-1": {
+    "filename": "../virtual/vent/vent-u2-0002.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 384,
+          "y": 214,
+          "width": 22,
+          "height": 21
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/vent-u2-0003.jpg-1": {
+    "filename": "../virtual/vent/vent-u2-0003.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 309,
+          "y": 216,
+          "width": 22,
+          "height": 22
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/vent-u2-0004.jpg-1": {
+    "filename": "../virtual/vent/vent-u2-0004.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 233,
+          "y": 219,
+          "width": 24,
+          "height": 21
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/vent-u2-0005.jpg-1": {
+    "filename": "../virtual/vent/vent-u2-0005.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 156,
+          "y": 215,
+          "width": 22,
+          "height": 21
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/vent-u2-0006.jpg-1": {
+    "filename": "../virtual/vent/vent-u2-0006.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 84,
+          "y": 211,
+          "width": 24,
+          "height": 23
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/vent-u2-0007.jpg-1": {
+    "filename": "../virtual/vent/vent-u2-0007.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 57,
+          "y": 166,
+          "width": 27,
+          "height": 23
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/vent-u2-0008.jpg-1": {
+    "filename": "../virtual/vent/vent-u2-0008.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 40,
+          "y": 149,
+          "width": 27,
+          "height": 24
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/vent-u2-0009.jpg-1": {
+    "filename": "../virtual/vent/vent-u2-0009.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 21,
+          "y": 155,
+          "width": 30,
+          "height": 25
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/vent-u2-0010.jpg-1": {
+    "filename": "../virtual/vent/vent-u2-0010.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 2,
+          "y": 169,
+          "width": 29,
+          "height": 26
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/vent-u2-0011.jpg-1": {
+    "filename": "../virtual/vent/vent-u2-0011.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1,
+          "y": 190,
+          "width": 27,
+          "height": 28
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/vent-u2-0012.jpg-1": {
+    "filename": "../virtual/vent/vent-u2-0012.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 53,
+          "y": 225,
+          "width": 27,
+          "height": 25
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/vent-u2-0013.jpg-1": {
+    "filename": "../virtual/vent/vent-u2-0013.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 113,
+          "y": 227,
+          "width": 26,
+          "height": 25
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/vent-u2-0014.jpg-1": {
+    "filename": "../virtual/vent/vent-u2-0014.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 169,
+          "y": 216,
+          "width": 24,
+          "height": 26
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/vent-u2-0015.jpg-1": {
+    "filename": "../virtual/vent/vent-u2-0015.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 223,
+          "y": 207,
+          "width": 24,
+          "height": 26
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/vent-u2-0016.jpg-1": {
+    "filename": "../virtual/vent/vent-u2-0016.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 269,
+          "y": 202,
+          "width": 24,
+          "height": 26
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/vent-u2-0017.jpg-1": {
+    "filename": "../virtual/vent/vent-u2-0017.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 296,
+          "y": 184,
+          "width": 25,
+          "height": 24
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/vent-u2-0018.jpg-1": {
+    "filename": "../virtual/vent/vent-u2-0018.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 322,
+          "y": 182,
+          "width": 25,
+          "height": 26
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/vent-u2-0019.jpg-1": {
+    "filename": "../virtual/vent/vent-u2-0019.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 348,
+          "y": 190,
+          "width": 25,
+          "height": 25
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/vent-u2-0020.jpg-1": {
+    "filename": "../virtual/vent/vent-u2-0020.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 375,
+          "y": 200,
+          "width": 27,
+          "height": 27
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/vent-u2-0021.jpg-1": {
+    "filename": "../virtual/vent/vent-u2-0021.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 391,
+          "y": 206,
+          "width": 28,
+          "height": 27
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/vent-u2-0022.jpg-1": {
+    "filename": "../virtual/vent/vent-u2-0022.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 369,
+          "y": 206,
+          "width": 28,
+          "height": 28
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/vent-u2-0023.jpg-1": {
+    "filename": "../virtual/vent/vent-u2-0023.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 343,
+          "y": 205,
+          "width": 26,
+          "height": 27
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/vent-u2-0024.jpg-1": {
+    "filename": "../virtual/vent/vent-u2-0024.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 316,
+          "y": 204,
+          "width": 27,
+          "height": 26
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/vent-u2-0025.jpg-1": {
+    "filename": "../virtual/vent/vent-u2-0025.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 289,
+          "y": 202,
+          "width": 30,
+          "height": 28
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/vent-u2-0026.jpg-1": {
+    "filename": "../virtual/vent/vent-u2-0026.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 268,
+          "y": 200,
+          "width": 31,
+          "height": 30
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/vent-u2-0027.jpg-1": {
+    "filename": "../virtual/vent/vent-u2-0027.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 273,
+          "y": 186,
+          "width": 30,
+          "height": 29
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/vent-u2-0028.jpg-1": {
+    "filename": "../virtual/vent/vent-u2-0028.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 279,
+          "y": 183,
+          "width": 31,
+          "height": 30
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/vent-u2-0029.jpg-1": {
+    "filename": "../virtual/vent/vent-u2-0029.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 286,
+          "y": 190,
+          "width": 31,
+          "height": 29
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/vent-u2-0030.jpg-1": {
+    "filename": "../virtual/vent/vent-u2-0030.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 293,
+          "y": 194,
+          "width": 30,
+          "height": 29
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/vent-u2-0031.jpg-1": {
+    "filename": "../virtual/vent/vent-u2-0031.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 298,
+          "y": 196,
+          "width": 32,
+          "height": 33
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/vent-u2-0032.jpg-1": {
+    "filename": "../virtual/vent/vent-u2-0032.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 304,
+          "y": 199,
+          "width": 33,
+          "height": 33
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/vent-u2-0033.jpg-1": {
+    "filename": "../virtual/vent/vent-u2-0033.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 309,
+          "y": 197,
+          "width": 35,
+          "height": 33
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/vent-u2-0034.jpg-1": {
+    "filename": "../virtual/vent/vent-u2-0034.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 316,
+          "y": 196,
+          "width": 34,
+          "height": 37
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/vent-u2-0035.jpg-1": {
+    "filename": "../virtual/vent/vent-u2-0035.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 322,
+          "y": 196,
+          "width": 35,
+          "height": 36
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/vent-u2-0036.jpg-1": {
+    "filename": "../virtual/vent/vent-u2-0036.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 328,
+          "y": 196,
+          "width": 34,
+          "height": 35
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/vent-u2-0037.jpg-1": {
+    "filename": "../virtual/vent/vent-u2-0037.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 327,
+          "y": 190,
+          "width": 37,
+          "height": 38
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/vent-u2-0038.jpg-1": {
+    "filename": "../virtual/vent/vent-u2-0038.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 327,
+          "y": 188,
+          "width": 39,
+          "height": 39
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/vent-u2-0039.jpg-1": {
+    "filename": "../virtual/vent/vent-u2-0039.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 327,
+          "y": 187,
+          "width": 41,
+          "height": 39
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/vent-u2-0040.jpg-1": {
+    "filename": "../virtual/vent/vent-u2-0040.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 328,
+          "y": 189,
+          "width": 40,
+          "height": 39
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/vent-u2-0041.jpg-1": {
+    "filename": "../virtual/vent/vent-u2-0041.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 326,
+          "y": 186,
+          "width": 45,
+          "height": 42
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/vent-u2-0042.jpg-1": {
+    "filename": "../virtual/vent/vent-u2-0042.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 327,
+          "y": 185,
+          "width": 45,
+          "height": 44
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/vent-u2-0043.jpg-1": {
+    "filename": "../virtual/vent/vent-u2-0043.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 328,
+          "y": 187,
+          "width": 45,
+          "height": 44
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/vent-u2-0044.jpg-1": {
+    "filename": "../virtual/vent/vent-u2-0044.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 328,
+          "y": 188,
+          "width": 47,
+          "height": 45
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/vent-u2-0045.jpg-1": {
+    "filename": "../virtual/vent/vent-u2-0045.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 329,
+          "y": 183,
+          "width": 47,
+          "height": 49
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/vent-u2-0046.jpg-1": {
+    "filename": "../virtual/vent/vent-u2-0046.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 330,
+          "y": 183,
+          "width": 51,
+          "height": 50
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/vent-u2-0047.jpg-1": {
+    "filename": "../virtual/vent/vent-u2-0047.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 336,
+          "y": 186,
+          "width": 53,
+          "height": 52
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/vent-u2-0048.jpg-1": {
+    "filename": "../virtual/vent/vent-u2-0048.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 344,
+          "y": 186,
+          "width": 55,
+          "height": 53
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/vent-u2-0049.jpg-1": {
+    "filename": "../virtual/vent/vent-u2-0049.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 352,
+          "y": 181,
+          "width": 55,
+          "height": 55
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/vent-u2-0050.jpg-1": {
+    "filename": "../virtual/vent/vent-u2-0050.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 359,
+          "y": 177,
+          "width": 59,
+          "height": 57
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/vent-u2-0051.jpg-1": {
+    "filename": "../virtual/vent/vent-u2-0051.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 373,
+          "y": 177,
+          "width": 61,
+          "height": 62
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/vent-u2-0052.jpg-1": {
+    "filename": "../virtual/vent/vent-u2-0052.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 406,
+          "y": 196,
+          "width": 66,
+          "height": 64
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/vent-u2-0053.jpg-1": {
+    "filename": "../virtual/vent/vent-u2-0053.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 443,
+          "y": 197,
+          "width": 70,
+          "height": 70
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/vent-u2-0054.jpg-1": {
+    "filename": "../virtual/vent/vent-u2-0054.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 482,
+          "y": 186,
+          "width": 75,
+          "height": 74
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/vent-u2-0055.jpg-1": {
+    "filename": "../virtual/vent/vent-u2-0055.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 524,
+          "y": 175,
+          "width": 82,
+          "height": 79
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/vent-u2-0056.jpg-1": {
+    "filename": "../virtual/vent/vent-u2-0056.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 537,
+          "y": 289,
+          "width": 76,
+          "height": 68
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/vent-u2-0057.jpg-1": {
+    "filename": "../virtual/vent/vent-u2-0057.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 463,
+          "y": 290,
+          "width": 72,
+          "height": 67
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/vent-u2-0058.jpg-1": {
+    "filename": "../virtual/vent/vent-u2-0058.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 392,
+          "y": 290,
+          "width": 68,
+          "height": 65
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/vent-u2-0059.jpg-1": {
+    "filename": "../virtual/vent/vent-u2-0059.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 334,
+          "y": 292,
+          "width": 66,
+          "height": 65
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/vent-u2-0060.jpg-1": {
+    "filename": "../virtual/vent/vent-u2-0060.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 310,
+          "y": 286,
+          "width": 70,
+          "height": 63
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/vent-u2-0061.jpg-1": {
+    "filename": "../virtual/vent/vent-u2-0061.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 292,
+          "y": 301,
+          "width": 70,
+          "height": 64
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/vent-u2-0062.jpg-1": {
+    "filename": "../virtual/vent/vent-u2-0062.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 272,
+          "y": 333,
+          "width": 71,
+          "height": 68
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/vent-u2-0063.jpg-1": {
+    "filename": "../virtual/vent/vent-u2-0063.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 249,
+          "y": 381,
+          "width": 77,
+          "height": 70
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/vent-u2-0064.jpg-1": {
+    "filename": "../virtual/vent/vent-u2-0064.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 238,
+          "y": 424,
+          "width": 80,
+          "height": 56
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/vent-u2b-0000.jpg-1": {
+    "filename": "../virtual/vent/vent-u2b-0000.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 62,
+          "y": 35,
+          "width": 44,
+          "height": 23
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/vent-u2b-0001.jpg-1": {
+    "filename": "../virtual/vent/vent-u2b-0001.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1,
+          "y": 60,
+          "width": 33,
+          "height": 25
+        },
+        "region_attributes": {
+          "artifact": "vent"
         }
       }
     ],
