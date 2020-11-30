@@ -47962,5 +47962,442 @@
       }
     ],
     "file_attributes": {}
+  },
+  "../virtual/extinguisher/ext-tc4-000.jpg-1": {
+    "filename": "../virtual/extinguisher/ext-tc4-000.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 231,
+          "y": 283,
+          "width": 27,
+          "height": 54
+        },
+        "region_attributes": {
+          "artifact": "fire_extinguisher"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/extinguisher/ext-tc4-001.jpg-1": {
+    "filename": "../virtual/extinguisher/ext-tc4-001.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 274,
+          "y": 284,
+          "width": 24,
+          "height": 53
+        },
+        "region_attributes": {
+          "artifact": "fire_extinguisher"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/extinguisher/ext-tc4-002.jpg-1": {
+    "filename": "../virtual/extinguisher/ext-tc4-002.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 309,
+          "y": 281,
+          "width": 20,
+          "height": 56
+        },
+        "region_attributes": {
+          "artifact": "fire_extinguisher"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/extinguisher/ext-tc4-003.jpg-1": {
+    "filename": "../virtual/extinguisher/ext-tc4-003.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 337,
+          "y": 279,
+          "width": 20,
+          "height": 60
+        },
+        "region_attributes": {
+          "artifact": "fire_extinguisher"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/extinguisher/ext-tc4-004.jpg-1": {
+    "filename": "../virtual/extinguisher/ext-tc4-004.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 361,
+          "y": 281,
+          "width": 20,
+          "height": 57
+        },
+        "region_attributes": {
+          "artifact": "fire_extinguisher"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/extinguisher/ext-tc4-005.jpg-1": {
+    "filename": "../virtual/extinguisher/ext-tc4-005.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 380,
+          "y": 276,
+          "width": 20,
+          "height": 61
+        },
+        "region_attributes": {
+          "artifact": "fire_extinguisher"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/extinguisher/ext-tc4-006.jpg-1": {
+    "filename": "../virtual/extinguisher/ext-tc4-006.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 397,
+          "y": 274,
+          "width": 19,
+          "height": 56
+        },
+        "region_attributes": {
+          "artifact": "fire_extinguisher"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/extinguisher/ext-tc4-007.jpg-1": {
+    "filename": "../virtual/extinguisher/ext-tc4-007.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 411,
+          "y": 271,
+          "width": 17,
+          "height": 56
+        },
+        "region_attributes": {
+          "artifact": "fire_extinguisher"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/extinguisher/ext-tc4-008.jpg-1": {
+    "filename": "../virtual/extinguisher/ext-tc4-008.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 419,
+          "y": 270,
+          "width": 17,
+          "height": 52
+        },
+        "region_attributes": {
+          "artifact": "fire_extinguisher"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/extinguisher/ext-tc4-009.jpg-1": {
+    "filename": "../virtual/extinguisher/ext-tc4-009.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 426,
+          "y": 267,
+          "width": 18,
+          "height": 50
+        },
+        "region_attributes": {
+          "artifact": "fire_extinguisher"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/extinguisher/ext-tc4-010.jpg-1": {
+    "filename": "../virtual/extinguisher/ext-tc4-010.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 432,
+          "y": 267,
+          "width": 15,
+          "height": 47
+        },
+        "region_attributes": {
+          "artifact": "fire_extinguisher"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/extinguisher/ext-tc4-011.jpg-1": {
+    "filename": "../virtual/extinguisher/ext-tc4-011.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 435,
+          "y": 265,
+          "width": 17,
+          "height": 47
+        },
+        "region_attributes": {
+          "artifact": "fire_extinguisher"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/extinguisher/ext-tc4-012.jpg-1": {
+    "filename": "../virtual/extinguisher/ext-tc4-012.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 437,
+          "y": 266,
+          "width": 16,
+          "height": 43
+        },
+        "region_attributes": {
+          "artifact": "fire_extinguisher"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/extinguisher/ext-tc4-013.jpg-1": {
+    "filename": "../virtual/extinguisher/ext-tc4-013.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 437,
+          "y": 263,
+          "width": 16,
+          "height": 42
+        },
+        "region_attributes": {
+          "artifact": "fire_extinguisher"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/extinguisher/ext-tc4-014.jpg-1": {
+    "filename": "../virtual/extinguisher/ext-tc4-014.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 437,
+          "y": 265,
+          "width": 13,
+          "height": 39
+        },
+        "region_attributes": {
+          "artifact": "fire_extinguisher"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/extinguisher/ext-tc4-015.jpg-1": {
+    "filename": "../virtual/extinguisher/ext-tc4-015.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 435,
+          "y": 262,
+          "width": 15,
+          "height": 41
+        },
+        "region_attributes": {
+          "artifact": "fire_extinguisher"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/extinguisher/ext-tc4-016.jpg-1": {
+    "filename": "../virtual/extinguisher/ext-tc4-016.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 431,
+          "y": 261,
+          "width": 15,
+          "height": 37
+        },
+        "region_attributes": {
+          "artifact": "fire_extinguisher"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/extinguisher/ext-tc4-017.jpg-1": {
+    "filename": "../virtual/extinguisher/ext-tc4-017.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 430,
+          "y": 260,
+          "width": 12,
+          "height": 39
+        },
+        "region_attributes": {
+          "artifact": "fire_extinguisher"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/extinguisher/ext-tc4-018.jpg-1": {
+    "filename": "../virtual/extinguisher/ext-tc4-018.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 430,
+          "y": 258,
+          "width": 13,
+          "height": 37
+        },
+        "region_attributes": {
+          "artifact": "fire_extinguisher"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/extinguisher/ext-tc4-019.jpg-1": {
+    "filename": "../virtual/extinguisher/ext-tc4-019.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 427,
+          "y": 258,
+          "width": 13,
+          "height": 36
+        },
+        "region_attributes": {
+          "artifact": "fire_extinguisher"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/extinguisher/ext-tc4-020.jpg-1": {
+    "filename": "../virtual/extinguisher/ext-tc4-020.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 424,
+          "y": 259,
+          "width": 12,
+          "height": 34
+        },
+        "region_attributes": {
+          "artifact": "fire_extinguisher"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/extinguisher/ext-tc4-021.jpg-1": {
+    "filename": "../virtual/extinguisher/ext-tc4-021.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 417,
+          "y": 256,
+          "width": 12,
+          "height": 33
+        },
+        "region_attributes": {
+          "artifact": "fire_extinguisher"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/extinguisher/ext-tc4-022.jpg-1": {
+    "filename": "../virtual/extinguisher/ext-tc4-022.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 410,
+          "y": 256,
+          "width": 10,
+          "height": 32
+        },
+        "region_attributes": {
+          "artifact": "fire_extinguisher"
+        }
+      }
+    ],
+    "file_attributes": {}
   }
 }
