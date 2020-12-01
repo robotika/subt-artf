@@ -4,7 +4,8 @@ import json
 import os
 import cv2
 
-USED_ARTF_NAME = ["phone", "helmet", "rope", "backpack", "survivor", "robot"]
+USED_ARTF_NAME = ["phone", "helmet", "rope", "backpack", "survivor", "robot","breadcrumb", "nothing","fire_extinguisher",
+                  "drill", "vent"]
 
 
 def main(annotation_file, out_prefix):
