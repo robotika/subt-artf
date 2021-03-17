@@ -48399,5 +48399,195 @@
       }
     ],
     "file_attributes": {}
+  },
+  "../virtual/backpack/backpack-uq-000.jpg-1": {
+    "filename": "../virtual/backpack/backpack-uq-000.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 241,
+          "y": 297,
+          "width": 15,
+          "height": 20
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/backpack/backpack-uq-001.jpg-1": {
+    "filename": "../virtual/backpack/backpack-uq-001.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 240,
+          "y": 297,
+          "width": 15,
+          "height": 21
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/backpack/backpack-uq-002.jpg-1": {
+    "filename": "../virtual/backpack/backpack-uq-002.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 238,
+          "y": 296,
+          "width": 16,
+          "height": 21
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/backpack/backpack-uq-003.jpg-1": {
+    "filename": "../virtual/backpack/backpack-uq-003.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 251,
+          "y": 312,
+          "width": 20,
+          "height": 28
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/backpack/backpack-uq-004.jpg-1": {
+    "filename": "../virtual/backpack/backpack-uq-004.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 230,
+          "y": 344,
+          "width": 26,
+          "height": 36
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/backpack/backpack-uq-005.jpg-1": {
+    "filename": "../virtual/backpack/backpack-uq-005.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 175,
+          "y": 400,
+          "width": 38,
+          "height": 57
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/backpack/backpack-uq-006.jpg-1": {
+    "filename": "../virtual/backpack/backpack-uq-006.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 413,
+          "y": 346,
+          "width": 30,
+          "height": 37
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/backpack/backpack-uq-007.jpg-1": {
+    "filename": "../virtual/backpack/backpack-uq-007.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 413,
+          "y": 352,
+          "width": 30,
+          "height": 38
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/backpack/backpack-uq-008.jpg-1": {
+    "filename": "../virtual/backpack/backpack-uq-008.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 404,
+          "y": 368,
+          "width": 36,
+          "height": 42
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/backpack/backpack-uq-009.jpg-1": {
+    "filename": "../virtual/backpack/backpack-uq-009.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 419,
+          "y": 416,
+          "width": 48,
+          "height": 58
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
   }
 }
