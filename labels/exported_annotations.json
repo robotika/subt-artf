@@ -48589,5 +48589,3981 @@
       }
     ],
     "file_attributes": {}
+  },
+  "../virtual/backpack/fq-99-freyja-000.jpg-1": {
+    "filename": "../virtual/backpack/fq-99-freyja-000.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 28,
+          "y": 155,
+          "width": 11,
+          "height": 10
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/backpack/fq-99-freyja-001.jpg-1": {
+    "filename": "../virtual/backpack/fq-99-freyja-001.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 512,
+          "y": 154,
+          "width": 8,
+          "height": 11
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/backpack/fq-99-freyja-002.jpg-1": {
+    "filename": "../virtual/backpack/fq-99-freyja-002.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 441,
+          "y": 156,
+          "width": 6,
+          "height": 9
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/backpack/fq-99-freyja-003.jpg-1": {
+    "filename": "../virtual/backpack/fq-99-freyja-003.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 376,
+          "y": 157,
+          "width": 7,
+          "height": 8
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/backpack/fq-99-freyja-004.jpg-1": {
+    "filename": "../virtual/backpack/fq-99-freyja-004.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 328,
+          "y": 156,
+          "width": 8,
+          "height": 9
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/backpack/fq-99-freyja-005.jpg-1": {
+    "filename": "../virtual/backpack/fq-99-freyja-005.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 266,
+          "y": 156,
+          "width": 7,
+          "height": 9
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/backpack/fq-99-freyja-006.jpg-1": {
+    "filename": "../virtual/backpack/fq-99-freyja-006.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 225,
+          "y": 154,
+          "width": 8,
+          "height": 10
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/backpack/fq-99-freyja-007.jpg-1": {
+    "filename": "../virtual/backpack/fq-99-freyja-007.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 195,
+          "y": 154,
+          "width": 8,
+          "height": 10
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/backpack/fq-99-freyja-008.jpg-1": {
+    "filename": "../virtual/backpack/fq-99-freyja-008.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 170,
+          "y": 153,
+          "width": 9,
+          "height": 10
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/backpack/fq-99-freyja-009.jpg-1": {
+    "filename": "../virtual/backpack/fq-99-freyja-009.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 542,
+          "y": 133,
+          "width": 19,
+          "height": 20
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/backpack/fq-99-freyja-010.jpg-1": {
+    "filename": "../virtual/backpack/fq-99-freyja-010.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 401,
+          "y": 136,
+          "width": 14,
+          "height": 17
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/backpack/fq-99-freyja-011.jpg-1": {
+    "filename": "../virtual/backpack/fq-99-freyja-011.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 343,
+          "y": 136,
+          "width": 13,
+          "height": 18
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/backpack/fq-99-freyja-012.jpg-1": {
+    "filename": "../virtual/backpack/fq-99-freyja-012.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 256,
+          "y": 130,
+          "width": 14,
+          "height": 18
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/backpack/fq-99-freyja-013.jpg-1": {
+    "filename": "../virtual/backpack/fq-99-freyja-013.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 203,
+          "y": 123,
+          "width": 17,
+          "height": 23
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/backpack/fq-99-freyja-014.jpg-1": {
+    "filename": "../virtual/backpack/fq-99-freyja-014.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 131,
+          "y": 82,
+          "width": 26,
+          "height": 28
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/backpack/fq-99-freyja-015.jpg-1": {
+    "filename": "../virtual/backpack/fq-99-freyja-015.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 83,
+          "y": 96,
+          "width": 30,
+          "height": 34
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/backpack/fq-99-freyja-016.jpg-1": {
+    "filename": "../virtual/backpack/fq-99-freyja-016.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 55,
+          "y": 89,
+          "width": 36,
+          "height": 37
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/backpack/fq-99-freyja-017.jpg-1": {
+    "filename": "../virtual/backpack/fq-99-freyja-017.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 18,
+          "y": 76,
+          "width": 42,
+          "height": 44
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/backpack/fq-99-freyja-018.jpg-1": {
+    "filename": "../virtual/backpack/fq-99-freyja-018.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1,
+          "y": 68,
+          "width": 31,
+          "height": 47
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/backpack/fq-99-freyja-019.jpg-1": {
+    "filename": "../virtual/backpack/fq-99-freyja-019.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 316,
+          "y": 117,
+          "width": 21,
+          "height": 27
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/backpack/fq-99-freyja-020.jpg-1": {
+    "filename": "../virtual/backpack/fq-99-freyja-020.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 296,
+          "y": 111,
+          "width": 23,
+          "height": 28
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/backpack/fq-99-freyja-021.jpg-1": {
+    "filename": "../virtual/backpack/fq-99-freyja-021.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 291,
+          "y": 108,
+          "width": 26,
+          "height": 29
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/backpack/fq-99-freyja-022.jpg-1": {
+    "filename": "../virtual/backpack/fq-99-freyja-022.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 299,
+          "y": 103,
+          "width": 27,
+          "height": 31
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/backpack/fq-99-freyja-023.jpg-1": {
+    "filename": "../virtual/backpack/fq-99-freyja-023.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 309,
+          "y": 97,
+          "width": 29,
+          "height": 34
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/backpack/fq-99-freyja-024.jpg-1": {
+    "filename": "../virtual/backpack/fq-99-freyja-024.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 346,
+          "y": 88,
+          "width": 29,
+          "height": 37
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/backpack/fq-99-freyja-025.jpg-1": {
+    "filename": "../virtual/backpack/fq-99-freyja-025.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 377,
+          "y": 81,
+          "width": 34,
+          "height": 41
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/backpack/fq-99-freyja-026.jpg-1": {
+    "filename": "../virtual/backpack/fq-99-freyja-026.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 421,
+          "y": 97,
+          "width": 36,
+          "height": 43
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/backpack/fq-99-freyja-027.jpg-1": {
+    "filename": "../virtual/backpack/fq-99-freyja-027.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 467,
+          "y": 88,
+          "width": 43,
+          "height": 45
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/backpack/fq-99-freyja-028.jpg-1": {
+    "filename": "../virtual/backpack/fq-99-freyja-028.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 548,
+          "y": 11,
+          "width": 60,
+          "height": 59
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/backpack/fq-99-freyja-029.jpg-1": {
+    "filename": "../virtual/backpack/fq-99-freyja-029.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 627,
+          "y": 157,
+          "width": 10,
+          "height": 10
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/backpack/fq-99-freyja-030.jpg-1": {
+    "filename": "../virtual/backpack/fq-99-freyja-030.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 584,
+          "y": 155,
+          "width": 12,
+          "height": 11
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 434,
+          "y": 205,
+          "width": 30,
+          "height": 7
+        },
+        "region_attributes": {
+          "artifact": "breadcrumb"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/backpack/fq-99-freyja-031.jpg-1": {
+    "filename": "../virtual/backpack/fq-99-freyja-031.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 346,
+          "y": 212,
+          "width": 39,
+          "height": 8
+        },
+        "region_attributes": {
+          "artifact": "breadcrumb"
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 462,
+          "y": 157,
+          "width": 11,
+          "height": 9
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/backpack/fq-99-freyja-032.jpg-1": {
+    "filename": "../virtual/backpack/fq-99-freyja-032.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 424,
+          "y": 156,
+          "width": 10,
+          "height": 10
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/backpack/fq-99-freyja-033.jpg-1": {
+    "filename": "../virtual/backpack/fq-99-freyja-033.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 458,
+          "y": 151,
+          "width": 11,
+          "height": 13
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/backpack/fq-99-freyja-034.jpg-1": {
+    "filename": "../virtual/backpack/fq-99-freyja-034.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 551,
+          "y": 147,
+          "width": 13,
+          "height": 13
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/backpack/fq-99-freyja-035.jpg-1": {
+    "filename": "../virtual/backpack/fq-99-freyja-035.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 631,
+          "y": 141,
+          "width": 9,
+          "height": 15
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/backpack/fq-99-freyja-036.jpg-1": {
+    "filename": "../virtual/backpack/fq-99-freyja-036.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 592,
+          "y": 144,
+          "width": 15,
+          "height": 15
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/backpack/fq-99-freyja-037.jpg-1": {
+    "filename": "../virtual/backpack/fq-99-freyja-037.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 606,
+          "y": 142,
+          "width": 15,
+          "height": 15
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/backpack/fq-99-freyja-038.jpg-1": {
+    "filename": "../virtual/backpack/fq-99-freyja-038.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 616,
+          "y": 143,
+          "width": 14,
+          "height": 13
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/backpack/fq-99-freyja-039.jpg-1": {
+    "filename": "../virtual/backpack/fq-99-freyja-039.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 624,
+          "y": 141,
+          "width": 15,
+          "height": 15
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/backpack/fq-99-freyja-040.jpg-1": {
+    "filename": "../virtual/backpack/fq-99-freyja-040.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 584,
+          "y": 139,
+          "width": 17,
+          "height": 16
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/backpack/fq-99-freyja-041.jpg-1": {
+    "filename": "../virtual/backpack/fq-99-freyja-041.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 500,
+          "y": 141,
+          "width": 13,
+          "height": 15
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/backpack/fq-99-freyja-042.jpg-1": {
+    "filename": "../virtual/backpack/fq-99-freyja-042.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 430,
+          "y": 142,
+          "width": 14,
+          "height": 14
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/backpack/fq-99-freyja-043.jpg-1": {
+    "filename": "../virtual/backpack/fq-99-freyja-043.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 381,
+          "y": 141,
+          "width": 15,
+          "height": 14
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/backpack/fq-99-freyja-044.jpg-1": {
+    "filename": "../virtual/backpack/fq-99-freyja-044.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 355,
+          "y": 138,
+          "width": 14,
+          "height": 16
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/backpack/fq-99-freyja-045.jpg-1": {
+    "filename": "../virtual/backpack/fq-99-freyja-045.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 328,
+          "y": 131,
+          "width": 18,
+          "height": 17
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/backpack/fq-99-freyja-046.jpg-1": {
+    "filename": "../virtual/backpack/fq-99-freyja-046.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 343,
+          "y": 126,
+          "width": 18,
+          "height": 20
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/backpack/fq-99-freyja-047.jpg-1": {
+    "filename": "../virtual/backpack/fq-99-freyja-047.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 326,
+          "y": 123,
+          "width": 21,
+          "height": 22
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/drill/fq-99-freyja-000.jpg-1": {
+    "filename": "../virtual/drill/fq-99-freyja-000.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 224,
+          "y": 183,
+          "width": 9,
+          "height": 17
+        },
+        "region_attributes": {
+          "artifact": "drill"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/drill/fq-99-freyja-001.jpg-1": {
+    "filename": "../virtual/drill/fq-99-freyja-001.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 210,
+          "y": 181,
+          "width": 14,
+          "height": 20
+        },
+        "region_attributes": {
+          "artifact": "drill"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/drill/fq-99-freyja-002.jpg-1": {
+    "filename": "../virtual/drill/fq-99-freyja-002.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 174,
+          "y": 178,
+          "width": 17,
+          "height": 25
+        },
+        "region_attributes": {
+          "artifact": "drill"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/drill/fq-99-freyja-003.jpg-1": {
+    "filename": "../virtual/drill/fq-99-freyja-003.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 165,
+          "y": 180,
+          "width": 16,
+          "height": 25
+        },
+        "region_attributes": {
+          "artifact": "drill"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/drill/fq-99-freyja-004.jpg-1": {
+    "filename": "../virtual/drill/fq-99-freyja-004.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 115,
+          "y": 182,
+          "width": 20,
+          "height": 34
+        },
+        "region_attributes": {
+          "artifact": "drill"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/drill/fq-99-freyja-005.jpg-1": {
+    "filename": "../virtual/drill/fq-99-freyja-005.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 88,
+          "y": 181,
+          "width": 27,
+          "height": 39
+        },
+        "region_attributes": {
+          "artifact": "drill"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/drill/fq-99-freyja-006.jpg-1": {
+    "filename": "../virtual/drill/fq-99-freyja-006.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 80,
+          "y": 181,
+          "width": 27,
+          "height": 42
+        },
+        "region_attributes": {
+          "artifact": "drill"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/drill/fq-99-freyja-007.jpg-1": {
+    "filename": "../virtual/drill/fq-99-freyja-007.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 65,
+          "y": 179,
+          "width": 33,
+          "height": 47
+        },
+        "region_attributes": {
+          "artifact": "drill"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/drill/fq-99-freyja-008.jpg-1": {
+    "filename": "../virtual/drill/fq-99-freyja-008.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 20,
+          "y": 179,
+          "width": 40,
+          "height": 56
+        },
+        "region_attributes": {
+          "artifact": "drill"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/drill/fq-99-freyja-009.jpg-1": {
+    "filename": "../virtual/drill/fq-99-freyja-009.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 472,
+          "y": 245,
+          "width": 9,
+          "height": 18
+        },
+        "region_attributes": {
+          "artifact": "drill"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/drill/fq-99-freyja-010.jpg-1": {
+    "filename": "../virtual/drill/fq-99-freyja-010.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 487,
+          "y": 178,
+          "width": 10,
+          "height": 19
+        },
+        "region_attributes": {
+          "artifact": "drill"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/drill/fq-99-freyja-011.jpg-1": {
+    "filename": "../virtual/drill/fq-99-freyja-011.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 534,
+          "y": 177,
+          "width": 9,
+          "height": 24
+        },
+        "region_attributes": {
+          "artifact": "drill"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/drill/fq-99-freyja-012.jpg-1": {
+    "filename": "../virtual/drill/fq-99-freyja-012.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 539,
+          "y": 177,
+          "width": 10,
+          "height": 26
+        },
+        "region_attributes": {
+          "artifact": "drill"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/drill/fq-99-freyja-013.jpg-1": {
+    "filename": "../virtual/drill/fq-99-freyja-013.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 550,
+          "y": 178,
+          "width": 13,
+          "height": 26
+        },
+        "region_attributes": {
+          "artifact": "drill"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/drill/fq-99-freyja-014.jpg-1": {
+    "filename": "../virtual/drill/fq-99-freyja-014.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 563,
+          "y": 178,
+          "width": 12,
+          "height": 27
+        },
+        "region_attributes": {
+          "artifact": "drill"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/drill/fq-99-freyja-015.jpg-1": {
+    "filename": "../virtual/drill/fq-99-freyja-015.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 577,
+          "y": 178,
+          "width": 13,
+          "height": 28
+        },
+        "region_attributes": {
+          "artifact": "drill"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/drill/fq-99-freyja-016.jpg-1": {
+    "filename": "../virtual/drill/fq-99-freyja-016.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 594,
+          "y": 177,
+          "width": 14,
+          "height": 31
+        },
+        "region_attributes": {
+          "artifact": "drill"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/drill/fq-99-freyja-017.jpg-1": {
+    "filename": "../virtual/drill/fq-99-freyja-017.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 611,
+          "y": 176,
+          "width": 16,
+          "height": 34
+        },
+        "region_attributes": {
+          "artifact": "drill"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/extinguisher/fq-99-freyja-000.jpg-1": {
+    "filename": "../virtual/extinguisher/fq-99-freyja-000.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 18,
+          "y": 173,
+          "width": 9,
+          "height": 20
+        },
+        "region_attributes": {
+          "artifact": "fire_extinguisher"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/extinguisher/fq-99-freyja-001.jpg-1": {
+    "filename": "../virtual/extinguisher/fq-99-freyja-001.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 9,
+          "y": 172,
+          "width": 10,
+          "height": 22
+        },
+        "region_attributes": {
+          "artifact": "fire_extinguisher"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/extinguisher/fq-99-freyja-002.jpg-1": {
+    "filename": "../virtual/extinguisher/fq-99-freyja-002.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 553,
+          "y": 171,
+          "width": 11,
+          "height": 25
+        },
+        "region_attributes": {
+          "artifact": "fire_extinguisher"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/extinguisher/fq-99-freyja-003.jpg-1": {
+    "filename": "../virtual/extinguisher/fq-99-freyja-003.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 485,
+          "y": 172,
+          "width": 11,
+          "height": 25
+        },
+        "region_attributes": {
+          "artifact": "fire_extinguisher"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/extinguisher/fq-99-freyja-004.jpg-1": {
+    "filename": "../virtual/extinguisher/fq-99-freyja-004.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 432,
+          "y": 172,
+          "width": 11,
+          "height": 24
+        },
+        "region_attributes": {
+          "artifact": "fire_extinguisher"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/extinguisher/fq-99-freyja-005.jpg-1": {
+    "filename": "../virtual/extinguisher/fq-99-freyja-005.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 395,
+          "y": 171,
+          "width": 12,
+          "height": 25
+        },
+        "region_attributes": {
+          "artifact": "fire_extinguisher"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/extinguisher/fq-99-freyja-006.jpg-1": {
+    "filename": "../virtual/extinguisher/fq-99-freyja-006.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 356,
+          "y": 170,
+          "width": 12,
+          "height": 27
+        },
+        "region_attributes": {
+          "artifact": "fire_extinguisher"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/extinguisher/fq-99-freyja-007.jpg-1": {
+    "filename": "../virtual/extinguisher/fq-99-freyja-007.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 339,
+          "y": 171,
+          "width": 11,
+          "height": 27
+        },
+        "region_attributes": {
+          "artifact": "fire_extinguisher"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/extinguisher/fq-99-freyja-008.jpg-1": {
+    "filename": "../virtual/extinguisher/fq-99-freyja-008.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 306,
+          "y": 169,
+          "width": 12,
+          "height": 31
+        },
+        "region_attributes": {
+          "artifact": "fire_extinguisher"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/extinguisher/fq-99-freyja-009.jpg-1": {
+    "filename": "../virtual/extinguisher/fq-99-freyja-009.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 295,
+          "y": 169,
+          "width": 10,
+          "height": 29
+        },
+        "region_attributes": {
+          "artifact": "fire_extinguisher"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/extinguisher/fq-99-freyja-010.jpg-1": {
+    "filename": "../virtual/extinguisher/fq-99-freyja-010.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 271,
+          "y": 169,
+          "width": 12,
+          "height": 31
+        },
+        "region_attributes": {
+          "artifact": "fire_extinguisher"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/extinguisher/fq-99-freyja-011.jpg-1": {
+    "filename": "../virtual/extinguisher/fq-99-freyja-011.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 257,
+          "y": 169,
+          "width": 13,
+          "height": 31
+        },
+        "region_attributes": {
+          "artifact": "fire_extinguisher"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/extinguisher/fq-99-freyja-012.jpg-1": {
+    "filename": "../virtual/extinguisher/fq-99-freyja-012.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 241,
+          "y": 168,
+          "width": 14,
+          "height": 34
+        },
+        "region_attributes": {
+          "artifact": "fire_extinguisher"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/extinguisher/fq-99-freyja-013.jpg-1": {
+    "filename": "../virtual/extinguisher/fq-99-freyja-013.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 230,
+          "y": 167,
+          "width": 14,
+          "height": 35
+        },
+        "region_attributes": {
+          "artifact": "fire_extinguisher"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/extinguisher/fq-99-freyja-014.jpg-1": {
+    "filename": "../virtual/extinguisher/fq-99-freyja-014.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 218,
+          "y": 166,
+          "width": 14,
+          "height": 38
+        },
+        "region_attributes": {
+          "artifact": "fire_extinguisher"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/extinguisher/fq-99-freyja-015.jpg-1": {
+    "filename": "../virtual/extinguisher/fq-99-freyja-015.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 194,
+          "y": 165,
+          "width": 16,
+          "height": 42
+        },
+        "region_attributes": {
+          "artifact": "fire_extinguisher"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/extinguisher/fq-99-freyja-016.jpg-1": {
+    "filename": "../virtual/extinguisher/fq-99-freyja-016.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 183,
+          "y": 164,
+          "width": 16,
+          "height": 42
+        },
+        "region_attributes": {
+          "artifact": "fire_extinguisher"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/extinguisher/fq-99-freyja-017.jpg-1": {
+    "filename": "../virtual/extinguisher/fq-99-freyja-017.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 156,
+          "y": 163,
+          "width": 17,
+          "height": 47
+        },
+        "region_attributes": {
+          "artifact": "fire_extinguisher"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/extinguisher/fq-99-freyja-018.jpg-1": {
+    "filename": "../virtual/extinguisher/fq-99-freyja-018.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 145,
+          "y": 163,
+          "width": 20,
+          "height": 48
+        },
+        "region_attributes": {
+          "artifact": "fire_extinguisher"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/extinguisher/fq-99-freyja-019.jpg-1": {
+    "filename": "../virtual/extinguisher/fq-99-freyja-019.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 115,
+          "y": 160,
+          "width": 23,
+          "height": 54
+        },
+        "region_attributes": {
+          "artifact": "fire_extinguisher"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/extinguisher/fq-99-freyja-020.jpg-1": {
+    "filename": "../virtual/extinguisher/fq-99-freyja-020.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 77,
+          "y": 156,
+          "width": 27,
+          "height": 63
+        },
+        "region_attributes": {
+          "artifact": "fire_extinguisher"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/extinguisher/fq-99-freyja-021.jpg-1": {
+    "filename": "../virtual/extinguisher/fq-99-freyja-021.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 55,
+          "y": 156,
+          "width": 30,
+          "height": 66
+        },
+        "region_attributes": {
+          "artifact": "fire_extinguisher"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/extinguisher/fq-99-freyja-022.jpg-1": {
+    "filename": "../virtual/extinguisher/fq-99-freyja-022.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 3,
+          "y": 151,
+          "width": 38,
+          "height": 79
+        },
+        "region_attributes": {
+          "artifact": "fire_extinguisher"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/extinguisher/fq-99-freyja-023.jpg-1": {
+    "filename": "../virtual/extinguisher/fq-99-freyja-023.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 0,
+          "y": 129,
+          "width": 47,
+          "height": 131
+        },
+        "region_attributes": {
+          "artifact": "fire_extinguisher"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/extinguisher/fq-99-freyja-024.jpg-1": {
+    "filename": "../virtual/extinguisher/fq-99-freyja-024.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 64,
+          "y": 134,
+          "width": 53,
+          "height": 120
+        },
+        "region_attributes": {
+          "artifact": "fire_extinguisher"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/extinguisher/fq-99-freyja-025.jpg-1": {
+    "filename": "../virtual/extinguisher/fq-99-freyja-025.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 184,
+          "y": 139,
+          "width": 42,
+          "height": 108
+        },
+        "region_attributes": {
+          "artifact": "fire_extinguisher"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/extinguisher/fq-99-freyja-026.jpg-1": {
+    "filename": "../virtual/extinguisher/fq-99-freyja-026.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 207,
+          "y": 144,
+          "width": 42,
+          "height": 103
+        },
+        "region_attributes": {
+          "artifact": "fire_extinguisher"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/extinguisher/fq-99-freyja-027.jpg-1": {
+    "filename": "../virtual/extinguisher/fq-99-freyja-027.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 249,
+          "y": 139,
+          "width": 40,
+          "height": 108
+        },
+        "region_attributes": {
+          "artifact": "fire_extinguisher"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/extinguisher/fq-99-freyja-028.jpg-1": {
+    "filename": "../virtual/extinguisher/fq-99-freyja-028.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 308,
+          "y": 140,
+          "width": 42,
+          "height": 109
+        },
+        "region_attributes": {
+          "artifact": "fire_extinguisher"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/extinguisher/fq-99-freyja-029.jpg-1": {
+    "filename": "../virtual/extinguisher/fq-99-freyja-029.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 330,
+          "y": 138,
+          "width": 40,
+          "height": 111
+        },
+        "region_attributes": {
+          "artifact": "fire_extinguisher"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/extinguisher/fq-99-freyja-030.jpg-1": {
+    "filename": "../virtual/extinguisher/fq-99-freyja-030.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 398,
+          "y": 137,
+          "width": 47,
+          "height": 117
+        },
+        "region_attributes": {
+          "artifact": "fire_extinguisher"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/extinguisher/fq-99-freyja-031.jpg-1": {
+    "filename": "../virtual/extinguisher/fq-99-freyja-031.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 472,
+          "y": 126,
+          "width": 57,
+          "height": 135
+        },
+        "region_attributes": {
+          "artifact": "fire_extinguisher"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/extinguisher/fq-99-freyja-032.jpg-1": {
+    "filename": "../virtual/extinguisher/fq-99-freyja-032.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 532,
+          "y": 117,
+          "width": 69,
+          "height": 153
+        },
+        "region_attributes": {
+          "artifact": "fire_extinguisher"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/extinguisher/fq-99-freyja-033.jpg-1": {
+    "filename": "../virtual/extinguisher/fq-99-freyja-033.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 573,
+          "y": 134,
+          "width": 42,
+          "height": 107
+        },
+        "region_attributes": {
+          "artifact": "fire_extinguisher"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/extinguisher/fq-99-freyja-034.jpg-1": {
+    "filename": "../virtual/extinguisher/fq-99-freyja-034.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 480,
+          "y": 139,
+          "width": 35,
+          "height": 96
+        },
+        "region_attributes": {
+          "artifact": "fire_extinguisher"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/extinguisher/fq-99-freyja-035.jpg-1": {
+    "filename": "../virtual/extinguisher/fq-99-freyja-035.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 419,
+          "y": 142,
+          "width": 30,
+          "height": 93
+        },
+        "region_attributes": {
+          "artifact": "fire_extinguisher"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/extinguisher/fq-99-freyja-036.jpg-1": {
+    "filename": "../virtual/extinguisher/fq-99-freyja-036.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 395,
+          "y": 146,
+          "width": 31,
+          "height": 89
+        },
+        "region_attributes": {
+          "artifact": "fire_extinguisher"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/extinguisher/fq-99-freyja-037.jpg-1": {
+    "filename": "../virtual/extinguisher/fq-99-freyja-037.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 338,
+          "y": 144,
+          "width": 33,
+          "height": 92
+        },
+        "region_attributes": {
+          "artifact": "fire_extinguisher"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/extinguisher/fq-99-freyja-038.jpg-1": {
+    "filename": "../virtual/extinguisher/fq-99-freyja-038.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 283,
+          "y": 143,
+          "width": 34,
+          "height": 100
+        },
+        "region_attributes": {
+          "artifact": "fire_extinguisher"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/extinguisher/fq-99-freyja-039.jpg-1": {
+    "filename": "../virtual/extinguisher/fq-99-freyja-039.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 233,
+          "y": 138,
+          "width": 39,
+          "height": 110
+        },
+        "region_attributes": {
+          "artifact": "fire_extinguisher"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/extinguisher/fq-99-freyja-040.jpg-1": {
+    "filename": "../virtual/extinguisher/fq-99-freyja-040.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 47,
+          "y": 126,
+          "width": 60,
+          "height": 142
+        },
+        "region_attributes": {
+          "artifact": "fire_extinguisher"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/extinguisher/fq-99-freyja-041.jpg-1": {
+    "filename": "../virtual/extinguisher/fq-99-freyja-041.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1,
+          "y": 109,
+          "width": 44,
+          "height": 170
+        },
+        "region_attributes": {
+          "artifact": "fire_extinguisher"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/extinguisher/fq-99-freyja-042.jpg-1": {
+    "filename": "../virtual/extinguisher/fq-99-freyja-042.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 6,
+          "y": 135,
+          "width": 49,
+          "height": 113
+        },
+        "region_attributes": {
+          "artifact": "fire_extinguisher"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/extinguisher/fq-99-freyja-043.jpg-1": {
+    "filename": "../virtual/extinguisher/fq-99-freyja-043.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 135,
+          "y": 142,
+          "width": 37,
+          "height": 96
+        },
+        "region_attributes": {
+          "artifact": "fire_extinguisher"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/extinguisher/fq-99-freyja-044.jpg-1": {
+    "filename": "../virtual/extinguisher/fq-99-freyja-044.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 222,
+          "y": 144,
+          "width": 35,
+          "height": 91
+        },
+        "region_attributes": {
+          "artifact": "fire_extinguisher"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/extinguisher/fq-99-freyja-045.jpg-1": {
+    "filename": "../virtual/extinguisher/fq-99-freyja-045.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 258,
+          "y": 147,
+          "width": 32,
+          "height": 90
+        },
+        "region_attributes": {
+          "artifact": "fire_extinguisher"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/extinguisher/fq-99-freyja-046.jpg-1": {
+    "filename": "../virtual/extinguisher/fq-99-freyja-046.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 335,
+          "y": 143,
+          "width": 33,
+          "height": 94
+        },
+        "region_attributes": {
+          "artifact": "fire_extinguisher"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/extinguisher/fq-99-freyja-047.jpg-1": {
+    "filename": "../virtual/extinguisher/fq-99-freyja-047.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 362,
+          "y": 140,
+          "width": 34,
+          "height": 99
+        },
+        "region_attributes": {
+          "artifact": "fire_extinguisher"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/extinguisher/fq-99-freyja-048.jpg-1": {
+    "filename": "../virtual/extinguisher/fq-99-freyja-048.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 419,
+          "y": 138,
+          "width": 37,
+          "height": 104
+        },
+        "region_attributes": {
+          "artifact": "fire_extinguisher"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/extinguisher/fq-99-freyja-049.jpg-1": {
+    "filename": "../virtual/extinguisher/fq-99-freyja-049.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 478,
+          "y": 134,
+          "width": 44,
+          "height": 115
+        },
+        "region_attributes": {
+          "artifact": "fire_extinguisher"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/extinguisher/fq-99-freyja-050.jpg-1": {
+    "filename": "../virtual/extinguisher/fq-99-freyja-050.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 540,
+          "y": 126,
+          "width": 54,
+          "height": 130
+        },
+        "region_attributes": {
+          "artifact": "fire_extinguisher"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/extinguisher/fq-99-freyja-051.jpg-1": {
+    "filename": "../virtual/extinguisher/fq-99-freyja-051.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 593,
+          "y": 135,
+          "width": 44,
+          "height": 108
+        },
+        "region_attributes": {
+          "artifact": "fire_extinguisher"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/extinguisher/fq-99-freyja-052.jpg-1": {
+    "filename": "../virtual/extinguisher/fq-99-freyja-052.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 364,
+          "y": 142,
+          "width": 28,
+          "height": 92
+        },
+        "region_attributes": {
+          "artifact": "fire_extinguisher"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/extinguisher/fq-99-freyja-053.jpg-1": {
+    "filename": "../virtual/extinguisher/fq-99-freyja-053.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 264,
+          "y": 141,
+          "width": 34,
+          "height": 103
+        },
+        "region_attributes": {
+          "artifact": "fire_extinguisher"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/extinguisher/fq-99-freyja-054.jpg-1": {
+    "filename": "../virtual/extinguisher/fq-99-freyja-054.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 229,
+          "y": 139,
+          "width": 39,
+          "height": 109
+        },
+        "region_attributes": {
+          "artifact": "fire_extinguisher"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/extinguisher/fq-99-freyja-055.jpg-1": {
+    "filename": "../virtual/extinguisher/fq-99-freyja-055.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 103,
+          "y": 122,
+          "width": 47,
+          "height": 138
+        },
+        "region_attributes": {
+          "artifact": "fire_extinguisher"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/extinguisher/fq-99-freyja-056.jpg-1": {
+    "filename": "../virtual/extinguisher/fq-99-freyja-056.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 15,
+          "y": 116,
+          "width": 62,
+          "height": 156
+        },
+        "region_attributes": {
+          "artifact": "fire_extinguisher"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/extinguisher/fq-99-freyja-057.jpg-1": {
+    "filename": "../virtual/extinguisher/fq-99-freyja-057.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 215,
+          "y": 147,
+          "width": 35,
+          "height": 87
+        },
+        "region_attributes": {
+          "artifact": "fire_extinguisher"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/extinguisher/fq-99-freyja-058.jpg-1": {
+    "filename": "../virtual/extinguisher/fq-99-freyja-058.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 315,
+          "y": 147,
+          "width": 37,
+          "height": 88
+        },
+        "region_attributes": {
+          "artifact": "fire_extinguisher"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/extinguisher/fq-99-freyja-059.jpg-1": {
+    "filename": "../virtual/extinguisher/fq-99-freyja-059.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 441,
+          "y": 140,
+          "width": 38,
+          "height": 97
+        },
+        "region_attributes": {
+          "artifact": "fire_extinguisher"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/extinguisher/fq-99-freyja-060.jpg-1": {
+    "filename": "../virtual/extinguisher/fq-99-freyja-060.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 518,
+          "y": 139,
+          "width": 46,
+          "height": 102
+        },
+        "region_attributes": {
+          "artifact": "fire_extinguisher"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/extinguisher/fq-99-freyja-061.jpg-1": {
+    "filename": "../virtual/extinguisher/fq-99-freyja-061.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 595,
+          "y": 132,
+          "width": 45,
+          "height": 120
+        },
+        "region_attributes": {
+          "artifact": "fire_extinguisher"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/extinguisher/fq-99-freyja-062.jpg-1": {
+    "filename": "../virtual/extinguisher/fq-99-freyja-062.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 84,
+          "y": 158,
+          "width": 18,
+          "height": 51
+        },
+        "region_attributes": {
+          "artifact": "fire_extinguisher"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/extinguisher/fq-99-freyja-063.jpg-1": {
+    "filename": "../virtual/extinguisher/fq-99-freyja-063.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 189,
+          "y": 164,
+          "width": 15,
+          "height": 42
+        },
+        "region_attributes": {
+          "artifact": "fire_extinguisher"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/extinguisher/fq-99-freyja-064.jpg-1": {
+    "filename": "../virtual/extinguisher/fq-99-freyja-064.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 255,
+          "y": 161,
+          "width": 15,
+          "height": 44
+        },
+        "region_attributes": {
+          "artifact": "fire_extinguisher"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/extinguisher/fq-99-freyja-065.jpg-1": {
+    "filename": "../virtual/extinguisher/fq-99-freyja-065.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 317,
+          "y": 162,
+          "width": 14,
+          "height": 42
+        },
+        "region_attributes": {
+          "artifact": "fire_extinguisher"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/extinguisher/fq-99-freyja-066.jpg-1": {
+    "filename": "../virtual/extinguisher/fq-99-freyja-066.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 392,
+          "y": 164,
+          "width": 14,
+          "height": 41
+        },
+        "region_attributes": {
+          "artifact": "fire_extinguisher"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/extinguisher/fq-99-freyja-067.jpg-1": {
+    "filename": "../virtual/extinguisher/fq-99-freyja-067.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 415,
+          "y": 164,
+          "width": 14,
+          "height": 42
+        },
+        "region_attributes": {
+          "artifact": "fire_extinguisher"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/extinguisher/fq-99-freyja-068.jpg-1": {
+    "filename": "../virtual/extinguisher/fq-99-freyja-068.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 472,
+          "y": 163,
+          "width": 17,
+          "height": 44
+        },
+        "region_attributes": {
+          "artifact": "fire_extinguisher"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/extinguisher/fq-99-freyja-069.jpg-1": {
+    "filename": "../virtual/extinguisher/fq-99-freyja-069.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 537,
+          "y": 163,
+          "width": 20,
+          "height": 47
+        },
+        "region_attributes": {
+          "artifact": "fire_extinguisher"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/extinguisher/fq-99-freyja-070.jpg-1": {
+    "filename": "../virtual/extinguisher/fq-99-freyja-070.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 602,
+          "y": 158,
+          "width": 20,
+          "height": 55
+        },
+        "region_attributes": {
+          "artifact": "fire_extinguisher"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/extinguisher/fq-99-freyja-071.jpg-1": {
+    "filename": "../virtual/extinguisher/fq-99-freyja-071.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 617,
+          "y": 154,
+          "width": 23,
+          "height": 58
+        },
+        "region_attributes": {
+          "artifact": "fire_extinguisher"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/survivor/fq-99-freyja-000.jpg-1": {
+    "filename": "../virtual/survivor/fq-99-freyja-000.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 486,
+          "y": 90,
+          "width": 19,
+          "height": 28
+        },
+        "region_attributes": {
+          "artifact": "survivor"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/survivor/fq-99-freyja-001.jpg-1": {
+    "filename": "../virtual/survivor/fq-99-freyja-001.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 498,
+          "y": 84,
+          "width": 20,
+          "height": 25
+        },
+        "region_attributes": {
+          "artifact": "survivor"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/survivor/fq-99-freyja-002.jpg-1": {
+    "filename": "../virtual/survivor/fq-99-freyja-002.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 525,
+          "y": 81,
+          "width": 28,
+          "height": 29
+        },
+        "region_attributes": {
+          "artifact": "survivor"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/survivor/fq-99-freyja-003.jpg-1": {
+    "filename": "../virtual/survivor/fq-99-freyja-003.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 538,
+          "y": 74,
+          "width": 33,
+          "height": 29
+        },
+        "region_attributes": {
+          "artifact": "survivor"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/survivor/fq-99-freyja-004.jpg-1": {
+    "filename": "../virtual/survivor/fq-99-freyja-004.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 562,
+          "y": 158,
+          "width": 35,
+          "height": 30
+        },
+        "region_attributes": {
+          "artifact": "survivor"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/survivor/fq-99-freyja-005.jpg-1": {
+    "filename": "../virtual/survivor/fq-99-freyja-005.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 563,
+          "y": 157,
+          "width": 39,
+          "height": 35
+        },
+        "region_attributes": {
+          "artifact": "survivor"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/survivor/fq-99-freyja-006.jpg-1": {
+    "filename": "../virtual/survivor/fq-99-freyja-006.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 581,
+          "y": 149,
+          "width": 46,
+          "height": 42
+        },
+        "region_attributes": {
+          "artifact": "survivor"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/survivor/fq-99-freyja-007.jpg-1": {
+    "filename": "../virtual/survivor/fq-99-freyja-007.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 592,
+          "y": 149,
+          "width": 49,
+          "height": 48
+        },
+        "region_attributes": {
+          "artifact": "survivor"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/survivor/fq-99-freyja-008.jpg-1": {
+    "filename": "../virtual/survivor/fq-99-freyja-008.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 73,
+          "y": 158,
+          "width": 32,
+          "height": 31
+        },
+        "region_attributes": {
+          "artifact": "survivor"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/survivor/fq-99-freyja-009.jpg-1": {
+    "filename": "../virtual/survivor/fq-99-freyja-009.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 96,
+          "y": 158,
+          "width": 36,
+          "height": 33
+        },
+        "region_attributes": {
+          "artifact": "survivor"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/survivor/fq-99-freyja-010.jpg-1": {
+    "filename": "../virtual/survivor/fq-99-freyja-010.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 110,
+          "y": 156,
+          "width": 35,
+          "height": 34
+        },
+        "region_attributes": {
+          "artifact": "survivor"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/survivor/fq-99-freyja-011.jpg-1": {
+    "filename": "../virtual/survivor/fq-99-freyja-011.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 110,
+          "y": 154,
+          "width": 46,
+          "height": 37
+        },
+        "region_attributes": {
+          "artifact": "survivor"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/survivor/fq-99-freyja-012.jpg-1": {
+    "filename": "../virtual/survivor/fq-99-freyja-012.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 108,
+          "y": 151,
+          "width": 51,
+          "height": 42
+        },
+        "region_attributes": {
+          "artifact": "survivor"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/survivor/fq-99-freyja-013.jpg-1": {
+    "filename": "../virtual/survivor/fq-99-freyja-013.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 101,
+          "y": 143,
+          "width": 60,
+          "height": 54
+        },
+        "region_attributes": {
+          "artifact": "survivor"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/survivor/fq-99-freyja-014.jpg-1": {
+    "filename": "../virtual/survivor/fq-99-freyja-014.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 80,
+          "y": 131,
+          "width": 77,
+          "height": 70
+        },
+        "region_attributes": {
+          "artifact": "survivor"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/survivor/fq-99-freyja-015.jpg-1": {
+    "filename": "../virtual/survivor/fq-99-freyja-015.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 18,
+          "y": 112,
+          "width": 110,
+          "height": 97
+        },
+        "region_attributes": {
+          "artifact": "survivor"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/fq-99-freyja-000.jpg-1": {
+    "filename": "../virtual/vent/fq-99-freyja-000.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 46,
+          "y": 92,
+          "width": 40,
+          "height": 38
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/fq-99-freyja-001.jpg-1": {
+    "filename": "../virtual/vent/fq-99-freyja-001.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 2,
+          "y": 85,
+          "width": 44,
+          "height": 41
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/fq-99-freyja-002.jpg-1": {
+    "filename": "../virtual/vent/fq-99-freyja-002.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 0,
+          "y": 83,
+          "width": 39,
+          "height": 41
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/fq-99-freyja-003.jpg-1": {
+    "filename": "../virtual/vent/fq-99-freyja-003.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 176,
+          "y": 97,
+          "width": 16,
+          "height": 33
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/fq-99-freyja-004.jpg-1": {
+    "filename": "../virtual/vent/fq-99-freyja-004.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 203,
+          "y": 98,
+          "width": 16,
+          "height": 32
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/fq-99-freyja-005.jpg-1": {
+    "filename": "../virtual/vent/fq-99-freyja-005.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 226,
+          "y": 98,
+          "width": 14,
+          "height": 30
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/fq-99-freyja-006.jpg-1": {
+    "filename": "../virtual/vent/fq-99-freyja-006.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 245,
+          "y": 99,
+          "width": 15,
+          "height": 32
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/fq-99-freyja-007.jpg-1": {
+    "filename": "../virtual/vent/fq-99-freyja-007.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 257,
+          "y": 97,
+          "width": 15,
+          "height": 35
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/fq-99-freyja-008.jpg-1": {
+    "filename": "../virtual/vent/fq-99-freyja-008.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 274,
+          "y": 96,
+          "width": 16,
+          "height": 34
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/fq-99-freyja-009.jpg-1": {
+    "filename": "../virtual/vent/fq-99-freyja-009.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 289,
+          "y": 97,
+          "width": 17,
+          "height": 33
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/fq-99-freyja-010.jpg-1": {
+    "filename": "../virtual/vent/fq-99-freyja-010.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 297,
+          "y": 95,
+          "width": 16,
+          "height": 35
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/fq-99-freyja-011.jpg-1": {
+    "filename": "../virtual/vent/fq-99-freyja-011.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 308,
+          "y": 96,
+          "width": 14,
+          "height": 33
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/fq-99-freyja-012.jpg-1": {
+    "filename": "../virtual/vent/fq-99-freyja-012.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 317,
+          "y": 92,
+          "width": 15,
+          "height": 37
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/fq-99-freyja-013.jpg-1": {
+    "filename": "../virtual/vent/fq-99-freyja-013.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 328,
+          "y": 91,
+          "width": 13,
+          "height": 36
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/fq-99-freyja-014.jpg-1": {
+    "filename": "../virtual/vent/fq-99-freyja-014.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 342,
+          "y": 89,
+          "width": 14,
+          "height": 37
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/fq-99-freyja-015.jpg-1": {
+    "filename": "../virtual/vent/fq-99-freyja-015.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 350,
+          "y": 89,
+          "width": 20,
+          "height": 37
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/fq-99-freyja-016.jpg-1": {
+    "filename": "../virtual/vent/fq-99-freyja-016.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 365,
+          "y": 86,
+          "width": 20,
+          "height": 38
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/fq-99-freyja-017.jpg-1": {
+    "filename": "../virtual/vent/fq-99-freyja-017.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 477,
+          "y": 58,
+          "width": 28,
+          "height": 54
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/fq-99-freyja-018.jpg-1": {
+    "filename": "../virtual/vent/fq-99-freyja-018.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 489,
+          "y": 54,
+          "width": 30,
+          "height": 55
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/fq-99-freyja-019.jpg-1": {
+    "filename": "../virtual/vent/fq-99-freyja-019.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 502,
+          "y": 51,
+          "width": 28,
+          "height": 54
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/fq-99-freyja-020.jpg-1": {
+    "filename": "../virtual/vent/fq-99-freyja-020.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 513,
+          "y": 47,
+          "width": 29,
+          "height": 57
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/fq-99-freyja-021.jpg-1": {
+    "filename": "../virtual/vent/fq-99-freyja-021.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 521,
+          "y": 43,
+          "width": 30,
+          "height": 61
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/fq-99-freyja-022.jpg-1": {
+    "filename": "../virtual/vent/fq-99-freyja-022.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 523,
+          "y": 40,
+          "width": 38,
+          "height": 61
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/fq-99-freyja-023.jpg-1": {
+    "filename": "../virtual/vent/fq-99-freyja-023.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 540,
+          "y": 37,
+          "width": 39,
+          "height": 61
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/fq-99-freyja-024.jpg-1": {
+    "filename": "../virtual/vent/fq-99-freyja-024.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 549,
+          "y": 33,
+          "width": 37,
+          "height": 63
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/fq-99-freyja-025.jpg-1": {
+    "filename": "../virtual/vent/fq-99-freyja-025.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 561,
+          "y": 31,
+          "width": 41,
+          "height": 60
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/fq-99-freyja-026.jpg-1": {
+    "filename": "../virtual/vent/fq-99-freyja-026.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 562,
+          "y": 27,
+          "width": 45,
+          "height": 65
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/fq-99-freyja-027.jpg-1": {
+    "filename": "../virtual/vent/fq-99-freyja-027.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 581,
+          "y": 21,
+          "width": 39,
+          "height": 66
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/fq-99-freyja-028.jpg-1": {
+    "filename": "../virtual/vent/fq-99-freyja-028.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 595,
+          "y": 12,
+          "width": 40,
+          "height": 79
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/fq-99-freyja-029.jpg-1": {
+    "filename": "../virtual/vent/fq-99-freyja-029.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 535,
+          "y": 124,
+          "width": 16,
+          "height": 27
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/fq-99-freyja-030.jpg-1": {
+    "filename": "../virtual/vent/fq-99-freyja-030.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 520,
+          "y": 126,
+          "width": 17,
+          "height": 24
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/fq-99-freyja-031.jpg-1": {
+    "filename": "../virtual/vent/fq-99-freyja-031.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 513,
+          "y": 125,
+          "width": 16,
+          "height": 25
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/fq-99-freyja-032.jpg-1": {
+    "filename": "../virtual/vent/fq-99-freyja-032.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 525,
+          "y": 122,
+          "width": 17,
+          "height": 27
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/fq-99-freyja-033.jpg-1": {
+    "filename": "../virtual/vent/fq-99-freyja-033.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 550,
+          "y": 119,
+          "width": 16,
+          "height": 28
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/fq-99-freyja-034.jpg-1": {
+    "filename": "../virtual/vent/fq-99-freyja-034.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 561,
+          "y": 118,
+          "width": 18,
+          "height": 27
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/fq-99-freyja-035.jpg-1": {
+    "filename": "../virtual/vent/fq-99-freyja-035.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 565,
+          "y": 114,
+          "width": 16,
+          "height": 30
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/fq-99-freyja-036.jpg-1": {
+    "filename": "../virtual/vent/fq-99-freyja-036.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 556,
+          "y": 109,
+          "width": 17,
+          "height": 33
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/fq-99-freyja-037.jpg-1": {
+    "filename": "../virtual/vent/fq-99-freyja-037.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 543,
+          "y": 110,
+          "width": 17,
+          "height": 31
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/fq-99-freyja-038.jpg-1": {
+    "filename": "../virtual/vent/fq-99-freyja-038.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 528,
+          "y": 109,
+          "width": 16,
+          "height": 31
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/fq-99-freyja-039.jpg-1": {
+    "filename": "../virtual/vent/fq-99-freyja-039.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 509,
+          "y": 107,
+          "width": 15,
+          "height": 32
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/fq-99-freyja-040.jpg-1": {
+    "filename": "../virtual/vent/fq-99-freyja-040.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 501,
+          "y": 108,
+          "width": 15,
+          "height": 33
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/fq-99-freyja-041.jpg-1": {
+    "filename": "../virtual/vent/fq-99-freyja-041.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 435,
+          "y": 109,
+          "width": 14,
+          "height": 32
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/fq-99-freyja-042.jpg-1": {
+    "filename": "../virtual/vent/fq-99-freyja-042.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 423,
+          "y": 108,
+          "width": 15,
+          "height": 32
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/fq-99-freyja-043.jpg-1": {
+    "filename": "../virtual/vent/fq-99-freyja-043.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 351,
+          "y": 107,
+          "width": 14,
+          "height": 33
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/fq-99-freyja-044.jpg-1": {
+    "filename": "../virtual/vent/fq-99-freyja-044.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 296,
+          "y": 102,
+          "width": 16,
+          "height": 34
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/fq-99-freyja-045.jpg-1": {
+    "filename": "../virtual/vent/fq-99-freyja-045.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 202,
+          "y": 87,
+          "width": 18,
+          "height": 40
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/fq-99-freyja-046.jpg-1": {
+    "filename": "../virtual/vent/fq-99-freyja-046.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 136,
+          "y": 76,
+          "width": 21,
+          "height": 48
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/fq-99-freyja-047.jpg-1": {
+    "filename": "../virtual/vent/fq-99-freyja-047.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 95,
+          "y": 65,
+          "width": 29,
+          "height": 56
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/fq-99-freyja-048.jpg-1": {
+    "filename": "../virtual/vent/fq-99-freyja-048.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 78,
+          "y": 63,
+          "width": 27,
+          "height": 52
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/fq-99-freyja-049.jpg-1": {
+    "filename": "../virtual/vent/fq-99-freyja-049.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 58,
+          "y": 56,
+          "width": 29,
+          "height": 60
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/fq-99-freyja-050.jpg-1": {
+    "filename": "../virtual/vent/fq-99-freyja-050.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 44,
+          "y": 54,
+          "width": 29,
+          "height": 61
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/fq-99-freyja-051.jpg-1": {
+    "filename": "../virtual/vent/fq-99-freyja-051.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 30,
+          "y": 50,
+          "width": 30,
+          "height": 61
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/fq-99-freyja-052.jpg-1": {
+    "filename": "../virtual/vent/fq-99-freyja-052.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 11,
+          "y": 41,
+          "width": 35,
+          "height": 68
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/vent/fq-99-freyja-053.jpg-1": {
+    "filename": "../virtual/vent/fq-99-freyja-053.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 0,
+          "y": 40,
+          "width": 26,
+          "height": 69
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
   }
 }
