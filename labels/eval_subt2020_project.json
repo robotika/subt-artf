@@ -1,0 +1,764 @@
+{
+  "_via_settings": {
+    "ui": {
+      "annotation_editor_height": 25,
+      "annotation_editor_fontsize": 0.8,
+      "leftsidebar_width": 18,
+      "image_grid": {
+        "img_height": 80,
+        "rshape_fill": "none",
+        "rshape_fill_opacity": 0.3,
+        "rshape_stroke": "yellow",
+        "rshape_stroke_width": 2,
+        "show_region_shape": true,
+        "show_image_policy": "all"
+      },
+      "image": {
+        "region_label": "__via_region_id__",
+        "region_color": "__via_default_region_color__",
+        "region_label_font": "10px Sans",
+        "on_image_annotation_editor_placement": "NEAR_REGION"
+      }
+    },
+    "core": {
+      "buffer_size": 18,
+      "filepath": {},
+      "default_filepath": ""
+    },
+    "project": {
+      "name": "via_project_subt-eval"
+    }
+  },
+  "_via_img_metadata": {
+    "../virtual/eval/backpack/backpack_cave_000.jpg-1": {
+      "filename": "../virtual/eval/backpack/backpack_cave_000.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/eval/backpack/backpack_cave_001.jpg-1": {
+      "filename": "../virtual/eval/backpack/backpack_cave_001.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/eval/backpack/backpack_cave_002.jpg-1": {
+      "filename": "../virtual/eval/backpack/backpack_cave_002.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/eval/backpack/backpack_cave_003.jpg-1": {
+      "filename": "../virtual/eval/backpack/backpack_cave_003.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/eval/backpack/backpack_cave_004.jpg-1": {
+      "filename": "../virtual/eval/backpack/backpack_cave_004.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/eval/backpack/backpack_cave_005.jpg-1": {
+      "filename": "../virtual/eval/backpack/backpack_cave_005.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/eval/backpack/backpack_cave_006.jpg-1": {
+      "filename": "../virtual/eval/backpack/backpack_cave_006.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/eval/backpack/backpack_cave_007.jpg-1": {
+      "filename": "../virtual/eval/backpack/backpack_cave_007.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/eval/backpack/backpack_cave_008.jpg-1": {
+      "filename": "../virtual/eval/backpack/backpack_cave_008.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/eval/backpack/backpack_cave_009.jpg-1": {
+      "filename": "../virtual/eval/backpack/backpack_cave_009.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/eval/backpack/backpack_cave_010.jpg-1": {
+      "filename": "../virtual/eval/backpack/backpack_cave_010.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/eval/backpack/backpack_cave_011.jpg-1": {
+      "filename": "../virtual/eval/backpack/backpack_cave_011.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/eval/backpack/backpack_cave_012.jpg-1": {
+      "filename": "../virtual/eval/backpack/backpack_cave_012.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/eval/backpack/backpack_cave_013.jpg-1": {
+      "filename": "../virtual/eval/backpack/backpack_cave_013.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/eval/backpack/backpack_cave_014.jpg-1": {
+      "filename": "../virtual/eval/backpack/backpack_cave_014.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/eval/backpack/backpack_cave_015.jpg-1": {
+      "filename": "../virtual/eval/backpack/backpack_cave_015.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/eval/backpack/backpack_cave_016.jpg-1": {
+      "filename": "../virtual/eval/backpack/backpack_cave_016.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/eval/backpack/backpack_cave_017.jpg-1": {
+      "filename": "../virtual/eval/backpack/backpack_cave_017.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/eval/backpack/backpack_cave_018.jpg-1": {
+      "filename": "../virtual/eval/backpack/backpack_cave_018.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/eval/backpack/backpack_cave_019.jpg-1": {
+      "filename": "../virtual/eval/backpack/backpack_cave_019.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/eval/backpack/backpack_cave_020.jpg-1": {
+      "filename": "../virtual/eval/backpack/backpack_cave_020.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/eval/backpack/backpack_furban_000.jpg-1": {
+      "filename": "../virtual/eval/backpack/backpack_furban_000.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/eval/backpack/backpack_furban_001.jpg-1": {
+      "filename": "../virtual/eval/backpack/backpack_furban_001.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/eval/backpack/backpack_furban_002.jpg-1": {
+      "filename": "../virtual/eval/backpack/backpack_furban_002.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/eval/backpack/backpack_furban_003.jpg-1": {
+      "filename": "../virtual/eval/backpack/backpack_furban_003.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/eval/backpack/backpack_furban_004.jpg-1": {
+      "filename": "../virtual/eval/backpack/backpack_furban_004.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/eval/cube/cube_furban_000.jpg-1": {
+      "filename": "../virtual/eval/cube/cube_furban_000.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/eval/drill/drill_ftunel_000.jpg-1": {
+      "filename": "../virtual/eval/drill/drill_ftunel_000.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/eval/drill/drill_ftunel_001.jpg-1": {
+      "filename": "../virtual/eval/drill/drill_ftunel_001.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/eval/drill/drill_ftunel_002.jpg-1": {
+      "filename": "../virtual/eval/drill/drill_ftunel_002.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/eval/drill/drill_ftunel_003.jpg-1": {
+      "filename": "../virtual/eval/drill/drill_ftunel_003.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/eval/drill/drill_ftunel_004.jpg-1": {
+      "filename": "../virtual/eval/drill/drill_ftunel_004.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/eval/drill/drill_ftunel_005.jpg-1": {
+      "filename": "../virtual/eval/drill/drill_ftunel_005.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/eval/extinguisher/ext_ftunel_000.jpg-1": {
+      "filename": "../virtual/eval/extinguisher/ext_ftunel_000.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/eval/extinguisher/ext_ftunel_001.jpg-1": {
+      "filename": "../virtual/eval/extinguisher/ext_ftunel_001.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/eval/extinguisher/ext_ftunel_002.jpg-1": {
+      "filename": "../virtual/eval/extinguisher/ext_ftunel_002.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/eval/extinguisher/ext_ftunel_003.jpg-1": {
+      "filename": "../virtual/eval/extinguisher/ext_ftunel_003.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/eval/extinguisher/ext_ftunel_004.jpg-1": {
+      "filename": "../virtual/eval/extinguisher/ext_ftunel_004.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/eval/extinguisher/ext_ftunel_005.jpg-1": {
+      "filename": "../virtual/eval/extinguisher/ext_ftunel_005.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/eval/extinguisher/ext_ftunel_006.jpg-1": {
+      "filename": "../virtual/eval/extinguisher/ext_ftunel_006.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/eval/helmet/helmet_cave_000.jpg-1": {
+      "filename": "../virtual/eval/helmet/helmet_cave_000.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/eval/helmet/helmet_cave_001.jpg-1": {
+      "filename": "../virtual/eval/helmet/helmet_cave_001.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/eval/helmet/helmet_cave_002.jpg-1": {
+      "filename": "../virtual/eval/helmet/helmet_cave_002.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/eval/helmet/helmet_cave_003.jpg-1": {
+      "filename": "../virtual/eval/helmet/helmet_cave_003.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/eval/helmet/helmet_cave_004.jpg-1": {
+      "filename": "../virtual/eval/helmet/helmet_cave_004.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/eval/helmet/helmet_cave_005.jpg-1": {
+      "filename": "../virtual/eval/helmet/helmet_cave_005.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/eval/helmet/helmet_cave_006.jpg-1": {
+      "filename": "../virtual/eval/helmet/helmet_cave_006.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/eval/helmet/helmet_cave_007.jpg-1": {
+      "filename": "../virtual/eval/helmet/helmet_cave_007.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/eval/helmet/helmet_cave_008.jpg-1": {
+      "filename": "../virtual/eval/helmet/helmet_cave_008.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/eval/helmet/helmet_cave_009.jpg-1": {
+      "filename": "../virtual/eval/helmet/helmet_cave_009.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/eval/helmet/helmet_cave_010.jpg-1": {
+      "filename": "../virtual/eval/helmet/helmet_cave_010.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/eval/helmet/helmet_cave_011.jpg-1": {
+      "filename": "../virtual/eval/helmet/helmet_cave_011.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/eval/helmet/helmet_cave_012.jpg-1": {
+      "filename": "../virtual/eval/helmet/helmet_cave_012.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/eval/helmet/helmet_cave_013.jpg-1": {
+      "filename": "../virtual/eval/helmet/helmet_cave_013.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/eval/helmet/helmet_cave_014.jpg-1": {
+      "filename": "../virtual/eval/helmet/helmet_cave_014.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/eval/helmet/helmet_cave_015.jpg-1": {
+      "filename": "../virtual/eval/helmet/helmet_cave_015.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/eval/helmet/helmet_cave_016.jpg-1": {
+      "filename": "../virtual/eval/helmet/helmet_cave_016.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/eval/helmet/helmet_cave_017.jpg-1": {
+      "filename": "../virtual/eval/helmet/helmet_cave_017.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/eval/helmet/helmet_cave_018.jpg-1": {
+      "filename": "../virtual/eval/helmet/helmet_cave_018.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/eval/helmet/helmet_cave_019.jpg-1": {
+      "filename": "../virtual/eval/helmet/helmet_cave_019.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/eval/helmet/helmet_cave_020.jpg-1": {
+      "filename": "../virtual/eval/helmet/helmet_cave_020.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/eval/phone/phone_cave_000.jpg-1": {
+      "filename": "../virtual/eval/phone/phone_cave_000.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/eval/phone/phone_cave_001.jpg-1": {
+      "filename": "../virtual/eval/phone/phone_cave_001.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/eval/phone/phone_cave_002.jpg-1": {
+      "filename": "../virtual/eval/phone/phone_cave_002.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/eval/phone/phone_cave_003.jpg-1": {
+      "filename": "../virtual/eval/phone/phone_cave_003.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/eval/phone/phone_cave_004.jpg-1": {
+      "filename": "../virtual/eval/phone/phone_cave_004.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/eval/phone/phone_cave_005.jpg-1": {
+      "filename": "../virtual/eval/phone/phone_cave_005.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/eval/phone/phone_cave_006.jpg-1": {
+      "filename": "../virtual/eval/phone/phone_cave_006.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/eval/phone/phone_cave_007.jpg-1": {
+      "filename": "../virtual/eval/phone/phone_cave_007.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/eval/phone/phone_cave_008.jpg-1": {
+      "filename": "../virtual/eval/phone/phone_cave_008.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/eval/phone/phone_cave_009.jpg-1": {
+      "filename": "../virtual/eval/phone/phone_cave_009.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/eval/phone/phone_cave_010.jpg-1": {
+      "filename": "../virtual/eval/phone/phone_cave_010.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/eval/phone/phone_cave_011.jpg-1": {
+      "filename": "../virtual/eval/phone/phone_cave_011.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/eval/rope/rope_cave_000.jpg-1": {
+      "filename": "../virtual/eval/rope/rope_cave_000.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/eval/rope/rope_cave_001.jpg-1": {
+      "filename": "../virtual/eval/rope/rope_cave_001.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/eval/rope/rope_cave_002.jpg-1": {
+      "filename": "../virtual/eval/rope/rope_cave_002.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/eval/rope/rope_cave_003.jpg-1": {
+      "filename": "../virtual/eval/rope/rope_cave_003.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/eval/rope/rope_cave_004.jpg-1": {
+      "filename": "../virtual/eval/rope/rope_cave_004.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/eval/rope/rope_cave_005.jpg-1": {
+      "filename": "../virtual/eval/rope/rope_cave_005.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/eval/rope/rope_cave_006.jpg-1": {
+      "filename": "../virtual/eval/rope/rope_cave_006.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/eval/rope/rope_cave_007.jpg-1": {
+      "filename": "../virtual/eval/rope/rope_cave_007.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/eval/rope/rope_cave_008.jpg-1": {
+      "filename": "../virtual/eval/rope/rope_cave_008.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/eval/rope/rope_cave_009.jpg-1": {
+      "filename": "../virtual/eval/rope/rope_cave_009.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/eval/rope/rope_cave_010.jpg-1": {
+      "filename": "../virtual/eval/rope/rope_cave_010.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/eval/rope/rope_cave_011.jpg-1": {
+      "filename": "../virtual/eval/rope/rope_cave_011.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/eval/rope/rope_cave_012.jpg-1": {
+      "filename": "../virtual/eval/rope/rope_cave_012.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/eval/rope/rope_cave_013.jpg-1": {
+      "filename": "../virtual/eval/rope/rope_cave_013.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/eval/rope/rope_cave_014.jpg-1": {
+      "filename": "../virtual/eval/rope/rope_cave_014.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/eval/rope/rope_cave_015.jpg-1": {
+      "filename": "../virtual/eval/rope/rope_cave_015.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/eval/rope/rope_cave_016.jpg-1": {
+      "filename": "../virtual/eval/rope/rope_cave_016.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/eval/rope/rope_cave_017.jpg-1": {
+      "filename": "../virtual/eval/rope/rope_cave_017.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/eval/rope/rope_cave_018.jpg-1": {
+      "filename": "../virtual/eval/rope/rope_cave_018.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/eval/rope/rope_cave_019.jpg-1": {
+      "filename": "../virtual/eval/rope/rope_cave_019.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/eval/rope/rope_cave_020.jpg-1": {
+      "filename": "../virtual/eval/rope/rope_cave_020.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/eval/survivor/survivor_cave_000.jpg-1": {
+      "filename": "../virtual/eval/survivor/survivor_cave_000.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/eval/survivor/survivor_cave_001.jpg-1": {
+      "filename": "../virtual/eval/survivor/survivor_cave_001.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/eval/survivor/survivor_cave_002.jpg-1": {
+      "filename": "../virtual/eval/survivor/survivor_cave_002.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/eval/survivor/survivor_cave_003.jpg-1": {
+      "filename": "../virtual/eval/survivor/survivor_cave_003.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/eval/survivor/survivor_cave_004.jpg-1": {
+      "filename": "../virtual/eval/survivor/survivor_cave_004.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/eval/survivor/survivor_cave_005.jpg-1": {
+      "filename": "../virtual/eval/survivor/survivor_cave_005.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/eval/survivor/survivor_cave_006.jpg-1": {
+      "filename": "../virtual/eval/survivor/survivor_cave_006.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/eval/survivor/survivor_cave_007.jpg-1": {
+      "filename": "../virtual/eval/survivor/survivor_cave_007.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/eval/survivor/survivor_cave_008.jpg-1": {
+      "filename": "../virtual/eval/survivor/survivor_cave_008.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/eval/survivor/survivor_cave_009.jpg-1": {
+      "filename": "../virtual/eval/survivor/survivor_cave_009.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/eval/survivor/survivor_cave_010.jpg-1": {
+      "filename": "../virtual/eval/survivor/survivor_cave_010.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/eval/survivor/survivor_cave_011.jpg-1": {
+      "filename": "../virtual/eval/survivor/survivor_cave_011.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/eval/survivor/survivor_cave_012.jpg-1": {
+      "filename": "../virtual/eval/survivor/survivor_cave_012.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/eval/survivor/survivor_cave_013.jpg-1": {
+      "filename": "../virtual/eval/survivor/survivor_cave_013.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/eval/survivor/survivor_cave_014.jpg-1": {
+      "filename": "../virtual/eval/survivor/survivor_cave_014.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/eval/survivor/survivor_cave_015.jpg-1": {
+      "filename": "../virtual/eval/survivor/survivor_cave_015.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/eval/survivor/survivor_cave_016.jpg-1": {
+      "filename": "../virtual/eval/survivor/survivor_cave_016.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/eval/survivor/survivor_cave_017.jpg-1": {
+      "filename": "../virtual/eval/survivor/survivor_cave_017.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/eval/survivor/survivor_cave_018.jpg-1": {
+      "filename": "../virtual/eval/survivor/survivor_cave_018.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/eval/survivor/survivor_cave_019.jpg-1": {
+      "filename": "../virtual/eval/survivor/survivor_cave_019.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/eval/survivor/survivor_fcave_000.jpg-1": {
+      "filename": "../virtual/eval/survivor/survivor_fcave_000.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/eval/survivor/survivor_ftunel_000.jpg-1": {
+      "filename": "../virtual/eval/survivor/survivor_ftunel_000.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/eval/survivor/survivor_ftunel_001.jpg-1": {
+      "filename": "../virtual/eval/survivor/survivor_ftunel_001.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/eval/survivor/survivor_ftunel_002.jpg-1": {
+      "filename": "../virtual/eval/survivor/survivor_ftunel_002.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/eval/vent/vent_furban_000.jpg-1": {
+      "filename": "../virtual/eval/vent/vent_furban_000.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/eval/vent/vent_furban_001.jpg-1": {
+      "filename": "../virtual/eval/vent/vent_furban_001.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/eval/vent/vent_furban_002.jpg-1": {
+      "filename": "../virtual/eval/vent/vent_furban_002.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    }
+  },
+  "_via_attributes": {
+    "region": {},
+    "file": {}
+  }
+}
