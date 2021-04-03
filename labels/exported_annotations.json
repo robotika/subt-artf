@@ -58908,5 +58908,328 @@
       }
     ],
     "file_attributes": {}
+  },
+  "../virtual/cube/cube_fp2_012.jpg-1": {
+    "filename": "../virtual/cube/cube_fp2_012.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1,
+          "y": 189,
+          "width": 43,
+          "height": 69
+        },
+        "region_attributes": {
+          "artifact": "cube"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/cube/cube_fp2_013.jpg-1": {
+    "filename": "../virtual/cube/cube_fp2_013.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1,
+          "y": 185,
+          "width": 54,
+          "height": 72
+        },
+        "region_attributes": {
+          "artifact": "cube"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/cube/cube_fp2_014.jpg-1": {
+    "filename": "../virtual/cube/cube_fp2_014.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1,
+          "y": 187,
+          "width": 63,
+          "height": 65
+        },
+        "region_attributes": {
+          "artifact": "cube"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/cube/cube_fp2_015.jpg-1": {
+    "filename": "../virtual/cube/cube_fp2_015.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1,
+          "y": 188,
+          "width": 72,
+          "height": 63
+        },
+        "region_attributes": {
+          "artifact": "cube"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/cube/cube_fp2_016.jpg-1": {
+    "filename": "../virtual/cube/cube_fp2_016.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1,
+          "y": 188,
+          "width": 79,
+          "height": 60
+        },
+        "region_attributes": {
+          "artifact": "cube"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/cube/cube_fp2_017.jpg-1": {
+    "filename": "../virtual/cube/cube_fp2_017.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1,
+          "y": 187,
+          "width": 76,
+          "height": 57
+        },
+        "region_attributes": {
+          "artifact": "cube"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/cube/cube_fp2_018.jpg-1": {
+    "filename": "../virtual/cube/cube_fp2_018.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1,
+          "y": 187,
+          "width": 78,
+          "height": 60
+        },
+        "region_attributes": {
+          "artifact": "cube"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/cube/cube_fp2_019.jpg-1": {
+    "filename": "../virtual/cube/cube_fp2_019.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1,
+          "y": 187,
+          "width": 73,
+          "height": 55
+        },
+        "region_attributes": {
+          "artifact": "cube"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/cube/cube_fp2_020.jpg-1": {
+    "filename": "../virtual/cube/cube_fp2_020.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1,
+          "y": 187,
+          "width": 67,
+          "height": 51
+        },
+        "region_attributes": {
+          "artifact": "cube"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/cube/cube_fp2_021.jpg-1": {
+    "filename": "../virtual/cube/cube_fp2_021.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1,
+          "y": 186,
+          "width": 57,
+          "height": 49
+        },
+        "region_attributes": {
+          "artifact": "cube"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/cube/cube_fp2_022.jpg-1": {
+    "filename": "../virtual/cube/cube_fp2_022.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1,
+          "y": 187,
+          "width": 52,
+          "height": 49
+        },
+        "region_attributes": {
+          "artifact": "cube"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/cube/cube_fp2_023.jpg-1": {
+    "filename": "../virtual/cube/cube_fp2_023.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1,
+          "y": 185,
+          "width": 45,
+          "height": 47
+        },
+        "region_attributes": {
+          "artifact": "cube"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/cube/cube_fp2_024.jpg-1": {
+    "filename": "../virtual/cube/cube_fp2_024.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1,
+          "y": 185,
+          "width": 30,
+          "height": 47
+        },
+        "region_attributes": {
+          "artifact": "cube"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/helmet/helmet_fog_000.jpg-1": {
+    "filename": "../virtual/helmet/helmet_fog_000.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 541,
+          "y": 178,
+          "width": 49,
+          "height": 27
+        },
+        "region_attributes": {
+          "artifact": "helmet"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/helmet/helmet_fog_001.jpg-1": {
+    "filename": "../virtual/helmet/helmet_fog_001.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 568,
+          "y": 178,
+          "width": 53,
+          "height": 25
+        },
+        "region_attributes": {
+          "artifact": "helmet"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/helmet/helmet_fog_002.jpg-1": {
+    "filename": "../virtual/helmet/helmet_fog_002.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 49,
+          "y": 189,
+          "width": 43,
+          "height": 24
+        },
+        "region_attributes": {
+          "artifact": "helmet"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../virtual/helmet/helmet_fog_003.jpg-1": {
+    "filename": "../virtual/helmet/helmet_fog_003.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 99,
+          "y": 189,
+          "width": 39,
+          "height": 23
+        },
+        "region_attributes": {
+          "artifact": "helmet"
+        }
+      }
+    ],
+    "file_attributes": {}
   }
 }
