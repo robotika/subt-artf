@@ -3469,5 +3469,689 @@
       }
     ],
     "file_attributes": {}
+  },
+  "../system/backpack/edu-stix-0003.jpg-1": {
+    "filename": "../system/backpack/edu-stix-0003.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 736,
+          "y": 323,
+          "width": 26,
+          "height": 28
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/backpack/edu-stix-0006.jpg-1": {
+    "filename": "../system/backpack/edu-stix-0006.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 828,
+          "y": 326,
+          "width": 30,
+          "height": 41
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/backpack/edu-stix-0010.jpg-1": {
+    "filename": "../system/backpack/edu-stix-0010.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 739,
+          "y": 329,
+          "width": 38,
+          "height": 47
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/backpack/k2-tunel-0012.jpg-1": {
+    "filename": "../system/backpack/k2-tunel-0012.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 671,
+          "y": 418,
+          "width": 18,
+          "height": 30
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/backpack/k2-tunel-0013.jpg-1": {
+    "filename": "../system/backpack/k2-tunel-0013.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 527,
+          "y": 405,
+          "width": 25,
+          "height": 34
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/backpack/k2-tunel-0014.jpg-1": {
+    "filename": "../system/backpack/k2-tunel-0014.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 549,
+          "y": 429,
+          "width": 24,
+          "height": 35
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/backpack/k2-tunel-0015.jpg-1": {
+    "filename": "../system/backpack/k2-tunel-0015.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 580,
+          "y": 429,
+          "width": 21,
+          "height": 32
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/backpack/k2-tunel-0016.jpg-1": {
+    "filename": "../system/backpack/k2-tunel-0016.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 563,
+          "y": 420,
+          "width": 26,
+          "height": 38
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/backpack/k2-tunel-0017.jpg-1": {
+    "filename": "../system/backpack/k2-tunel-0017.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 496,
+          "y": 434,
+          "width": 24,
+          "height": 36
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/drill/k2-tunel-0004.jpg-1": {
+    "filename": "../system/drill/k2-tunel-0004.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 763,
+          "y": 420,
+          "width": 11,
+          "height": 28
+        },
+        "region_attributes": {
+          "artifact": "drill"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/drill/k2-tunel-0005.jpg-1": {
+    "filename": "../system/drill/k2-tunel-0005.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 582,
+          "y": 431,
+          "width": 16,
+          "height": 44
+        },
+        "region_attributes": {
+          "artifact": "drill"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/drill/k2-tunel-0006.jpg-1": {
+    "filename": "../system/drill/k2-tunel-0006.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 927,
+          "y": 421,
+          "width": 47,
+          "height": 93
+        },
+        "region_attributes": {
+          "artifact": "drill"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/drill/k2-tunel-0007.jpg-1": {
+    "filename": "../system/drill/k2-tunel-0007.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 88,
+          "y": 370,
+          "width": 72,
+          "height": 99
+        },
+        "region_attributes": {
+          "artifact": "drill"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/drill/k2-tunel-0008.jpg-1": {
+    "filename": "../system/drill/k2-tunel-0008.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 273,
+          "y": 380,
+          "width": 63,
+          "height": 84
+        },
+        "region_attributes": {
+          "artifact": "drill"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/drill/k2-tunel-0009.jpg-1": {
+    "filename": "../system/drill/k2-tunel-0009.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 404,
+          "y": 380,
+          "width": 50,
+          "height": 71
+        },
+        "region_attributes": {
+          "artifact": "drill"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/drill/k2-tunel-0010.jpg-1": {
+    "filename": "../system/drill/k2-tunel-0010.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 496,
+          "y": 374,
+          "width": 34,
+          "height": 48
+        },
+        "region_attributes": {
+          "artifact": "drill"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/drill/k2-tunel-0011.jpg-1": {
+    "filename": "../system/drill/k2-tunel-0011.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 650,
+          "y": 379,
+          "width": 21,
+          "height": 30
+        },
+        "region_attributes": {
+          "artifact": "drill"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/drill/k2-tunel-0018.jpg-1": {
+    "filename": "../system/drill/k2-tunel-0018.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 470,
+          "y": 396,
+          "width": 67,
+          "height": 107
+        },
+        "region_attributes": {
+          "artifact": "drill"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/drill/k2-tunel-0019.jpg-1": {
+    "filename": "../system/drill/k2-tunel-0019.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 25,
+          "y": 417,
+          "width": 191,
+          "height": 212
+        },
+        "region_attributes": {
+          "artifact": "drill"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/extinguisher/edu-stix-0000.jpg-1": {
+    "filename": "../system/extinguisher/edu-stix-0000.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 333,
+          "y": 302,
+          "width": 39,
+          "height": 70
+        },
+        "region_attributes": {
+          "artifact": "fire_extinguisher"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/extinguisher/edu-stix-0001.jpg-1": {
+    "filename": "../system/extinguisher/edu-stix-0001.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 349,
+          "y": 284,
+          "width": 44,
+          "height": 80
+        },
+        "region_attributes": {
+          "artifact": "fire_extinguisher"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/extinguisher/edu-stix-0002.jpg-1": {
+    "filename": "../system/extinguisher/edu-stix-0002.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 193,
+          "y": 331,
+          "width": 49,
+          "height": 103
+        },
+        "region_attributes": {
+          "artifact": "fire_extinguisher"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/extinguisher/k2-tunel-0000.jpg-1": {
+    "filename": "../system/extinguisher/k2-tunel-0000.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 359,
+          "y": 393,
+          "width": 10,
+          "height": 24
+        },
+        "region_attributes": {
+          "artifact": "fire_extinguisher"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/extinguisher/k2-tunel-0001.jpg-1": {
+    "filename": "../system/extinguisher/k2-tunel-0001.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 245,
+          "y": 389,
+          "width": 11,
+          "height": 35
+        },
+        "region_attributes": {
+          "artifact": "fire_extinguisher"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/extinguisher/k2-tunel-0002.jpg-1": {
+    "filename": "../system/extinguisher/k2-tunel-0002.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 71,
+          "y": 355,
+          "width": 16,
+          "height": 39
+        },
+        "region_attributes": {
+          "artifact": "fire_extinguisher"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/extinguisher/k2-tunel-0003.jpg-1": {
+    "filename": "../system/extinguisher/k2-tunel-0003.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 109,
+          "y": 317,
+          "width": 23,
+          "height": 49
+        },
+        "region_attributes": {
+          "artifact": "fire_extinguisher"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/rope/P_013.jpg-1": {
+    "filename": "../system/rope/P_013.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 55,
+          "y": 199,
+          "width": 64,
+          "height": 34
+        },
+        "region_attributes": {
+          "artifact": "rope"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/rope/P_014.jpg-1": {
+    "filename": "../system/rope/P_014.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 117,
+          "y": 198,
+          "width": 66,
+          "height": 30
+        },
+        "region_attributes": {
+          "artifact": "rope"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/rope/P_019.jpg-1": {
+    "filename": "../system/rope/P_019.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 224,
+          "y": 211,
+          "width": 63,
+          "height": 32
+        },
+        "region_attributes": {
+          "artifact": "rope"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/rope/P_025.jpg-1": {
+    "filename": "../system/rope/P_025.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 203,
+          "y": 221,
+          "width": 81,
+          "height": 43
+        },
+        "region_attributes": {
+          "artifact": "rope"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/rope/P_068.jpg-1": {
+    "filename": "../system/rope/P_068.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 76,
+          "y": 213,
+          "width": 114,
+          "height": 46
+        },
+        "region_attributes": {
+          "artifact": "rope"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/rope/P_111.jpg-1": {
+    "filename": "../system/rope/P_111.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 213,
+          "y": 172,
+          "width": 117,
+          "height": 50
+        },
+        "region_attributes": {
+          "artifact": "rope"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/rope/P_112.jpg-1": {
+    "filename": "../system/rope/P_112.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 372,
+          "y": 217,
+          "width": 131,
+          "height": 53
+        },
+        "region_attributes": {
+          "artifact": "rope"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/rope/P_120.jpg-1": {
+    "filename": "../system/rope/P_120.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 489,
+          "y": 245,
+          "width": 149,
+          "height": 113
+        },
+        "region_attributes": {
+          "artifact": "rope"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/rope/P_160.jpg-1": {
+    "filename": "../system/rope/P_160.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 251,
+          "y": 203,
+          "width": 55,
+          "height": 31
+        },
+        "region_attributes": {
+          "artifact": "rope"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/vent/run4-vent.jpg-1": {
+    "filename": "../system/vent/run4-vent.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 649,
+          "y": 268,
+          "width": 21,
+          "height": 21
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
   }
 }
