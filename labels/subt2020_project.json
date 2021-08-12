@@ -65996,6 +65996,18 @@
           "region_attributes": {
             "artifact": "nothing"
           }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 298,
+            "y": 434,
+            "width": 29,
+            "height": 73
+          },
+          "region_attributes": {
+            "artifact": "fire_extinguisher"
+          }
         }
       ],
       "file_attributes": {}
