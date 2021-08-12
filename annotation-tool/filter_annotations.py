@@ -7,7 +7,7 @@ import cv2
 USED_ARTF_NAME = ["backpack", "phone", "survivor", "drill", "fire_extinguisher", "vent", "helmet", "rope", "breadcrumb",
                    "robot", "cube", "nothing"]
 
-BLACK_LIST = [
+BLACKLIST = [
 "../virtual/helmet/local_J01_000.jpg",
 "../virtual/helmet/local_J01_001.jpg",
 "../virtual/helmet/local_J01_012.jpg",
@@ -115,7 +115,7 @@ def main(annotation_file, out_prefix):
         json_data = json.load(f)
         for item in json_data.values():
             file_name = item['filename']
-            if file_name in BLACK_LIST:
+            if file_name in BLACKLIST:
                 print(file_name)
                 continue
             regions = item['regions']
