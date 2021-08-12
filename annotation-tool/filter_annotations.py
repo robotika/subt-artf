@@ -7,6 +7,73 @@ import cv2
 USED_ARTF_NAME = ["backpack", "phone", "survivor", "drill", "fire_extinguisher", "vent", "helmet", "rope", "breadcrumb",
                    "robot", "cube", "nothing"]
 
+BLACK_LIST = [
+"../virtual/helmet/local_J01_000.jpg",
+"../virtual/helmet/local_J01_001.jpg",
+"../virtual/helmet/local_J01_012.jpg",
+"../virtual/helmet/local_J01_013.jpg",
+"../virtual/helmet/local_J01_014.jpg",
+"../virtual/helmet/local_J01_015.jpg",
+"../virtual/helmet/local_J01_016.jpg",
+"../virtual/helmet/local_J03_000.jpg",
+"../virtual/helmet/local_J03_001.jpg",
+"../virtual/helmet/local_J03_002.jpg",
+"../virtual/helmet/local_J03_003.jpg",
+"../virtual/helmet/local_J03_004.jpg",
+"../virtual/helmet/local_J03_005.jpg",
+"../virtual/helmet/local_J03_006.jpg",
+"../virtual/helmet/local_J03_007.jpg",
+"../virtual/helmet/local_J03_008.jpg",
+"../virtual/helmet/local_J03_009.jpg",
+"../virtual/helmet/local_J03_010.jpg",
+"../virtual/helmet/local_J03_011.jpg",
+"../virtual/helmet/local_J03_012.jpg",
+"../virtual/helmet/local_J03_013.jpg",
+"../virtual/helmet/local_J03_014.jpg",
+"../virtual/helmet/local_J03_015.jpg",
+"../virtual/helmet/local_J03_016.jpg",
+"../virtual/helmet/local_J03_017.jpg",
+"../virtual/helmet/local_J03_018.jpg",
+"../virtual/drill/drill_tunel_p_013.jpg",
+"../virtual/drill/drill_tunel_p_014.jpg",
+"../virtual/drill/drill_tunel_p_015.jpg",
+"../virtual/drill/drill_tunel_p_016.jpg",
+"../virtual/drill/drill_tunel_p_039.jpg",
+"../virtual/drill/drill_tunel_p_040.jpg",
+"../virtual/extinguisher/ext_tunel_p_000.jpg",
+"../virtual/extinguisher/ext_tunel_p_001.jpg",
+"../virtual/extinguisher/ext_tunel_p_002.jpg",
+"../virtual/extinguisher/ext_tunel_p_003.jpg",
+"../virtual/drill/drill_tunel_s2_000.jpg",
+"../virtual/drill/drill_tunel_s2_001.jpg",
+"../virtual/drill/drill_tunel_s2_002.jpg",
+"../virtual/drill/drill_tunel_s2_003.jpg",
+"../virtual/drill/drill_tunel_s2_004.jpg",
+"../virtual/extinguisher/ext_tunel_s2_000.jpg",
+"../virtual/extinguisher/ext_tunel_s2_001.jpg",
+"../virtual/extinguisher/ext_tunel_s2_002.jpg",
+"../virtual/extinguisher/ext_tunel_s2_004.jpg",
+"../virtual/backpack/fq-99-freyja-000.jpg",
+"../virtual/backpack/fq-99-freyja-001.jpg",
+"../virtual/backpack/fq-99-freyja-002.jpg",
+"../virtual/backpack/fq-99-freyja-003.jpg",
+"../virtual/backpack/fq-99-freyja-004.jpg",
+"../virtual/backpack/fq-99-freyja-005.jpg",
+"../virtual/backpack/fq-99-freyja-006.jpg",
+"../virtual/backpack/fq-99-freyja-007.jpg",
+"../virtual/backpack/fq-99-freyja-008.jpg",
+"../virtual/backpack/fq-99-freyja-029.jpg",
+"../virtual/backpack/fq-99-freyja-032.jpg",
+"../virtual/backpack/backpack_fp3_000.jpg",
+"../virtual/backpack/backpack_fp3_001.jpg",
+"../virtual/backpack/backpack_fp3_002.jpg",
+"../virtual/backpack/backpack_fp3_004.jpg",
+"../virtual/backpack/backpack_fp3_014.jpg",
+"../virtual/backpack/backpack_fp3_015.jpg",
+"../virtual/helmet/helmet_fp3_001.jpg",
+"../virtual/helmet/helmet_fp3_002.jpg"
+]
+
 def manual_sorting(data, annotations_dir):
     ii = 0
     while True:
@@ -48,6 +115,9 @@ def main(annotation_file, out_prefix):
         json_data = json.load(f)
         for item in json_data.values():
             file_name = item['filename']
+            if file_name in BLACK_LIST:
+                print(file_name)
+                continue
             regions = item['regions']
             for reg in regions:
                 artf_name = reg['region_attributes']['artifact']
