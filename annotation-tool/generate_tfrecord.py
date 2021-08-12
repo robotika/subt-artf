@@ -56,16 +56,22 @@ def class_text_to_int(row_label):
         return 4
     if row_label == 'helmet':
         return 5
-    if row_label == 'robot':
+    if row_label == 'fire_extinguisher':
         return 6
-    if row_label == 'TOOLBOX':
+    if row_label == 'drill':
         return 7
-    if row_label == 'VALVE':
+    if row_label == 'vent':
         return 8
-    if row_label == 'RADIO':
+    if row_label == 'cube':
         return 9
+    if row_label == 'robot':
+        return 10
+    if row_label == 'breadcrumb':
+        return 11
+    if row_label == 'nothing':
+        return 12
     else:
-        None
+        pass
 
 
 def split(df, group):
