@@ -69438,6 +69438,4197 @@
         }
       ],
       "file_attributes": {}
+    },
+    "../virtual/backpack/logimage_im_002164.jpg-1": {
+      "filename": "../virtual/backpack/logimage_im_002164.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 279,
+            "y": 262,
+            "width": 32,
+            "height": 47
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/backpack/logimage_im_002168.jpg-1": {
+      "filename": "../virtual/backpack/logimage_im_002168.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 319,
+            "y": 260,
+            "width": 39,
+            "height": 49
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/backpack/logimage_im_003456.jpg-1": {
+      "filename": "../virtual/backpack/logimage_im_003456.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 361,
+            "y": 271,
+            "width": 22,
+            "height": 33
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 473,
+            "y": 171,
+            "width": 21,
+            "height": 39
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 466,
+            "y": 62,
+            "width": 27,
+            "height": 28
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/backpack/logimage_im_003458.jpg-1": {
+      "filename": "../virtual/backpack/logimage_im_003458.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 321,
+            "y": 242,
+            "width": 23,
+            "height": 33
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 436,
+            "y": 137,
+            "width": 19,
+            "height": 41
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 436,
+            "y": 24,
+            "width": 39,
+            "height": 35
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 361,
+            "y": 5,
+            "width": 11,
+            "height": 37
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/backpack/logimage_im_003460.jpg-1": {
+      "filename": "../virtual/backpack/logimage_im_003460.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 263,
+            "y": 231,
+            "width": 27,
+            "height": 42
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 382,
+            "y": 127,
+            "width": 17,
+            "height": 39
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/backpack/logimage_im_003462.jpg-1": {
+      "filename": "../virtual/backpack/logimage_im_003462.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 211,
+            "y": 311,
+            "width": 31,
+            "height": 45
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 327,
+            "y": 177,
+            "width": 21,
+            "height": 41
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 371,
+            "y": 54,
+            "width": 46,
+            "height": 55
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/backpack/logimage_im_003465.jpg-1": {
+      "filename": "../virtual/backpack/logimage_im_003465.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 204,
+            "y": 257,
+            "width": 29,
+            "height": 45
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 338,
+            "y": 143,
+            "width": 19,
+            "height": 44
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 363,
+            "y": 1,
+            "width": 47,
+            "height": 52
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/backpack/logimage_im_003472.jpg-1": {
+      "filename": "../virtual/backpack/logimage_im_003472.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 232,
+            "y": 207,
+            "width": 42,
+            "height": 61
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 412,
+            "y": 33,
+            "width": 33,
+            "height": 79
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/backpack/logimage_im_003476.jpg-1": {
+      "filename": "../virtual/backpack/logimage_im_003476.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 122,
+            "y": 216,
+            "width": 77,
+            "height": 95
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 406,
+            "y": 1,
+            "width": 41,
+            "height": 57
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/backpack/logimage_im_003740.jpg-1": {
+      "filename": "../virtual/backpack/logimage_im_003740.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 411,
+            "y": 136,
+            "width": 11,
+            "height": 17
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 464,
+            "y": 192,
+            "width": 15,
+            "height": 19
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/backpack/logimage_im_003742.jpg-1": {
+      "filename": "../virtual/backpack/logimage_im_003742.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 480,
+            "y": 193,
+            "width": 15,
+            "height": 21
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 423,
+            "y": 132,
+            "width": 13,
+            "height": 18
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/backpack/logimage_im_003744.jpg-1": {
+      "filename": "../virtual/backpack/logimage_im_003744.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 410,
+            "y": 148,
+            "width": 16,
+            "height": 19
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 470,
+            "y": 209,
+            "width": 18,
+            "height": 23
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/backpack/logimage_im_003746.jpg-1": {
+      "filename": "../virtual/backpack/logimage_im_003746.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 384,
+            "y": 149,
+            "width": 13,
+            "height": 20
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 450,
+            "y": 214,
+            "width": 16,
+            "height": 22
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/backpack/logimage_im_003748.jpg-1": {
+      "filename": "../virtual/backpack/logimage_im_003748.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 421,
+            "y": 210,
+            "width": 18,
+            "height": 23
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 354,
+            "y": 143,
+            "width": 13,
+            "height": 21
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/backpack/logimage_im_003750.jpg-1": {
+      "filename": "../virtual/backpack/logimage_im_003750.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 319,
+            "y": 136,
+            "width": 15,
+            "height": 24
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 391,
+            "y": 204,
+            "width": 18,
+            "height": 23
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/backpack/logimage_im_003752.jpg-1": {
+      "filename": "../virtual/backpack/logimage_im_003752.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 281,
+            "y": 132,
+            "width": 16,
+            "height": 28
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 358,
+            "y": 205,
+            "width": 19,
+            "height": 27
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/backpack/logimage_im_003760.jpg-1": {
+      "filename": "../virtual/backpack/logimage_im_003760.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 185,
+            "y": 74,
+            "width": 27,
+            "height": 46
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 313,
+            "y": 196,
+            "width": 29,
+            "height": 37
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/backpack/logimage_im_003764.jpg-1": {
+      "filename": "../virtual/backpack/logimage_im_003764.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 163,
+            "y": 45,
+            "width": 41,
+            "height": 72
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 346,
+            "y": 231,
+            "width": 47,
+            "height": 59
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/backpack/logimage_im_003767.jpg-1": {
+      "filename": "../virtual/backpack/logimage_im_003767.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 409,
+            "y": 251,
+            "width": 77,
+            "height": 98
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 145,
+            "y": 2,
+            "width": 55,
+            "height": 75
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 205,
+            "y": 33,
+            "width": 15,
+            "height": 43
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/backpack/logimage_im_004498.jpg-1": {
+      "filename": "../virtual/backpack/logimage_im_004498.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 63,
+            "y": 248,
+            "width": 26,
+            "height": 33
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/backpack/logimage_right_im_002191.jpg-1": {
+      "filename": "../virtual/backpack/logimage_right_im_002191.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 144,
+            "y": 436,
+            "width": 30,
+            "height": 40
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/backpack/logimage_right_im_002203.jpg-1": {
+      "filename": "../virtual/backpack/logimage_right_im_002203.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 273,
+            "y": 413,
+            "width": 28,
+            "height": 38
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/backpack/logimage_right_im_002205.jpg-1": {
+      "filename": "../virtual/backpack/logimage_right_im_002205.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 273,
+            "y": 404,
+            "width": 26,
+            "height": 35
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/backpack/logimage_right_im_002891.jpg-1": {
+      "filename": "../virtual/backpack/logimage_right_im_002891.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 139,
+            "y": 344,
+            "width": 22,
+            "height": 28
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/errors/B120W600RH3600W-TYPE_BACKPACK-307.jpg-1": {
+      "filename": "../virtual/errors/B120W600RH3600W-TYPE_BACKPACK-307.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 122,
+            "y": 1,
+            "width": 10,
+            "height": 35
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/errors/B120W600RH3600W-TYPE_BACKPACK-309.jpg-1": {
+      "filename": "../virtual/errors/B120W600RH3600W-TYPE_BACKPACK-309.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 235,
+            "y": 3,
+            "width": 21,
+            "height": 86
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/errors/B120W600RH3600W-TYPE_BACKPACK-347.jpg-1": {
+      "filename": "../virtual/errors/B120W600RH3600W-TYPE_BACKPACK-347.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 9,
+            "y": 2,
+            "width": 31,
+            "height": 86
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/errors/B120W600RH3600W-TYPE_BACKPACK-348.jpg-1": {
+      "filename": "../virtual/errors/B120W600RH3600W-TYPE_BACKPACK-348.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 272,
+            "y": 49,
+            "width": 18,
+            "height": 97
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/errors/B120W600RH3600W-TYPE_BACKPACK-350.jpg-1": {
+      "filename": "../virtual/errors/B120W600RH3600W-TYPE_BACKPACK-350.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 119,
+            "y": 256,
+            "width": 18,
+            "height": 71
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 324,
+            "y": 267,
+            "width": 26,
+            "height": 59
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 103,
+            "y": 123,
+            "width": 15,
+            "height": 47
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 2,
+            "y": 150,
+            "width": 100,
+            "height": 19
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 121,
+            "y": 160,
+            "width": 65,
+            "height": 19
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 188,
+            "y": 170,
+            "width": 65,
+            "height": 19
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 256,
+            "y": 183,
+            "width": 101,
+            "height": 20
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/errors/B120W600RH3600W-TYPE_BACKPACK-354.jpg-1": {
+      "filename": "../virtual/errors/B120W600RH3600W-TYPE_BACKPACK-354.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 160,
+            "y": 1,
+            "width": 16,
+            "height": 79
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/errors/logimage_im_000276.jpg-1": {
+      "filename": "../virtual/errors/logimage_im_000276.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 112,
+            "y": 309,
+            "width": 43,
+            "height": 32
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 295,
+            "y": 181,
+            "width": 25,
+            "height": 32
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 515,
+            "y": 7,
+            "width": 41,
+            "height": 39
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/errors/logimage_im_000278.jpg-1": {
+      "filename": "../virtual/errors/logimage_im_000278.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1,
+            "y": 323,
+            "width": 13,
+            "height": 15
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 248,
+            "y": 282,
+            "width": 17,
+            "height": 38
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 499,
+            "y": 229,
+            "width": 35,
+            "height": 41
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/errors/logimage_im_003440.jpg-1": {
+      "filename": "../virtual/errors/logimage_im_003440.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 78,
+            "y": 101,
+            "width": 19,
+            "height": 34
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 133,
+            "y": 27,
+            "width": 17,
+            "height": 25
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 109,
+            "y": 71,
+            "width": 9,
+            "height": 15
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/errors/logimage_im_004066.jpg-1": {
+      "filename": "../virtual/errors/logimage_im_004066.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 597,
+            "y": 149,
+            "width": 11,
+            "height": 22
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/errors/logimage_im_005124.jpg-1": {
+      "filename": "../virtual/errors/logimage_im_005124.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 147,
+            "y": 101,
+            "width": 17,
+            "height": 29
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 189,
+            "y": 27,
+            "width": 13,
+            "height": 17
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 171,
+            "y": 66,
+            "width": 8,
+            "height": 14
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/errors/logimage_right_im_001890.jpg-1": {
+      "filename": "../virtual/errors/logimage_right_im_001890.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 124,
+            "y": 53,
+            "width": 24,
+            "height": 43
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 87,
+            "y": 180,
+            "width": 13,
+            "height": 21
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 53,
+            "y": 303,
+            "width": 9,
+            "height": 22
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/errors/logimage_right_im_002765.jpg-1": {
+      "filename": "../virtual/errors/logimage_right_im_002765.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 2,
+            "y": 138,
+            "width": 142,
+            "height": 440
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 2,
+            "y": 55,
+            "width": 64,
+            "height": 44
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/extinguisher/logimage_im_002271.jpg-1": {
+      "filename": "../virtual/extinguisher/logimage_im_002271.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 92,
+            "y": 206,
+            "width": 15,
+            "height": 27
+          },
+          "region_attributes": {
+            "artifact": "fire_extinguisher"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/extinguisher/logimage_im_002288.jpg-1": {
+      "filename": "../virtual/extinguisher/logimage_im_002288.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 85,
+            "y": 182,
+            "width": 24,
+            "height": 59
+          },
+          "region_attributes": {
+            "artifact": "fire_extinguisher"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/extinguisher/logimage_im_002536.jpg-1": {
+      "filename": "../virtual/extinguisher/logimage_im_002536.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 486,
+            "y": 158,
+            "width": 20,
+            "height": 45
+          },
+          "region_attributes": {
+            "artifact": "fire_extinguisher"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/extinguisher/logimage_im_002538.jpg-1": {
+      "filename": "../virtual/extinguisher/logimage_im_002538.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 454,
+            "y": 137,
+            "width": 20,
+            "height": 43
+          },
+          "region_attributes": {
+            "artifact": "fire_extinguisher"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/extinguisher/logimage_im_002967.jpg-1": {
+      "filename": "../virtual/extinguisher/logimage_im_002967.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 33,
+            "y": 213,
+            "width": 23,
+            "height": 55
+          },
+          "region_attributes": {
+            "artifact": "fire_extinguisher"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/extinguisher/logimage_im_002969.jpg-1": {
+      "filename": "../virtual/extinguisher/logimage_im_002969.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 103,
+            "y": 190,
+            "width": 19,
+            "height": 50
+          },
+          "region_attributes": {
+            "artifact": "fire_extinguisher"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/extinguisher/logimage_im_002971.jpg-1": {
+      "filename": "../virtual/extinguisher/logimage_im_002971.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 110,
+            "y": 158,
+            "width": 17,
+            "height": 47
+          },
+          "region_attributes": {
+            "artifact": "fire_extinguisher"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/extinguisher/logimage_im_003225.jpg-1": {
+      "filename": "../virtual/extinguisher/logimage_im_003225.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 400,
+            "y": 119,
+            "width": 13,
+            "height": 36
+          },
+          "region_attributes": {
+            "artifact": "fire_extinguisher"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/extinguisher/logimage_im_003228.jpg-1": {
+      "filename": "../virtual/extinguisher/logimage_im_003228.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 386,
+            "y": 119,
+            "width": 18,
+            "height": 43
+          },
+          "region_attributes": {
+            "artifact": "fire_extinguisher"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/extinguisher/logimage_im_004659.jpg-1": {
+      "filename": "../virtual/extinguisher/logimage_im_004659.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 26,
+            "y": 213,
+            "width": 23,
+            "height": 62
+          },
+          "region_attributes": {
+            "artifact": "fire_extinguisher"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/extinguisher/logimage_im_004909.jpg-1": {
+      "filename": "../virtual/extinguisher/logimage_im_004909.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 584,
+            "y": 166,
+            "width": 25,
+            "height": 44
+          },
+          "region_attributes": {
+            "artifact": "fire_extinguisher"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/extinguisher/logimage_im_004914.jpg-1": {
+      "filename": "../virtual/extinguisher/logimage_im_004914.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 377,
+            "y": 102,
+            "width": 18,
+            "height": 40
+          },
+          "region_attributes": {
+            "artifact": "fire_extinguisher"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/extinguisher/logimage_left_im_002961.jpg-1": {
+      "filename": "../virtual/extinguisher/logimage_left_im_002961.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 338,
+            "y": 385,
+            "width": 18,
+            "height": 44
+          },
+          "region_attributes": {
+            "artifact": "fire_extinguisher"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/extinguisher/logimage_left_im_002992.jpg-1": {
+      "filename": "../virtual/extinguisher/logimage_left_im_002992.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 59,
+            "y": 402,
+            "width": 47,
+            "height": 97
+          },
+          "region_attributes": {
+            "artifact": "fire_extinguisher"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/extinguisher/logimage_left_im_004678.jpg-1": {
+      "filename": "../virtual/extinguisher/logimage_left_im_004678.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 183,
+            "y": 369,
+            "width": 40,
+            "height": 102
+          },
+          "region_attributes": {
+            "artifact": "fire_extinguisher"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/extinguisher/logimage_left_im_004945.jpg-1": {
+      "filename": "../virtual/extinguisher/logimage_left_im_004945.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 129,
+            "y": 358,
+            "width": 18,
+            "height": 54
+          },
+          "region_attributes": {
+            "artifact": "fire_extinguisher"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/extinguisher/logimage_left_im_004947.jpg-1": {
+      "filename": "../virtual/extinguisher/logimage_left_im_004947.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 96,
+            "y": 364,
+            "width": 21,
+            "height": 51
+          },
+          "region_attributes": {
+            "artifact": "fire_extinguisher"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/extinguisher/logimage_left_im_004948.jpg-1": {
+      "filename": "../virtual/extinguisher/logimage_left_im_004948.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 41,
+            "y": 385,
+            "width": 23,
+            "height": 53
+          },
+          "region_attributes": {
+            "artifact": "fire_extinguisher"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/extinguisher/logimage_right_im_002040.jpg-1": {
+      "filename": "../virtual/extinguisher/logimage_right_im_002040.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 39,
+            "y": 367,
+            "width": 16,
+            "height": 35
+          },
+          "region_attributes": {
+            "artifact": "fire_extinguisher"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/extinguisher/logimage_right_im_002058.jpg-1": {
+      "filename": "../virtual/extinguisher/logimage_right_im_002058.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 28,
+            "y": 345,
+            "width": 14,
+            "height": 44
+          },
+          "region_attributes": {
+            "artifact": "fire_extinguisher"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/logimage_im_001101.jpg-1": {
+      "filename": "../virtual/phone/logimage_im_001101.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 153,
+            "y": 289,
+            "width": 21,
+            "height": 12
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/logimage_right_im_000279.jpg-1": {
+      "filename": "../virtual/survivor/logimage_right_im_000279.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 28,
+            "y": 303,
+            "width": 45,
+            "height": 63
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/logimage_right_im_000281.jpg-1": {
+      "filename": "../virtual/survivor/logimage_right_im_000281.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 116,
+            "y": 303,
+            "width": 44,
+            "height": 57
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 73,
+            "y": 194,
+            "width": 28,
+            "height": 51
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1,
+            "y": 187,
+            "width": 33,
+            "height": 176
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/logimage_right_im_000283.jpg-1": {
+      "filename": "../virtual/survivor/logimage_right_im_000283.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 225,
+            "y": 306,
+            "width": 46,
+            "height": 61
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 173,
+            "y": 196,
+            "width": 32,
+            "height": 61
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 3,
+            "y": 220,
+            "width": 129,
+            "height": 147
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/logimage_right_im_000285.jpg-1": {
+      "filename": "../virtual/survivor/logimage_right_im_000285.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 61,
+            "y": 213,
+            "width": 141,
+            "height": 162
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 257,
+            "y": 214,
+            "width": 58,
+            "height": 54
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 303,
+            "y": 325,
+            "width": 52,
+            "height": 73
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/backpack/fpr3-freyja-lr-004.jpg-1": {
+      "filename": "../virtual/backpack/fpr3-freyja-lr-004.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 518,
+            "y": 176,
+            "width": 34,
+            "height": 24
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/cube/fpr3-drone-018.jpg-1": {
+      "filename": "../virtual/cube/fpr3-drone-018.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 585,
+            "y": 193,
+            "width": 32,
+            "height": 28
+          },
+          "region_attributes": {
+            "artifact": "cube"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/cube/fpr3-drone-019.jpg-1": {
+      "filename": "../virtual/cube/fpr3-drone-019.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 500,
+            "y": 186,
+            "width": 27,
+            "height": 25
+          },
+          "region_attributes": {
+            "artifact": "cube"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/cube/fpr3-drone-020.jpg-1": {
+      "filename": "../virtual/cube/fpr3-drone-020.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 443,
+            "y": 215,
+            "width": 22,
+            "height": 25
+          },
+          "region_attributes": {
+            "artifact": "cube"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/cube/fpr3-drone-021.jpg-1": {
+      "filename": "../virtual/cube/fpr3-drone-021.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 405,
+            "y": 218,
+            "width": 21,
+            "height": 25
+          },
+          "region_attributes": {
+            "artifact": "cube"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/cube/fpr3-drone-022.jpg-1": {
+      "filename": "../virtual/cube/fpr3-drone-022.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 428,
+            "y": 236,
+            "width": 25,
+            "height": 24
+          },
+          "region_attributes": {
+            "artifact": "cube"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/cube/fpr3-drone-r-0020.jpg-1": {
+      "filename": "../virtual/cube/fpr3-drone-r-0020.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 177,
+            "y": 423,
+            "width": 23,
+            "height": 28
+          },
+          "region_attributes": {
+            "artifact": "cube"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/cube/fpr3-drone-r-0021.jpg-1": {
+      "filename": "../virtual/cube/fpr3-drone-r-0021.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 26,
+            "y": 425,
+            "width": 29,
+            "height": 26
+          },
+          "region_attributes": {
+            "artifact": "cube"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/cube/fpr3-drone-r-0022.jpg-1": {
+      "filename": "../virtual/cube/fpr3-drone-r-0022.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 179,
+            "y": 424,
+            "width": 25,
+            "height": 27
+          },
+          "region_attributes": {
+            "artifact": "cube"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/drill/fpr3-drone-010.jpg-1": {
+      "filename": "../virtual/drill/fpr3-drone-010.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 101,
+            "y": 219,
+            "width": 19,
+            "height": 35
+          },
+          "region_attributes": {
+            "artifact": "fire_extinguisher"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/drill/fpr3-drone-011.jpg-1": {
+      "filename": "../virtual/drill/fpr3-drone-011.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 295,
+            "y": 209,
+            "width": 14,
+            "height": 32
+          },
+          "region_attributes": {
+            "artifact": "fire_extinguisher"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/drill/fpr3-drone-012.jpg-1": {
+      "filename": "../virtual/drill/fpr3-drone-012.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 378,
+            "y": 215,
+            "width": 15,
+            "height": 33
+          },
+          "region_attributes": {
+            "artifact": "fire_extinguisher"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/drill/fpr3-drone-013.jpg-1": {
+      "filename": "../virtual/drill/fpr3-drone-013.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 471,
+            "y": 219,
+            "width": 18,
+            "height": 40
+          },
+          "region_attributes": {
+            "artifact": "fire_extinguisher"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/drill/fpr3-drone-014.jpg-1": {
+      "filename": "../virtual/drill/fpr3-drone-014.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 358,
+            "y": 255,
+            "width": 12,
+            "height": 21
+          },
+          "region_attributes": {
+            "artifact": "drill"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/drill/fpr3-drone-015.jpg-1": {
+      "filename": "../virtual/drill/fpr3-drone-015.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 389,
+            "y": 234,
+            "width": 13,
+            "height": 23
+          },
+          "region_attributes": {
+            "artifact": "drill"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/drill/fpr3-drone-016.jpg-1": {
+      "filename": "../virtual/drill/fpr3-drone-016.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 389,
+            "y": 269,
+            "width": 19,
+            "height": 32
+          },
+          "region_attributes": {
+            "artifact": "drill"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/drill/fpr3-drone-017.jpg-1": {
+      "filename": "../virtual/drill/fpr3-drone-017.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 351,
+            "y": 339,
+            "width": 21,
+            "height": 20
+          },
+          "region_attributes": {
+            "artifact": "drill"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/drill/fpr3-drone-024.jpg-1": {
+      "filename": "../virtual/drill/fpr3-drone-024.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 435,
+            "y": 211,
+            "width": 16,
+            "height": 17
+          },
+          "region_attributes": {
+            "artifact": "drill"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/drill/fpr3-drone-025.jpg-1": {
+      "filename": "../virtual/drill/fpr3-drone-025.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 486,
+            "y": 249,
+            "width": 26,
+            "height": 36
+          },
+          "region_attributes": {
+            "artifact": "drill"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/drill/fpr3-drone-026.jpg-1": {
+      "filename": "../virtual/drill/fpr3-drone-026.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 511,
+            "y": 263,
+            "width": 31,
+            "height": 41
+          },
+          "region_attributes": {
+            "artifact": "drill"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/drill/fpr3-drone-027.jpg-1": {
+      "filename": "../virtual/drill/fpr3-drone-027.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 161,
+            "y": 267,
+            "width": 21,
+            "height": 27
+          },
+          "region_attributes": {
+            "artifact": "drill"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/drill/fpr3-drone-r-0024.jpg-1": {
+      "filename": "../virtual/drill/fpr3-drone-r-0024.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 78,
+            "y": 510,
+            "width": 28,
+            "height": 77
+          },
+          "region_attributes": {
+            "artifact": "drill"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/drill/fpr3-drone-r-0025.jpg-1": {
+      "filename": "../virtual/drill/fpr3-drone-r-0025.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 151,
+            "y": 500,
+            "width": 22,
+            "height": 79
+          },
+          "region_attributes": {
+            "artifact": "drill"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/drill/fpr3-drone-r-0026.jpg-1": {
+      "filename": "../virtual/drill/fpr3-drone-r-0026.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 232,
+            "y": 470,
+            "width": 25,
+            "height": 69
+          },
+          "region_attributes": {
+            "artifact": "drill"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/drill/fpr3-drone-r-0027.jpg-1": {
+      "filename": "../virtual/drill/fpr3-drone-r-0027.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 244,
+            "y": 458,
+            "width": 28,
+            "height": 62
+          },
+          "region_attributes": {
+            "artifact": "drill"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/drill/fpr3-drone-r-0028.jpg-1": {
+      "filename": "../virtual/drill/fpr3-drone-r-0028.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 244,
+            "y": 434,
+            "width": 25,
+            "height": 49
+          },
+          "region_attributes": {
+            "artifact": "drill"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/drill/fpr3-drone-r-0029.jpg-1": {
+      "filename": "../virtual/drill/fpr3-drone-r-0029.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 190,
+            "y": 423,
+            "width": 25,
+            "height": 41
+          },
+          "region_attributes": {
+            "artifact": "drill"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/drill/fpr3-drone-r-0030.jpg-1": {
+      "filename": "../virtual/drill/fpr3-drone-r-0030.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 138,
+            "y": 413,
+            "width": 23,
+            "height": 34
+          },
+          "region_attributes": {
+            "artifact": "drill"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/drill/fpr3-drone-r-0031.jpg-1": {
+      "filename": "../virtual/drill/fpr3-drone-r-0031.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 154,
+            "y": 420,
+            "width": 20,
+            "height": 30
+          },
+          "region_attributes": {
+            "artifact": "drill"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/drill/fpr3-drone-r-0032.jpg-1": {
+      "filename": "../virtual/drill/fpr3-drone-r-0032.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 65,
+            "y": 445,
+            "width": 22,
+            "height": 33
+          },
+          "region_attributes": {
+            "artifact": "drill"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/drill/fpr3-drone-r-0033.jpg-1": {
+      "filename": "../virtual/drill/fpr3-drone-r-0033.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 15,
+            "y": 459,
+            "width": 22,
+            "height": 36
+          },
+          "region_attributes": {
+            "artifact": "drill"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/drill/fpr3-droneA-0015.jpg-1": {
+      "filename": "../virtual/drill/fpr3-droneA-0015.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 291,
+            "y": 258,
+            "width": 12,
+            "height": 17
+          },
+          "region_attributes": {
+            "artifact": "drill"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/drill/fpr3-droneA-0016.jpg-1": {
+      "filename": "../virtual/drill/fpr3-droneA-0016.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 238,
+            "y": 253,
+            "width": 12,
+            "height": 17
+          },
+          "region_attributes": {
+            "artifact": "drill"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/drill/fpr3-droneA-0017.jpg-1": {
+      "filename": "../virtual/drill/fpr3-droneA-0017.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 58,
+            "y": 327,
+            "width": 24,
+            "height": 29
+          },
+          "region_attributes": {
+            "artifact": "drill"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/errors/fpr3-drone-000.jpg-1": {
+      "filename": "../virtual/errors/fpr3-drone-000.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 449,
+            "y": 61,
+            "width": 13,
+            "height": 34
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 353,
+            "y": 117,
+            "width": 10,
+            "height": 15
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 401,
+            "y": 93,
+            "width": 13,
+            "height": 21
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 532,
+            "y": 1,
+            "width": 25,
+            "height": 32
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 217,
+            "y": 77,
+            "width": 16,
+            "height": 21
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/errors/fpr3-drone-003.jpg-1": {
+      "filename": "../virtual/errors/fpr3-drone-003.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 531,
+            "y": 107,
+            "width": 15,
+            "height": 18
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 374,
+            "y": 88,
+            "width": 7,
+            "height": 10
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/errors/fpr3-drone-009.jpg-1": {
+      "filename": "../virtual/errors/fpr3-drone-009.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 5,
+            "y": 225,
+            "width": 39,
+            "height": 23
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/errors/fpr3-drone-028.jpg-1": {
+      "filename": "../virtual/errors/fpr3-drone-028.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 171,
+            "y": 105,
+            "width": 12,
+            "height": 27
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/errors/fpr3-drone-029.jpg-1": {
+      "filename": "../virtual/errors/fpr3-drone-029.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 182,
+            "y": 55,
+            "width": 27,
+            "height": 54
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/errors/fpr3-drone-041.jpg-1": {
+      "filename": "../virtual/errors/fpr3-drone-041.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 181,
+            "y": 135,
+            "width": 21,
+            "height": 29
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/errors/fpr3-drone-r-0000.jpg-1": {
+      "filename": "../virtual/errors/fpr3-drone-r-0000.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 95,
+            "y": 56,
+            "width": 9,
+            "height": 61
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 295,
+            "y": 86,
+            "width": 16,
+            "height": 53
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/errors/fpr3-drone-r-0001.jpg-1": {
+      "filename": "../virtual/errors/fpr3-drone-r-0001.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 247,
+            "y": 26,
+            "width": 17,
+            "height": 72
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/errors/fpr3-drone-r-0009.jpg-1": {
+      "filename": "../virtual/errors/fpr3-drone-r-0009.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 228,
+            "y": 56,
+            "width": 8,
+            "height": 41
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/errors/fpr3-drone-r-0010.jpg-1": {
+      "filename": "../virtual/errors/fpr3-drone-r-0010.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 179,
+            "y": 77,
+            "width": 9,
+            "height": 40
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 321,
+            "y": 127,
+            "width": 15,
+            "height": 38
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/errors/fpr3-drone-r-0011.jpg-1": {
+      "filename": "../virtual/errors/fpr3-drone-r-0011.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 33,
+            "y": 38,
+            "width": 10,
+            "height": 46
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 213,
+            "y": 79,
+            "width": 9,
+            "height": 41
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/errors/fpr3-drone-r-0012.jpg-1": {
+      "filename": "../virtual/errors/fpr3-drone-r-0012.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 152,
+            "y": 13,
+            "width": 9,
+            "height": 49
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/errors/fpr3-drone-r-0013.jpg-1": {
+      "filename": "../virtual/errors/fpr3-drone-r-0013.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 61,
+            "y": 2,
+            "width": 9,
+            "height": 36
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 315,
+            "y": 22,
+            "width": 21,
+            "height": 67
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/errors/fpr3-drone-r-0014.jpg-1": {
+      "filename": "../virtual/errors/fpr3-drone-r-0014.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 272,
+            "y": 3,
+            "width": 21,
+            "height": 58
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/errors/fpr3-drone-r-0023.jpg-1": {
+      "filename": "../virtual/errors/fpr3-drone-r-0023.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/errors/fpr3-drone-r-0034.jpg-1": {
+      "filename": "../virtual/errors/fpr3-drone-r-0034.jpg",
+      "size": -1,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "../virtual/errors/fpr3-drone-r-0036.jpg-1": {
+      "filename": "../virtual/errors/fpr3-drone-r-0036.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 128,
+            "y": 23,
+            "width": 20,
+            "height": 25
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 201,
+            "y": 344,
+            "width": 46,
+            "height": 44
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 265,
+            "y": 270,
+            "width": 52,
+            "height": 54
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/errors/fpr3A-drone-000.jpg-1": {
+      "filename": "../virtual/errors/fpr3A-drone-000.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 548,
+            "y": 27,
+            "width": 50,
+            "height": 73
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/errors/fpr3A-drone-001.jpg-1": {
+      "filename": "../virtual/errors/fpr3A-drone-001.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 470,
+            "y": 171,
+            "width": 59,
+            "height": 57
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 307,
+            "y": 87,
+            "width": 11,
+            "height": 11
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/errors/fpr3A-drone-002.jpg-1": {
+      "filename": "../virtual/errors/fpr3A-drone-002.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 4,
+            "y": 260,
+            "width": 33,
+            "height": 52
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/errors/fpr3A-drone-003.jpg-1": {
+      "filename": "../virtual/errors/fpr3A-drone-003.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 393,
+            "y": 25,
+            "width": 12,
+            "height": 21
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 454,
+            "y": 171,
+            "width": 10,
+            "height": 15
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/errors/fpr3A-drone-004.jpg-1": {
+      "filename": "../virtual/errors/fpr3A-drone-004.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 521,
+            "y": 151,
+            "width": 10,
+            "height": 15
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/errors/fpr3A-drone-005.jpg-1": {
+      "filename": "../virtual/errors/fpr3A-drone-005.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 593,
+            "y": 130,
+            "width": 11,
+            "height": 20
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/errors/fpr3A-drone-006.jpg-1": {
+      "filename": "../virtual/errors/fpr3A-drone-006.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 629,
+            "y": 129,
+            "width": 10,
+            "height": 19
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/errors/fpr3A-drone-007.jpg-1": {
+      "filename": "../virtual/errors/fpr3A-drone-007.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 487,
+            "y": 286,
+            "width": 47,
+            "height": 73
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/errors/fpr3A-drone-008.jpg-1": {
+      "filename": "../virtual/errors/fpr3A-drone-008.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 3,
+            "y": 323,
+            "width": 35,
+            "height": 35
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/errors/fpr3A-drone-009.jpg-1": {
+      "filename": "../virtual/errors/fpr3A-drone-009.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 41,
+            "y": 103,
+            "width": 19,
+            "height": 29
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/errors/fpr3A-drone-010.jpg-1": {
+      "filename": "../virtual/errors/fpr3A-drone-010.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 91,
+            "y": 103,
+            "width": 16,
+            "height": 30
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/errors/fpr3A-drone-011.jpg-1": {
+      "filename": "../virtual/errors/fpr3A-drone-011.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 230,
+            "y": 69,
+            "width": 11,
+            "height": 29
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/errors/fpr3A-drone-012.jpg-1": {
+      "filename": "../virtual/errors/fpr3A-drone-012.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 379,
+            "y": 66,
+            "width": 17,
+            "height": 47
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 254,
+            "y": 185,
+            "width": 27,
+            "height": 43
+          },
+          "region_attributes": {
+            "artifact": "backpack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/extinguisher/fpr3-drone-005.jpg-1": {
+      "filename": "../virtual/extinguisher/fpr3-drone-005.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 238,
+            "y": 178,
+            "width": 8,
+            "height": 28
+          },
+          "region_attributes": {
+            "artifact": "fire_extinguisher"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/extinguisher/fpr3-drone-006.jpg-1": {
+      "filename": "../virtual/extinguisher/fpr3-drone-006.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 205,
+            "y": 199,
+            "width": 13,
+            "height": 33
+          },
+          "region_attributes": {
+            "artifact": "fire_extinguisher"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/extinguisher/fpr3-drone-007.jpg-1": {
+      "filename": "../virtual/extinguisher/fpr3-drone-007.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 154,
+            "y": 235,
+            "width": 16,
+            "height": 39
+          },
+          "region_attributes": {
+            "artifact": "fire_extinguisher"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/extinguisher/fpr3-drone-008.jpg-1": {
+      "filename": "../virtual/extinguisher/fpr3-drone-008.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 31,
+            "y": 293,
+            "width": 24,
+            "height": 57
+          },
+          "region_attributes": {
+            "artifact": "fire_extinguisher"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/extinguisher/fpr3-drone-030.jpg-1": {
+      "filename": "../virtual/extinguisher/fpr3-drone-030.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 583,
+            "y": 185,
+            "width": 8,
+            "height": 23
+          },
+          "region_attributes": {
+            "artifact": "fire_extinguisher"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/extinguisher/fpr3-drone-031.jpg-1": {
+      "filename": "../virtual/extinguisher/fpr3-drone-031.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 497,
+            "y": 209,
+            "width": 9,
+            "height": 21
+          },
+          "region_attributes": {
+            "artifact": "fire_extinguisher"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/extinguisher/fpr3-drone-032.jpg-1": {
+      "filename": "../virtual/extinguisher/fpr3-drone-032.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 321,
+            "y": 185,
+            "width": 7,
+            "height": 19
+          },
+          "region_attributes": {
+            "artifact": "fire_extinguisher"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/extinguisher/fpr3-drone-033.jpg-1": {
+      "filename": "../virtual/extinguisher/fpr3-drone-033.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 323,
+            "y": 194,
+            "width": 9,
+            "height": 25
+          },
+          "region_attributes": {
+            "artifact": "fire_extinguisher"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/extinguisher/fpr3-drone-034.jpg-1": {
+      "filename": "../virtual/extinguisher/fpr3-drone-034.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 272,
+            "y": 158,
+            "width": 9,
+            "height": 27
+          },
+          "region_attributes": {
+            "artifact": "fire_extinguisher"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/extinguisher/fpr3-drone-035.jpg-1": {
+      "filename": "../virtual/extinguisher/fpr3-drone-035.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 307,
+            "y": 207,
+            "width": 15,
+            "height": 41
+          },
+          "region_attributes": {
+            "artifact": "fire_extinguisher"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/extinguisher/fpr3-drone-036.jpg-1": {
+      "filename": "../virtual/extinguisher/fpr3-drone-036.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 334,
+            "y": 210,
+            "width": 15,
+            "height": 47
+          },
+          "region_attributes": {
+            "artifact": "fire_extinguisher"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/extinguisher/fpr3-drone-037.jpg-1": {
+      "filename": "../virtual/extinguisher/fpr3-drone-037.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 312,
+            "y": 205,
+            "width": 17,
+            "height": 53
+          },
+          "region_attributes": {
+            "artifact": "fire_extinguisher"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/extinguisher/fpr3-drone-038.jpg-1": {
+      "filename": "../virtual/extinguisher/fpr3-drone-038.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 294,
+            "y": 221,
+            "width": 17,
+            "height": 59
+          },
+          "region_attributes": {
+            "artifact": "fire_extinguisher"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/extinguisher/fpr3-drone-039.jpg-1": {
+      "filename": "../virtual/extinguisher/fpr3-drone-039.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 261,
+            "y": 223,
+            "width": 17,
+            "height": 69
+          },
+          "region_attributes": {
+            "artifact": "fire_extinguisher"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/extinguisher/fpr3-drone-040.jpg-1": {
+      "filename": "../virtual/extinguisher/fpr3-drone-040.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 85,
+            "y": 220,
+            "width": 29,
+            "height": 85
+          },
+          "region_attributes": {
+            "artifact": "fire_extinguisher"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/extinguisher/fpr3-drone-042.jpg-1": {
+      "filename": "../virtual/extinguisher/fpr3-drone-042.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 245,
+            "y": 154,
+            "width": 15,
+            "height": 49
+          },
+          "region_attributes": {
+            "artifact": "fire_extinguisher"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/extinguisher/fpr3-drone-043.jpg-1": {
+      "filename": "../virtual/extinguisher/fpr3-drone-043.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 206,
+            "y": 148,
+            "width": 17,
+            "height": 51
+          },
+          "region_attributes": {
+            "artifact": "fire_extinguisher"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/extinguisher/fpr3-drone-044.jpg-1": {
+      "filename": "../virtual/extinguisher/fpr3-drone-044.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 109,
+            "y": 132,
+            "width": 22,
+            "height": 58
+          },
+          "region_attributes": {
+            "artifact": "fire_extinguisher"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/extinguisher/fpr3-drone-045.jpg-1": {
+      "filename": "../virtual/extinguisher/fpr3-drone-045.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 313,
+            "y": 137,
+            "width": 13,
+            "height": 10
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/extinguisher/fpr3-drone-047.jpg-1": {
+      "filename": "../virtual/extinguisher/fpr3-drone-047.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 95,
+            "y": 260,
+            "width": 35,
+            "height": 94
+          },
+          "region_attributes": {
+            "artifact": "fire_extinguisher"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/extinguisher/fpr3-drone-048.jpg-1": {
+      "filename": "../virtual/extinguisher/fpr3-drone-048.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 306,
+            "y": 143,
+            "width": 20,
+            "height": 35
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/extinguisher/fpr3-drone-r-0015.jpg-1": {
+      "filename": "../virtual/extinguisher/fpr3-drone-r-0015.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 35,
+            "y": 357,
+            "width": 19,
+            "height": 47
+          },
+          "region_attributes": {
+            "artifact": "fire_extinguisher"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/extinguisher/fpr3-drone-r-0016.jpg-1": {
+      "filename": "../virtual/extinguisher/fpr3-drone-r-0016.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 112,
+            "y": 363,
+            "width": 17,
+            "height": 48
+          },
+          "region_attributes": {
+            "artifact": "fire_extinguisher"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/extinguisher/fpr3-drone-r-0017.jpg-1": {
+      "filename": "../virtual/extinguisher/fpr3-drone-r-0017.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 176,
+            "y": 357,
+            "width": 16,
+            "height": 47
+          },
+          "region_attributes": {
+            "artifact": "fire_extinguisher"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/extinguisher/fpr3-drone-r-0018.jpg-1": {
+      "filename": "../virtual/extinguisher/fpr3-drone-r-0018.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 271,
+            "y": 348,
+            "width": 17,
+            "height": 49
+          },
+          "region_attributes": {
+            "artifact": "fire_extinguisher"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/extinguisher/fpr3-drone-r-0019.jpg-1": {
+      "filename": "../virtual/extinguisher/fpr3-drone-r-0019.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 329,
+            "y": 342,
+            "width": 17,
+            "height": 51
+          },
+          "region_attributes": {
+            "artifact": "fire_extinguisher"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/extinguisher/fpr3-drone-r-0035.jpg-1": {
+      "filename": "../virtual/extinguisher/fpr3-drone-r-0035.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 32,
+            "y": 282,
+            "width": 11,
+            "height": 29
+          },
+          "region_attributes": {
+            "artifact": "fire_extinguisher"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/extinguisher/fpr3-drone-r-0037.jpg-1": {
+      "filename": "../virtual/extinguisher/fpr3-drone-r-0037.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 259,
+            "y": 271,
+            "width": 10,
+            "height": 26
+          },
+          "region_attributes": {
+            "artifact": "fire_extinguisher"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/extinguisher/fpr3-drone-r-0038.jpg-1": {
+      "filename": "../virtual/extinguisher/fpr3-drone-r-0038.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 153,
+            "y": 289,
+            "width": 10,
+            "height": 25
+          },
+          "region_attributes": {
+            "artifact": "fire_extinguisher"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/extinguisher/fpr3-freyja-lr-005.jpg-1": {
+      "filename": "../virtual/extinguisher/fpr3-freyja-lr-005.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 130,
+            "y": 116,
+            "width": 27,
+            "height": 44
+          },
+          "region_attributes": {
+            "artifact": "fire_extinguisher"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/extinguisher/fpr3-freyja-lr-006.jpg-1": {
+      "filename": "../virtual/extinguisher/fpr3-freyja-lr-006.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 277,
+            "y": 148,
+            "width": 14,
+            "height": 29
+          },
+          "region_attributes": {
+            "artifact": "fire_extinguisher"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/extinguisher/fpr3A-drone-013.jpg-1": {
+      "filename": "../virtual/extinguisher/fpr3A-drone-013.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 618,
+            "y": 135,
+            "width": 17,
+            "height": 48
+          },
+          "region_attributes": {
+            "artifact": "fire_extinguisher"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/extinguisher/fpr3A-drone-014.jpg-1": {
+      "filename": "../virtual/extinguisher/fpr3A-drone-014.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 223,
+            "y": 207,
+            "width": 15,
+            "height": 38
+          },
+          "region_attributes": {
+            "artifact": "fire_extinguisher"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/extinguisher/fpr3A-drone-015.jpg-1": {
+      "filename": "../virtual/extinguisher/fpr3A-drone-015.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 66,
+            "y": 240,
+            "width": 21,
+            "height": 58
+          },
+          "region_attributes": {
+            "artifact": "fire_extinguisher"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/extinguisher/fpr3A-drone-016.jpg-1": {
+      "filename": "../virtual/extinguisher/fpr3A-drone-016.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 523,
+            "y": 133,
+            "width": 43,
+            "height": 93
+          },
+          "region_attributes": {
+            "artifact": "fire_extinguisher"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/fpr3-drone-004.jpg-1": {
+      "filename": "../virtual/phone/fpr3-drone-004.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 338,
+            "y": 282,
+            "width": 16,
+            "height": 8
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/fpr3-phne-0003.jpg-1": {
+      "filename": "../virtual/phone/fpr3-phne-0003.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 162,
+            "y": 275,
+            "width": 20,
+            "height": 7
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/fpr3-phne-0004.jpg-1": {
+      "filename": "../virtual/phone/fpr3-phne-0004.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 153,
+            "y": 289,
+            "width": 21,
+            "height": 13
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/phone/fpr3-phne-0005.jpg-1": {
+      "filename": "../virtual/phone/fpr3-phne-0005.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 116,
+            "y": 311,
+            "width": 28,
+            "height": 17
+          },
+          "region_attributes": {
+            "artifact": "phone"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/fpr3-drone-001.jpg-1": {
+      "filename": "../virtual/survivor/fpr3-drone-001.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 513,
+            "y": 171,
+            "width": 45,
+            "height": 56
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/fpr3-drone-002.jpg-1": {
+      "filename": "../virtual/survivor/fpr3-drone-002.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 515,
+            "y": 175,
+            "width": 44,
+            "height": 65
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/fpr3-drone-023.jpg-1": {
+      "filename": "../virtual/survivor/fpr3-drone-023.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 112,
+            "y": 207,
+            "width": 57,
+            "height": 57
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/fpr3-drone-r-0002.jpg-1": {
+      "filename": "../virtual/survivor/fpr3-drone-r-0002.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 139,
+            "y": 0,
+            "width": 9,
+            "height": 50
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/fpr3-drone-r-0003.jpg-1": {
+      "filename": "../virtual/survivor/fpr3-drone-r-0003.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 5,
+            "y": 340,
+            "width": 49,
+            "height": 63
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/fpr3-drone-r-0004.jpg-1": {
+      "filename": "../virtual/survivor/fpr3-drone-r-0004.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 148,
+            "y": 352,
+            "width": 51,
+            "height": 63
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/fpr3-drone-r-0005.jpg-1": {
+      "filename": "../virtual/survivor/fpr3-drone-r-0005.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 197,
+            "y": 356,
+            "width": 54,
+            "height": 67
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 140,
+            "y": 218,
+            "width": 54,
+            "height": 65
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1,
+            "y": 214,
+            "width": 73,
+            "height": 197
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/fpr3-drone-r-0006.jpg-1": {
+      "filename": "../virtual/survivor/fpr3-drone-r-0006.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 249,
+            "y": 356,
+            "width": 59,
+            "height": 82
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 191,
+            "y": 210,
+            "width": 60,
+            "height": 76
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 2,
+            "y": 219,
+            "width": 117,
+            "height": 182
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/fpr3-drone-r-0007.jpg-1": {
+      "filename": "../virtual/survivor/fpr3-drone-r-0007.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1,
+            "y": 229,
+            "width": 169,
+            "height": 173
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 241,
+            "y": 214,
+            "width": 71,
+            "height": 70
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 301,
+            "y": 365,
+            "width": 58,
+            "height": 68
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/fpr3-drone-r-0008.jpg-1": {
+      "filename": "../virtual/survivor/fpr3-drone-r-0008.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 291,
+            "y": 317,
+            "width": 26,
+            "height": 34
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 165,
+            "y": 228,
+            "width": 65,
+            "height": 112
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 276,
+            "y": 260,
+            "width": 41,
+            "height": 22
+          },
+          "region_attributes": {
+            "artifact": "nothing"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/fpr3-freyja-lr-000.jpg-1": {
+      "filename": "../virtual/survivor/fpr3-freyja-lr-000.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 579,
+            "y": 145,
+            "width": 59,
+            "height": 39
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/fpr3-freyja-lr-001.jpg-1": {
+      "filename": "../virtual/survivor/fpr3-freyja-lr-001.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 591,
+            "y": 136,
+            "width": 47,
+            "height": 45
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/fpr3-freyja-lr-002.jpg-1": {
+      "filename": "../virtual/survivor/fpr3-freyja-lr-002.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 89,
+            "y": 97,
+            "width": 90,
+            "height": 67
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "../virtual/survivor/fpr3-freyja-lr-003.jpg-1": {
+      "filename": "../virtual/survivor/fpr3-freyja-lr-003.jpg",
+      "size": -1,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 465,
+            "y": 97,
+            "width": 120,
+            "height": 61
+          },
+          "region_attributes": {
+            "artifact": "survivor"
+          }
+        }
+      ],
+      "file_attributes": {}
     }
   },
   "_via_attributes": {
