@@ -2,210 +2,67 @@
   "../system/backpack/backpack_black_000.jpg-1": {
     "filename": "../system/backpack/backpack_black_000.jpg",
     "size": -1,
-    "regions": [
-      {
-        "shape_attributes": {
-          "name": "rect",
-          "x": 182,
-          "y": 429,
-          "width": 38,
-          "height": 53
-        },
-        "region_attributes": {
-          "artifact": "backpack"
-        }
-      }
-    ],
+    "regions": [],
     "file_attributes": {}
   },
   "../system/backpack/backpack_black_001.jpg-1": {
     "filename": "../system/backpack/backpack_black_001.jpg",
     "size": -1,
-    "regions": [
-      {
-        "shape_attributes": {
-          "name": "rect",
-          "x": 144,
-          "y": 429,
-          "width": 42,
-          "height": 60
-        },
-        "region_attributes": {
-          "artifact": "backpack"
-        }
-      }
-    ],
+    "regions": [],
     "file_attributes": {}
   },
   "../system/backpack/backpack_black_002.jpg-1": {
     "filename": "../system/backpack/backpack_black_002.jpg",
     "size": -1,
-    "regions": [
-      {
-        "shape_attributes": {
-          "name": "rect",
-          "x": 105,
-          "y": 423,
-          "width": 39,
-          "height": 68
-        },
-        "region_attributes": {
-          "artifact": "backpack"
-        }
-      }
-    ],
+    "regions": [],
     "file_attributes": {}
   },
   "../system/backpack/backpack_black_003.jpg-1": {
     "filename": "../system/backpack/backpack_black_003.jpg",
     "size": -1,
-    "regions": [
-      {
-        "shape_attributes": {
-          "name": "rect",
-          "x": 47,
-          "y": 412,
-          "width": 40,
-          "height": 74
-        },
-        "region_attributes": {
-          "artifact": "backpack"
-        }
-      }
-    ],
+    "regions": [],
     "file_attributes": {}
   },
   "../system/backpack/backpack_black_004.jpg-1": {
     "filename": "../system/backpack/backpack_black_004.jpg",
     "size": -1,
-    "regions": [
-      {
-        "shape_attributes": {
-          "name": "rect",
-          "x": 37,
-          "y": 414,
-          "width": 38,
-          "height": 74
-        },
-        "region_attributes": {
-          "artifact": "backpack"
-        }
-      }
-    ],
+    "regions": [],
     "file_attributes": {}
   },
   "../system/backpack/backpack_black_005.jpg-1": {
     "filename": "../system/backpack/backpack_black_005.jpg",
     "size": -1,
-    "regions": [
-      {
-        "shape_attributes": {
-          "name": "rect",
-          "x": 195,
-          "y": 422,
-          "width": 38,
-          "height": 57
-        },
-        "region_attributes": {
-          "artifact": "backpack"
-        }
-      }
-    ],
+    "regions": [],
     "file_attributes": {}
   },
   "../system/backpack/backpack_black_006.jpg-1": {
     "filename": "../system/backpack/backpack_black_006.jpg",
     "size": -1,
-    "regions": [
-      {
-        "shape_attributes": {
-          "name": "rect",
-          "x": 187,
-          "y": 420,
-          "width": 39,
-          "height": 58
-        },
-        "region_attributes": {
-          "artifact": "backpack"
-        }
-      }
-    ],
+    "regions": [],
     "file_attributes": {}
   },
   "../system/backpack/backpack_black_007.jpg-1": {
     "filename": "../system/backpack/backpack_black_007.jpg",
     "size": -1,
-    "regions": [
-      {
-        "shape_attributes": {
-          "name": "rect",
-          "x": 182,
-          "y": 424,
-          "width": 37,
-          "height": 55
-        },
-        "region_attributes": {
-          "artifact": "backpack"
-        }
-      }
-    ],
+    "regions": [],
     "file_attributes": {}
   },
   "../system/backpack/backpack_black_008.jpg-1": {
     "filename": "../system/backpack/backpack_black_008.jpg",
     "size": -1,
-    "regions": [
-      {
-        "shape_attributes": {
-          "name": "rect",
-          "x": 368,
-          "y": 425,
-          "width": 46,
-          "height": 63
-        },
-        "region_attributes": {
-          "artifact": "backpack"
-        }
-      }
-    ],
+    "regions": [],
     "file_attributes": {}
   },
   "../system/backpack/backpack_black_009.jpg-1": {
     "filename": "../system/backpack/backpack_black_009.jpg",
     "size": -1,
-    "regions": [
-      {
-        "shape_attributes": {
-          "name": "rect",
-          "x": 301,
-          "y": 422,
-          "width": 64,
-          "height": 88
-        },
-        "region_attributes": {
-          "artifact": "backpack"
-        }
-      }
-    ],
+    "regions": [],
     "file_attributes": {}
   },
   "../system/backpack/backpack_black_010.jpg-1": {
     "filename": "../system/backpack/backpack_black_010.jpg",
     "size": -1,
-    "regions": [
-      {
-        "shape_attributes": {
-          "name": "rect",
-          "x": 107,
-          "y": 418,
-          "width": 90,
-          "height": 142
-        },
-        "region_attributes": {
-          "artifact": "backpack"
-        }
-      }
-    ],
+    "regions": [],
     "file_attributes": {}
   },
   "../system/drill/drill_k2w_000.jpg-1": {
@@ -1801,18 +1658,6 @@
         "region_attributes": {
           "artifact": "rope"
         }
-      },
-      {
-        "shape_attributes": {
-          "name": "rect",
-          "x": 450,
-          "y": 434,
-          "width": 18,
-          "height": 20
-        },
-        "region_attributes": {
-          "artifact": "backpack"
-        }
       }
     ],
     "file_attributes": {}
@@ -1821,18 +1666,6 @@
     "filename": "../system/rope/rope_k2w_001.jpg",
     "size": -1,
     "regions": [
-      {
-        "shape_attributes": {
-          "name": "rect",
-          "x": 433,
-          "y": 431,
-          "width": 18,
-          "height": 24
-        },
-        "region_attributes": {
-          "artifact": "backpack"
-        }
-      },
       {
         "shape_attributes": {
           "name": "rect",
@@ -1855,18 +1688,6 @@
       {
         "shape_attributes": {
           "name": "rect",
-          "x": 385,
-          "y": 431,
-          "width": 18,
-          "height": 24
-        },
-        "region_attributes": {
-          "artifact": "backpack"
-        }
-      },
-      {
-        "shape_attributes": {
-          "name": "rect",
           "x": 619,
           "y": 455,
           "width": 43,
@@ -1883,18 +1704,6 @@
     "filename": "../system/rope/rope_k2w_003.jpg",
     "size": -1,
     "regions": [
-      {
-        "shape_attributes": {
-          "name": "rect",
-          "x": 370,
-          "y": 429,
-          "width": 20,
-          "height": 30
-        },
-        "region_attributes": {
-          "artifact": "backpack"
-        }
-      },
       {
         "shape_attributes": {
           "name": "rect",
@@ -1917,18 +1726,6 @@
       {
         "shape_attributes": {
           "name": "rect",
-          "x": 303,
-          "y": 428,
-          "width": 20,
-          "height": 33
-        },
-        "region_attributes": {
-          "artifact": "backpack"
-        }
-      },
-      {
-        "shape_attributes": {
-          "name": "rect",
           "x": 610,
           "y": 468,
           "width": 55,
@@ -1945,18 +1742,6 @@
     "filename": "../system/rope/rope_k2w_005.jpg",
     "size": -1,
     "regions": [
-      {
-        "shape_attributes": {
-          "name": "rect",
-          "x": 258,
-          "y": 430,
-          "width": 21,
-          "height": 33
-        },
-        "region_attributes": {
-          "artifact": "backpack"
-        }
-      },
       {
         "shape_attributes": {
           "name": "rect",
@@ -1979,18 +1764,6 @@
       {
         "shape_attributes": {
           "name": "rect",
-          "x": 225,
-          "y": 423,
-          "width": 23,
-          "height": 38
-        },
-        "region_attributes": {
-          "artifact": "backpack"
-        }
-      },
-      {
-        "shape_attributes": {
-          "name": "rect",
           "x": 591,
           "y": 470,
           "width": 79,
@@ -2007,18 +1780,6 @@
     "filename": "../system/rope/rope_k2w_007.jpg",
     "size": -1,
     "regions": [
-      {
-        "shape_attributes": {
-          "name": "rect",
-          "x": 207,
-          "y": 425,
-          "width": 24,
-          "height": 41
-        },
-        "region_attributes": {
-          "artifact": "backpack"
-        }
-      },
       {
         "shape_attributes": {
           "name": "rect",
@@ -2041,18 +1802,6 @@
       {
         "shape_attributes": {
           "name": "rect",
-          "x": 203,
-          "y": 427,
-          "width": 27,
-          "height": 41
-        },
-        "region_attributes": {
-          "artifact": "backpack"
-        }
-      },
-      {
-        "shape_attributes": {
-          "name": "rect",
           "x": 632,
           "y": 483,
           "width": 105,
@@ -2069,18 +1818,6 @@
     "filename": "../system/rope/rope_k2w_009.jpg",
     "size": -1,
     "regions": [
-      {
-        "shape_attributes": {
-          "name": "rect",
-          "x": 227,
-          "y": 421,
-          "width": 29,
-          "height": 44
-        },
-        "region_attributes": {
-          "artifact": "backpack"
-        }
-      },
       {
         "shape_attributes": {
           "name": "rect",
@@ -2103,18 +1840,6 @@
       {
         "shape_attributes": {
           "name": "rect",
-          "x": 233,
-          "y": 425,
-          "width": 31,
-          "height": 44
-        },
-        "region_attributes": {
-          "artifact": "backpack"
-        }
-      },
-      {
-        "shape_attributes": {
-          "name": "rect",
           "x": 771,
           "y": 503,
           "width": 131,
@@ -2131,18 +1856,6 @@
     "filename": "../system/rope/rope_k2w_011.jpg",
     "size": -1,
     "regions": [
-      {
-        "shape_attributes": {
-          "name": "rect",
-          "x": 229,
-          "y": 427,
-          "width": 31,
-          "height": 47
-        },
-        "region_attributes": {
-          "artifact": "backpack"
-        }
-      },
       {
         "shape_attributes": {
           "name": "rect",
@@ -2173,18 +1886,6 @@
         "region_attributes": {
           "artifact": "rope"
         }
-      },
-      {
-        "shape_attributes": {
-          "name": "rect",
-          "x": 356,
-          "y": 433,
-          "width": 21,
-          "height": 28
-        },
-        "region_attributes": {
-          "artifact": "backpack"
-        }
       }
     ],
     "file_attributes": {}
@@ -2193,18 +1894,6 @@
     "filename": "../system/rope/rope_k2w_013.jpg",
     "size": -1,
     "regions": [
-      {
-        "shape_attributes": {
-          "name": "rect",
-          "x": 370,
-          "y": 429,
-          "width": 22,
-          "height": 32
-        },
-        "region_attributes": {
-          "artifact": "backpack"
-        }
-      },
       {
         "shape_attributes": {
           "name": "rect",
@@ -2227,18 +1916,6 @@
       {
         "shape_attributes": {
           "name": "rect",
-          "x": 337,
-          "y": 431,
-          "width": 22,
-          "height": 30
-        },
-        "region_attributes": {
-          "artifact": "backpack"
-        }
-      },
-      {
-        "shape_attributes": {
-          "name": "rect",
           "x": 527,
           "y": 468,
           "width": 57,
@@ -2258,18 +1935,6 @@
       {
         "shape_attributes": {
           "name": "rect",
-          "x": 339,
-          "y": 434,
-          "width": 20,
-          "height": 29
-        },
-        "region_attributes": {
-          "artifact": "backpack"
-        }
-      },
-      {
-        "shape_attributes": {
-          "name": "rect",
           "x": 528,
           "y": 467,
           "width": 58,
@@ -2286,18 +1951,6 @@
     "filename": "../system/rope/rope_k2w_016.jpg",
     "size": -1,
     "regions": [
-      {
-        "shape_attributes": {
-          "name": "rect",
-          "x": 273,
-          "y": 430,
-          "width": 16,
-          "height": 25
-        },
-        "region_attributes": {
-          "artifact": "backpack"
-        }
-      },
       {
         "shape_attributes": {
           "name": "rect",
@@ -2332,18 +1985,6 @@
       {
         "shape_attributes": {
           "name": "rect",
-          "x": 409,
-          "y": 449,
-          "width": 21,
-          "height": 26
-        },
-        "region_attributes": {
-          "artifact": "backpack"
-        }
-      },
-      {
-        "shape_attributes": {
-          "name": "rect",
           "x": 583,
           "y": 481,
           "width": 48,
@@ -2360,18 +2001,6 @@
     "filename": "../system/rope/rope_k2w_018.jpg",
     "size": -1,
     "regions": [
-      {
-        "shape_attributes": {
-          "name": "rect",
-          "x": 325,
-          "y": 426,
-          "width": 22,
-          "height": 33
-        },
-        "region_attributes": {
-          "artifact": "backpack"
-        }
-      },
       {
         "shape_attributes": {
           "name": "rect",
@@ -2394,18 +2023,6 @@
       {
         "shape_attributes": {
           "name": "rect",
-          "x": 485,
-          "y": 425,
-          "width": 25,
-          "height": 37
-        },
-        "region_attributes": {
-          "artifact": "backpack"
-        }
-      },
-      {
-        "shape_attributes": {
-          "name": "rect",
           "x": 737,
           "y": 471,
           "width": 79,
@@ -2422,18 +2039,6 @@
     "filename": "../system/rope/rope_k2w_020.jpg",
     "size": -1,
     "regions": [
-      {
-        "shape_attributes": {
-          "name": "rect",
-          "x": 477,
-          "y": 429,
-          "width": 33,
-          "height": 45
-        },
-        "region_attributes": {
-          "artifact": "backpack"
-        }
-      },
       {
         "shape_attributes": {
           "name": "rect",
@@ -3465,6 +3070,7267 @@
         },
         "region_attributes": {
           "artifact": "helmet"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/backpack/vypustek02-0000.jpg-1": {
+    "filename": "../system/backpack/vypustek02-0000.jpg",
+    "size": -1,
+    "regions": [],
+    "file_attributes": {}
+  },
+  "../system/backpack/vypustek08-0005.jpg-1": {
+    "filename": "../system/backpack/vypustek08-0005.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 605,
+          "y": 424,
+          "width": 17,
+          "height": 18
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/backpack/vypustek09-0000.jpg-1": {
+    "filename": "../system/backpack/vypustek09-0000.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 431,
+          "y": 434,
+          "width": 20,
+          "height": 20
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/backpack/vypustek09-0001.jpg-1": {
+    "filename": "../system/backpack/vypustek09-0001.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 418,
+          "y": 430,
+          "width": 26,
+          "height": 27
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/backpack/vypustek09-0002.jpg-1": {
+    "filename": "../system/backpack/vypustek09-0002.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 377,
+          "y": 430,
+          "width": 34,
+          "height": 38
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/backpack/vypustek09-0003.jpg-1": {
+    "filename": "../system/backpack/vypustek09-0003.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 298,
+          "y": 426,
+          "width": 50,
+          "height": 57
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/backpack/vypustek09-0004.jpg-1": {
+    "filename": "../system/backpack/vypustek09-0004.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 260,
+          "y": 415,
+          "width": 60,
+          "height": 84
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/backpack/vypustek09-0005.jpg-1": {
+    "filename": "../system/backpack/vypustek09-0005.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 176,
+          "y": 391,
+          "width": 72,
+          "height": 120
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/backpack/vypustek09-0006.jpg-1": {
+    "filename": "../system/backpack/vypustek09-0006.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 54,
+          "y": 374,
+          "width": 94,
+          "height": 162
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/backpack/vypustek09-0007.jpg-1": {
+    "filename": "../system/backpack/vypustek09-0007.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1,
+          "y": 362,
+          "width": 86,
+          "height": 184
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/backpack/vypustek10-0000.jpg-1": {
+    "filename": "../system/backpack/vypustek10-0000.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 127,
+          "y": 362,
+          "width": 132,
+          "height": 188
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/backpack/vypustek10-0001.jpg-1": {
+    "filename": "../system/backpack/vypustek10-0001.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 14,
+          "y": 345,
+          "width": 153,
+          "height": 260
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/backpack/vypustek10-0002.jpg-1": {
+    "filename": "../system/backpack/vypustek10-0002.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 571,
+          "y": 360,
+          "width": 35,
+          "height": 47
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/backpack/vypustek10-0003.jpg-1": {
+    "filename": "../system/backpack/vypustek10-0003.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 607,
+          "y": 346,
+          "width": 60,
+          "height": 94
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/backpack/vypustek10-0004.jpg-1": {
+    "filename": "../system/backpack/vypustek10-0004.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 688,
+          "y": 340,
+          "width": 97,
+          "height": 152
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/backpack/vypustek10-0005.jpg-1": {
+    "filename": "../system/backpack/vypustek10-0005.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 859,
+          "y": 298,
+          "width": 158,
+          "height": 291
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/backpack/vypustek11-0000.jpg-1": {
+    "filename": "../system/backpack/vypustek11-0000.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 533,
+          "y": 427,
+          "width": 24,
+          "height": 39
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/backpack/vypustek11-0001.jpg-1": {
+    "filename": "../system/backpack/vypustek11-0001.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 529,
+          "y": 427,
+          "width": 33,
+          "height": 54
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/backpack/vypustek11-0002.jpg-1": {
+    "filename": "../system/backpack/vypustek11-0002.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 552,
+          "y": 423,
+          "width": 47,
+          "height": 68
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/backpack/vypustek11-0003.jpg-1": {
+    "filename": "../system/backpack/vypustek11-0003.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 609,
+          "y": 413,
+          "width": 67,
+          "height": 98
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/backpack/vypustek11-0004.jpg-1": {
+    "filename": "../system/backpack/vypustek11-0004.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 656,
+          "y": 385,
+          "width": 101,
+          "height": 154
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/backpack/vypustek11-0005.jpg-1": {
+    "filename": "../system/backpack/vypustek11-0005.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 734,
+          "y": 379,
+          "width": 144,
+          "height": 210
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/backpack/vypustek14-0000.jpg-1": {
+    "filename": "../system/backpack/vypustek14-0000.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 394,
+          "y": 360,
+          "width": 37,
+          "height": 52
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/backpack/vypustek14-0001.jpg-1": {
+    "filename": "../system/backpack/vypustek14-0001.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 351,
+          "y": 357,
+          "width": 51,
+          "height": 68
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/backpack/vypustek14-0002.jpg-1": {
+    "filename": "../system/backpack/vypustek14-0002.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 282,
+          "y": 353,
+          "width": 72,
+          "height": 99
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/backpack/vypustek14-0003.jpg-1": {
+    "filename": "../system/backpack/vypustek14-0003.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 127,
+          "y": 332,
+          "width": 132,
+          "height": 176
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/backpack/vypustek15-0000.jpg-1": {
+    "filename": "../system/backpack/vypustek15-0000.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 737,
+          "y": 404,
+          "width": 25,
+          "height": 40
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/backpack/vypustek16-0004.jpg-1": {
+    "filename": "../system/backpack/vypustek16-0004.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 172,
+          "y": 338,
+          "width": 61,
+          "height": 86
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/backpack/vypustek16-0005.jpg-1": {
+    "filename": "../system/backpack/vypustek16-0005.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 54,
+          "y": 296,
+          "width": 71,
+          "height": 111
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/backpack/vypustek22-0000.jpg-1": {
+    "filename": "../system/backpack/vypustek22-0000.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 633,
+          "y": 371,
+          "width": 22,
+          "height": 29
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/backpack/vypustek22-0001.jpg-1": {
+    "filename": "../system/backpack/vypustek22-0001.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 694,
+          "y": 342,
+          "width": 26,
+          "height": 43
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/backpack/vypustek22-0002.jpg-1": {
+    "filename": "../system/backpack/vypustek22-0002.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 781,
+          "y": 311,
+          "width": 35,
+          "height": 56
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/backpack/vypustek22-0008.jpg-1": {
+    "filename": "../system/backpack/vypustek22-0008.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 99,
+          "y": 414,
+          "width": 71,
+          "height": 106
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/backpack/vypustek22-0009.jpg-1": {
+    "filename": "../system/backpack/vypustek22-0009.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 182,
+          "y": 417,
+          "width": 61,
+          "height": 97
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/backpack/vypustek22-0010.jpg-1": {
+    "filename": "../system/backpack/vypustek22-0010.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 235,
+          "y": 417,
+          "width": 54,
+          "height": 85
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/backpack/vypustek22-0011.jpg-1": {
+    "filename": "../system/backpack/vypustek22-0011.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 276,
+          "y": 417,
+          "width": 42,
+          "height": 80
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/backpack/vypustek22-0012.jpg-1": {
+    "filename": "../system/backpack/vypustek22-0012.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 320,
+          "y": 418,
+          "width": 44,
+          "height": 74
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/backpack/vypustek22-0013.jpg-1": {
+    "filename": "../system/backpack/vypustek22-0013.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 342,
+          "y": 417,
+          "width": 39,
+          "height": 67
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/backpack/vypustek22-0014.jpg-1": {
+    "filename": "../system/backpack/vypustek22-0014.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 289,
+          "y": 414,
+          "width": 33,
+          "height": 56
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/backpack/vypustek22-0018.jpg-1": {
+    "filename": "../system/backpack/vypustek22-0018.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 666,
+          "y": 377,
+          "width": 52,
+          "height": 81
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/backpack/vypustek22-0019.jpg-1": {
+    "filename": "../system/backpack/vypustek22-0019.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 759,
+          "y": 374,
+          "width": 51,
+          "height": 80
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/backpack/vypustek22-0020.jpg-1": {
+    "filename": "../system/backpack/vypustek22-0020.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 714,
+          "y": 371,
+          "width": 50,
+          "height": 73
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/backpack/vypustek22-0021.jpg-1": {
+    "filename": "../system/backpack/vypustek22-0021.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 622,
+          "y": 371,
+          "width": 43,
+          "height": 57
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/backpack/vypustek22-0022.jpg-1": {
+    "filename": "../system/backpack/vypustek22-0022.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 635,
+          "y": 371,
+          "width": 38,
+          "height": 46
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/backpack/vypustek22-0023.jpg-1": {
+    "filename": "../system/backpack/vypustek22-0023.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 566,
+          "y": 364,
+          "width": 27,
+          "height": 33
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/backpack/vypustek22-0024.jpg-1": {
+    "filename": "../system/backpack/vypustek22-0024.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 594,
+          "y": 366,
+          "width": 30,
+          "height": 29
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/backpack/vypustek22-0033.jpg-1": {
+    "filename": "../system/backpack/vypustek22-0033.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 614,
+          "y": 146,
+          "width": 48,
+          "height": 55
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/backpack/vypustek22-0034.jpg-1": {
+    "filename": "../system/backpack/vypustek22-0034.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 577,
+          "y": 174,
+          "width": 40,
+          "height": 50
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/backpack/vypustek22-0035.jpg-1": {
+    "filename": "../system/backpack/vypustek22-0035.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 490,
+          "y": 204,
+          "width": 35,
+          "height": 37
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/backpack/vypustek22-0036.jpg-1": {
+    "filename": "../system/backpack/vypustek22-0036.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 462,
+          "y": 231,
+          "width": 33,
+          "height": 34
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/backpack/vypustek22-0037.jpg-1": {
+    "filename": "../system/backpack/vypustek22-0037.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 517,
+          "y": 255,
+          "width": 27,
+          "height": 29
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/backpack/vypustek22-0038.jpg-1": {
+    "filename": "../system/backpack/vypustek22-0038.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 583,
+          "y": 302,
+          "width": 24,
+          "height": 26
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/backpack/vypustek22-0039.jpg-1": {
+    "filename": "../system/backpack/vypustek22-0039.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 563,
+          "y": 287,
+          "width": 20,
+          "height": 21
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/backpack/vypustek22-0052.jpg-1": {
+    "filename": "../system/backpack/vypustek22-0052.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 840,
+          "y": 377,
+          "width": 46,
+          "height": 81
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/backpack/vypustek23-0000.jpg-1": {
+    "filename": "../system/backpack/vypustek23-0000.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 513,
+          "y": 428,
+          "width": 54,
+          "height": 74
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/backpack/vypustek23-0001.jpg-1": {
+    "filename": "../system/backpack/vypustek23-0001.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 422,
+          "y": 431,
+          "width": 65,
+          "height": 89
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/backpack/vypustek23-0002.jpg-1": {
+    "filename": "../system/backpack/vypustek23-0002.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 290,
+          "y": 423,
+          "width": 78,
+          "height": 110
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/backpack/vypustek23-0003.jpg-1": {
+    "filename": "../system/backpack/vypustek23-0003.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 137,
+          "y": 417,
+          "width": 89,
+          "height": 138
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/backpack/vypustek23-0004.jpg-1": {
+    "filename": "../system/backpack/vypustek23-0004.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 643,
+          "y": 427,
+          "width": 24,
+          "height": 33
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/backpack/vypustek24-0001.jpg-1": {
+    "filename": "../system/backpack/vypustek24-0001.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 584,
+          "y": 302,
+          "width": 16,
+          "height": 22
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/backpack/vypustek24-0002.jpg-1": {
+    "filename": "../system/backpack/vypustek24-0002.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 351,
+          "y": 306,
+          "width": 21,
+          "height": 29
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 576,
+          "y": 381,
+          "width": 22,
+          "height": 13
+        },
+        "region_attributes": {
+          "artifact": "rope"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/backpack/vypustek24-0003.jpg-1": {
+    "filename": "../system/backpack/vypustek24-0003.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 269,
+          "y": 293,
+          "width": 29,
+          "height": 29
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 525,
+          "y": 377,
+          "width": 29,
+          "height": 13
+        },
+        "region_attributes": {
+          "artifact": "rope"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/backpack/vypustek25-0015.jpg-1": {
+    "filename": "../system/backpack/vypustek25-0015.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 294,
+          "y": 280,
+          "width": 25,
+          "height": 35
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/backpack/vypustek25-0016.jpg-1": {
+    "filename": "../system/backpack/vypustek25-0016.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 232,
+          "y": 246,
+          "width": 30,
+          "height": 40
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/backpack/vypustek25-0017.jpg-1": {
+    "filename": "../system/backpack/vypustek25-0017.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 283,
+          "y": 235,
+          "width": 34,
+          "height": 50
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/backpack/vypustek27-0003.jpg-1": {
+    "filename": "../system/backpack/vypustek27-0003.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 415,
+          "y": 418,
+          "width": 12,
+          "height": 16
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/backpack/vypustek27-0004.jpg-1": {
+    "filename": "../system/backpack/vypustek27-0004.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 453,
+          "y": 410,
+          "width": 17,
+          "height": 29
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/backpack/vypustek27-0005.jpg-1": {
+    "filename": "../system/backpack/vypustek27-0005.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 358,
+          "y": 401,
+          "width": 24,
+          "height": 35
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/backpack/vypustek27-0006.jpg-1": {
+    "filename": "../system/backpack/vypustek27-0006.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 242,
+          "y": 383,
+          "width": 30,
+          "height": 40
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/backpack/vypustek27-0020.jpg-1": {
+    "filename": "../system/backpack/vypustek27-0020.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 572,
+          "y": 363,
+          "width": 30,
+          "height": 39
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/backpack/vypustek27-0021.jpg-1": {
+    "filename": "../system/backpack/vypustek27-0021.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 649,
+          "y": 370,
+          "width": 25,
+          "height": 34
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 647,
+          "y": 306,
+          "width": 34,
+          "height": 38
+        },
+        "region_attributes": {
+          "artifact": "survivor"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/backpack/vypustek28-0007.jpg-1": {
+    "filename": "../system/backpack/vypustek28-0007.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 461,
+          "y": 362,
+          "width": 18,
+          "height": 20
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/backpack/vypustek28-0008.jpg-1": {
+    "filename": "../system/backpack/vypustek28-0008.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 611,
+          "y": 368,
+          "width": 24,
+          "height": 34
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/backpack/vypustek30-0000.jpg-1": {
+    "filename": "../system/backpack/vypustek30-0000.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 252,
+          "y": 434,
+          "width": 30,
+          "height": 35
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 607,
+          "y": 389,
+          "width": 22,
+          "height": 24
+        },
+        "region_attributes": {
+          "artifact": "survivor"
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 598,
+          "y": 434,
+          "width": 16,
+          "height": 14
+        },
+        "region_attributes": {
+          "artifact": "drill"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/drill/b_skala09-0000.jpg-1": {
+    "filename": "../system/drill/b_skala09-0000.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 900,
+          "y": 346,
+          "width": 16,
+          "height": 34
+        },
+        "region_attributes": {
+          "artifact": "drill"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/drill/b_skala09-0001.jpg-1": {
+    "filename": "../system/drill/b_skala09-0001.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 875,
+          "y": 319,
+          "width": 25,
+          "height": 31
+        },
+        "region_attributes": {
+          "artifact": "drill"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/drill/b_skala09-0002.jpg-1": {
+    "filename": "../system/drill/b_skala09-0002.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 908,
+          "y": 298,
+          "width": 29,
+          "height": 31
+        },
+        "region_attributes": {
+          "artifact": "drill"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/drill/b_skala09-0003.jpg-1": {
+    "filename": "../system/drill/b_skala09-0003.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 933,
+          "y": 281,
+          "width": 33,
+          "height": 40
+        },
+        "region_attributes": {
+          "artifact": "drill"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/drill/b_skala09-0010.jpg-1": {
+    "filename": "../system/drill/b_skala09-0010.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 325,
+          "y": 323,
+          "width": 21,
+          "height": 18
+        },
+        "region_attributes": {
+          "artifact": "drill"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/drill/b_skala09-0011.jpg-1": {
+    "filename": "../system/drill/b_skala09-0011.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 270,
+          "y": 323,
+          "width": 18,
+          "height": 17
+        },
+        "region_attributes": {
+          "artifact": "drill"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/drill/vypustek15-0001.jpg-1": {
+    "filename": "../system/drill/vypustek15-0001.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 265,
+          "y": 396,
+          "width": 22,
+          "height": 18
+        },
+        "region_attributes": {
+          "artifact": "drill"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/drill/vypustek16-0000.jpg-1": {
+    "filename": "../system/drill/vypustek16-0000.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 671,
+          "y": 458,
+          "width": 33,
+          "height": 35
+        },
+        "region_attributes": {
+          "artifact": "drill"
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 346,
+          "y": 384,
+          "width": 25,
+          "height": 46
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/drill/vypustek16-0001.jpg-1": {
+    "filename": "../system/drill/vypustek16-0001.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 725,
+          "y": 472,
+          "width": 43,
+          "height": 51
+        },
+        "region_attributes": {
+          "artifact": "drill"
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 295,
+          "y": 374,
+          "width": 35,
+          "height": 63
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/drill/vypustek16-0002.jpg-1": {
+    "filename": "../system/drill/vypustek16-0002.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 265,
+          "y": 354,
+          "width": 43,
+          "height": 71
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 820,
+          "y": 475,
+          "width": 56,
+          "height": 65
+        },
+        "region_attributes": {
+          "artifact": "drill"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/drill/vypustek16-0003.jpg-1": {
+    "filename": "../system/drill/vypustek16-0003.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 906,
+          "y": 469,
+          "width": 54,
+          "height": 77
+        },
+        "region_attributes": {
+          "artifact": "drill"
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 235,
+          "y": 347,
+          "width": 47,
+          "height": 76
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/drill/vypustek19-0000.jpg-1": {
+    "filename": "../system/drill/vypustek19-0000.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 665,
+          "y": 380,
+          "width": 33,
+          "height": 37
+        },
+        "region_attributes": {
+          "artifact": "drill"
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 555,
+          "y": 360,
+          "width": 31,
+          "height": 33
+        },
+        "region_attributes": {
+          "artifact": "rope"
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 377,
+          "y": 409,
+          "width": 18,
+          "height": 21
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 455,
+          "y": 423,
+          "width": 20,
+          "height": 13
+        },
+        "region_attributes": {
+          "artifact": "helmet"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/drill/vypustek19-0001.jpg-1": {
+    "filename": "../system/drill/vypustek19-0001.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 721,
+          "y": 363,
+          "width": 54,
+          "height": 51
+        },
+        "region_attributes": {
+          "artifact": "drill"
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 575,
+          "y": 336,
+          "width": 35,
+          "height": 47
+        },
+        "region_attributes": {
+          "artifact": "rope"
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 448,
+          "y": 423,
+          "width": 25,
+          "height": 13
+        },
+        "region_attributes": {
+          "artifact": "helmet"
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 362,
+          "y": 405,
+          "width": 22,
+          "height": 24
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/drill/vypustek19-0002.jpg-1": {
+    "filename": "../system/drill/vypustek19-0002.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 865,
+          "y": 328,
+          "width": 63,
+          "height": 76
+        },
+        "region_attributes": {
+          "artifact": "drill"
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 615,
+          "y": 302,
+          "width": 55,
+          "height": 59
+        },
+        "region_attributes": {
+          "artifact": "rope"
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 451,
+          "y": 430,
+          "width": 24,
+          "height": 12
+        },
+        "region_attributes": {
+          "artifact": "helmet"
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 357,
+          "y": 410,
+          "width": 21,
+          "height": 26
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/drill/vypustek22-0015.jpg-1": {
+    "filename": "../system/drill/vypustek22-0015.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 234,
+          "y": 453,
+          "width": 20,
+          "height": 37
+        },
+        "region_attributes": {
+          "artifact": "drill"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/drill/vypustek22-0030.jpg-1": {
+    "filename": "../system/drill/vypustek22-0030.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 287,
+          "y": 370,
+          "width": 18,
+          "height": 25
+        },
+        "region_attributes": {
+          "artifact": "drill"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/drill/vypustek22-0031.jpg-1": {
+    "filename": "../system/drill/vypustek22-0031.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 281,
+          "y": 371,
+          "width": 17,
+          "height": 25
+        },
+        "region_attributes": {
+          "artifact": "drill"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/drill/vypustek22-0032.jpg-1": {
+    "filename": "../system/drill/vypustek22-0032.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 384,
+          "y": 376,
+          "width": 14,
+          "height": 20
+        },
+        "region_attributes": {
+          "artifact": "drill"
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 260,
+          "y": 410,
+          "width": 42,
+          "height": 16
+        },
+        "region_attributes": {
+          "artifact": "rope"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/drill/vypustek22-0046.jpg-1": {
+    "filename": "../system/drill/vypustek22-0046.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 759,
+          "y": 398,
+          "width": 29,
+          "height": 38
+        },
+        "region_attributes": {
+          "artifact": "drill"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/drill/vypustek22-0047.jpg-1": {
+    "filename": "../system/drill/vypustek22-0047.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 744,
+          "y": 397,
+          "width": 26,
+          "height": 34
+        },
+        "region_attributes": {
+          "artifact": "drill"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/drill/vypustek22-0048.jpg-1": {
+    "filename": "../system/drill/vypustek22-0048.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 724,
+          "y": 396,
+          "width": 24,
+          "height": 31
+        },
+        "region_attributes": {
+          "artifact": "drill"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/drill/vypustek22-0049.jpg-1": {
+    "filename": "../system/drill/vypustek22-0049.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 699,
+          "y": 391,
+          "width": 17,
+          "height": 27
+        },
+        "region_attributes": {
+          "artifact": "drill"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/drill/vypustek22-0050.jpg-1": {
+    "filename": "../system/drill/vypustek22-0050.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 611,
+          "y": 384,
+          "width": 20,
+          "height": 22
+        },
+        "region_attributes": {
+          "artifact": "drill"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/drill/vypustek22-0051.jpg-1": {
+    "filename": "../system/drill/vypustek22-0051.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 601,
+          "y": 371,
+          "width": 14,
+          "height": 21
+        },
+        "region_attributes": {
+          "artifact": "drill"
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 733,
+          "y": 252,
+          "width": 54,
+          "height": 44
+        },
+        "region_attributes": {
+          "artifact": "rope"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/drill/vypustek23-0008.jpg-1": {
+    "filename": "../system/drill/vypustek23-0008.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 688,
+          "y": 455,
+          "width": 24,
+          "height": 24
+        },
+        "region_attributes": {
+          "artifact": "drill"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/drill/vypustek23-0009.jpg-1": {
+    "filename": "../system/drill/vypustek23-0009.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 744,
+          "y": 453,
+          "width": 21,
+          "height": 31
+        },
+        "region_attributes": {
+          "artifact": "drill"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/drill/vypustek26-0000.jpg-1": {
+    "filename": "../system/drill/vypustek26-0000.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 773,
+          "y": 479,
+          "width": 52,
+          "height": 30
+        },
+        "region_attributes": {
+          "artifact": "drill"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/drill/vypustek27-0012.jpg-1": {
+    "filename": "../system/drill/vypustek27-0012.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 622,
+          "y": 383,
+          "width": 16,
+          "height": 22
+        },
+        "region_attributes": {
+          "artifact": "drill"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/drill/vypustek27-0013.jpg-1": {
+    "filename": "../system/drill/vypustek27-0013.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 678,
+          "y": 387,
+          "width": 16,
+          "height": 25
+        },
+        "region_attributes": {
+          "artifact": "drill"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/drill/vypustek27-0014.jpg-1": {
+    "filename": "../system/drill/vypustek27-0014.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 630,
+          "y": 391,
+          "width": 16,
+          "height": 24
+        },
+        "region_attributes": {
+          "artifact": "drill"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/drill/vypustek27-0015.jpg-1": {
+    "filename": "../system/drill/vypustek27-0015.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 631,
+          "y": 387,
+          "width": 22,
+          "height": 26
+        },
+        "region_attributes": {
+          "artifact": "drill"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/drill/vypustek27-0016.jpg-1": {
+    "filename": "../system/drill/vypustek27-0016.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 691,
+          "y": 391,
+          "width": 24,
+          "height": 37
+        },
+        "region_attributes": {
+          "artifact": "drill"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/drill/vypustek27-0017.jpg-1": {
+    "filename": "../system/drill/vypustek27-0017.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 751,
+          "y": 393,
+          "width": 26,
+          "height": 37
+        },
+        "region_attributes": {
+          "artifact": "drill"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/drill/vypustek27-0018.jpg-1": {
+    "filename": "../system/drill/vypustek27-0018.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 772,
+          "y": 400,
+          "width": 31,
+          "height": 39
+        },
+        "region_attributes": {
+          "artifact": "drill"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/drill/vypustek27-0022.jpg-1": {
+    "filename": "../system/drill/vypustek27-0022.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 362,
+          "y": 449,
+          "width": 14,
+          "height": 25
+        },
+        "region_attributes": {
+          "artifact": "drill"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/drill/vypustek27-0023.jpg-1": {
+    "filename": "../system/drill/vypustek27-0023.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 306,
+          "y": 449,
+          "width": 16,
+          "height": 30
+        },
+        "region_attributes": {
+          "artifact": "drill"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/drill/vypustek27-0024.jpg-1": {
+    "filename": "../system/drill/vypustek27-0024.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 195,
+          "y": 457,
+          "width": 26,
+          "height": 35
+        },
+        "region_attributes": {
+          "artifact": "drill"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/drill/vypustek28-0000.jpg-1": {
+    "filename": "../system/drill/vypustek28-0000.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 483,
+          "y": 404,
+          "width": 17,
+          "height": 20
+        },
+        "region_attributes": {
+          "artifact": "drill"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/drill/vypustek28-0001.jpg-1": {
+    "filename": "../system/drill/vypustek28-0001.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 460,
+          "y": 405,
+          "width": 18,
+          "height": 30
+        },
+        "region_attributes": {
+          "artifact": "drill"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/drill/vypustek28-0002.jpg-1": {
+    "filename": "../system/drill/vypustek28-0002.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 585,
+          "y": 400,
+          "width": 24,
+          "height": 34
+        },
+        "region_attributes": {
+          "artifact": "drill"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/drill/vypustek28-0003.jpg-1": {
+    "filename": "../system/drill/vypustek28-0003.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 705,
+          "y": 374,
+          "width": 33,
+          "height": 40
+        },
+        "region_attributes": {
+          "artifact": "drill"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/drill/vypustek28-0004.jpg-1": {
+    "filename": "../system/drill/vypustek28-0004.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 802,
+          "y": 347,
+          "width": 48,
+          "height": 59
+        },
+        "region_attributes": {
+          "artifact": "drill"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/drill/vypustek28-0005.jpg-1": {
+    "filename": "../system/drill/vypustek28-0005.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 866,
+          "y": 340,
+          "width": 48,
+          "height": 64
+        },
+        "region_attributes": {
+          "artifact": "drill"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/drill/vypustek28-0006.jpg-1": {
+    "filename": "../system/drill/vypustek28-0006.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 942,
+          "y": 313,
+          "width": 48,
+          "height": 80
+        },
+        "region_attributes": {
+          "artifact": "drill"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/drill/vypustek30-0001.jpg-1": {
+    "filename": "../system/drill/vypustek30-0001.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 310,
+          "y": 441,
+          "width": 20,
+          "height": 25
+        },
+        "region_attributes": {
+          "artifact": "drill"
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 379,
+          "y": 408,
+          "width": 22,
+          "height": 18
+        },
+        "region_attributes": {
+          "artifact": "survivor"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/drill/vypustek30-0002.jpg-1": {
+    "filename": "../system/drill/vypustek30-0002.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 17,
+          "y": 453,
+          "width": 38,
+          "height": 57
+        },
+        "region_attributes": {
+          "artifact": "drill"
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 232,
+          "y": 451,
+          "width": 38,
+          "height": 12
+        },
+        "region_attributes": {
+          "artifact": "rope"
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 332,
+          "y": 408,
+          "width": 24,
+          "height": 25
+        },
+        "region_attributes": {
+          "artifact": "survivor"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/drill/vypustek30-0010.jpg-1": {
+    "filename": "../system/drill/vypustek30-0010.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 728,
+          "y": 384,
+          "width": 16,
+          "height": 27
+        },
+        "region_attributes": {
+          "artifact": "drill"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/drill/vypustek30-0011.jpg-1": {
+    "filename": "../system/drill/vypustek30-0011.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 777,
+          "y": 394,
+          "width": 17,
+          "height": 38
+        },
+        "region_attributes": {
+          "artifact": "drill"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/drill/vypustek31-0000.jpg-1": {
+    "filename": "../system/drill/vypustek31-0000.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 323,
+          "y": 443,
+          "width": 18,
+          "height": 25
+        },
+        "region_attributes": {
+          "artifact": "drill"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/drill/vypustek31-0001.jpg-1": {
+    "filename": "../system/drill/vypustek31-0001.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 295,
+          "y": 447,
+          "width": 21,
+          "height": 26
+        },
+        "region_attributes": {
+          "artifact": "drill"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/drill/vypustek31-0002.jpg-1": {
+    "filename": "../system/drill/vypustek31-0002.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 225,
+          "y": 447,
+          "width": 26,
+          "height": 31
+        },
+        "region_attributes": {
+          "artifact": "drill"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/drill/vypustek32-0003.jpg-1": {
+    "filename": "../system/drill/vypustek32-0003.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 555,
+          "y": 219,
+          "width": 24,
+          "height": 18
+        },
+        "region_attributes": {
+          "artifact": "drill"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/drill/vypustek32-0004.jpg-1": {
+    "filename": "../system/drill/vypustek32-0004.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 482,
+          "y": 200,
+          "width": 30,
+          "height": 21
+        },
+        "region_attributes": {
+          "artifact": "drill"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/drill/vypustek32-0005.jpg-1": {
+    "filename": "../system/drill/vypustek32-0005.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 512,
+          "y": 193,
+          "width": 25,
+          "height": 17
+        },
+        "region_attributes": {
+          "artifact": "drill"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/drill/vypustek32-0006.jpg-1": {
+    "filename": "../system/drill/vypustek32-0006.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 618,
+          "y": 234,
+          "width": 22,
+          "height": 18
+        },
+        "region_attributes": {
+          "artifact": "drill"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/drill/vypustek32-0007.jpg-1": {
+    "filename": "../system/drill/vypustek32-0007.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 418,
+          "y": 225,
+          "width": 25,
+          "height": 18
+        },
+        "region_attributes": {
+          "artifact": "drill"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/drill/vypustek32-0008.jpg-1": {
+    "filename": "../system/drill/vypustek32-0008.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 472,
+          "y": 449,
+          "width": 20,
+          "height": 17
+        },
+        "region_attributes": {
+          "artifact": "drill"
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 188,
+          "y": 490,
+          "width": 56,
+          "height": 20
+        },
+        "region_attributes": {
+          "artifact": "rope"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/drill/vypustek32-0009.jpg-1": {
+    "filename": "../system/drill/vypustek32-0009.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 738,
+          "y": 453,
+          "width": 26,
+          "height": 29
+        },
+        "region_attributes": {
+          "artifact": "drill"
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 47,
+          "y": 533,
+          "width": 121,
+          "height": 59
+        },
+        "region_attributes": {
+          "artifact": "rope"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/drill/vypustek32-0012.jpg-1": {
+    "filename": "../system/drill/vypustek32-0012.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 525,
+          "y": 456,
+          "width": 27,
+          "height": 30
+        },
+        "region_attributes": {
+          "artifact": "drill"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/drill/vypustek32-0013.jpg-1": {
+    "filename": "../system/drill/vypustek32-0013.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 751,
+          "y": 453,
+          "width": 25,
+          "height": 27
+        },
+        "region_attributes": {
+          "artifact": "drill"
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 24,
+          "y": 528,
+          "width": 128,
+          "height": 55
+        },
+        "region_attributes": {
+          "artifact": "rope"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/helmet/b_skala06-0000.jpg-1": {
+    "filename": "../system/helmet/b_skala06-0000.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 725,
+          "y": 438,
+          "width": 24,
+          "height": 18
+        },
+        "region_attributes": {
+          "artifact": "helmet"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/helmet/b_skala07-0000.jpg-1": {
+    "filename": "../system/helmet/b_skala07-0000.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 320,
+          "y": 406,
+          "width": 33,
+          "height": 21
+        },
+        "region_attributes": {
+          "artifact": "helmet"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/helmet/b_skala07-0001.jpg-1": {
+    "filename": "../system/helmet/b_skala07-0001.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 295,
+          "y": 411,
+          "width": 38,
+          "height": 26
+        },
+        "region_attributes": {
+          "artifact": "helmet"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/helmet/b_skala07-0002.jpg-1": {
+    "filename": "../system/helmet/b_skala07-0002.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 219,
+          "y": 428,
+          "width": 47,
+          "height": 26
+        },
+        "region_attributes": {
+          "artifact": "helmet"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/helmet/b_skala07-0003.jpg-1": {
+    "filename": "../system/helmet/b_skala07-0003.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 110,
+          "y": 447,
+          "width": 54,
+          "height": 31
+        },
+        "region_attributes": {
+          "artifact": "helmet"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/helmet/b_skala07-0004.jpg-1": {
+    "filename": "../system/helmet/b_skala07-0004.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 48,
+          "y": 447,
+          "width": 46,
+          "height": 38
+        },
+        "region_attributes": {
+          "artifact": "helmet"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/helmet/b_skala07-0005.jpg-1": {
+    "filename": "../system/helmet/b_skala07-0005.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 34,
+          "y": 448,
+          "width": 54,
+          "height": 38
+        },
+        "region_attributes": {
+          "artifact": "helmet"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/helmet/b_skala07-0006.jpg-1": {
+    "filename": "../system/helmet/b_skala07-0006.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 649,
+          "y": 438,
+          "width": 18,
+          "height": 17
+        },
+        "region_attributes": {
+          "artifact": "helmet"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/helmet/b_skala07-0007.jpg-1": {
+    "filename": "../system/helmet/b_skala07-0007.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 707,
+          "y": 397,
+          "width": 20,
+          "height": 17
+        },
+        "region_attributes": {
+          "artifact": "helmet"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/helmet/b_skala07-0008.jpg-1": {
+    "filename": "../system/helmet/b_skala07-0008.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 701,
+          "y": 391,
+          "width": 22,
+          "height": 20
+        },
+        "region_attributes": {
+          "artifact": "helmet"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/helmet/b_skala07-0009.jpg-1": {
+    "filename": "../system/helmet/b_skala07-0009.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 696,
+          "y": 414,
+          "width": 27,
+          "height": 21
+        },
+        "region_attributes": {
+          "artifact": "helmet"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/helmet/b_skala07-0010.jpg-1": {
+    "filename": "../system/helmet/b_skala07-0010.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 784,
+          "y": 418,
+          "width": 24,
+          "height": 21
+        },
+        "region_attributes": {
+          "artifact": "helmet"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/helmet/b_skala07-0011.jpg-1": {
+    "filename": "../system/helmet/b_skala07-0011.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 850,
+          "y": 426,
+          "width": 25,
+          "height": 26
+        },
+        "region_attributes": {
+          "artifact": "helmet"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/helmet/b_skala07-0012.jpg-1": {
+    "filename": "../system/helmet/b_skala07-0012.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 794,
+          "y": 421,
+          "width": 29,
+          "height": 29
+        },
+        "region_attributes": {
+          "artifact": "helmet"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/helmet/b_skala07-0013.jpg-1": {
+    "filename": "../system/helmet/b_skala07-0013.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 724,
+          "y": 410,
+          "width": 33,
+          "height": 30
+        },
+        "region_attributes": {
+          "artifact": "helmet"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/helmet/b_skala07-0014.jpg-1": {
+    "filename": "../system/helmet/b_skala07-0014.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 824,
+          "y": 357,
+          "width": 38,
+          "height": 34
+        },
+        "region_attributes": {
+          "artifact": "helmet"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/helmet/b_skala07-0015.jpg-1": {
+    "filename": "../system/helmet/b_skala07-0015.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 833,
+          "y": 432,
+          "width": 40,
+          "height": 40
+        },
+        "region_attributes": {
+          "artifact": "helmet"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/helmet/b_skala07-0016.jpg-1": {
+    "filename": "../system/helmet/b_skala07-0016.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 933,
+          "y": 396,
+          "width": 42,
+          "height": 46
+        },
+        "region_attributes": {
+          "artifact": "helmet"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/helmet/vypustek04-0003.jpg-1": {
+    "filename": "../system/helmet/vypustek04-0003.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 509,
+          "y": 447,
+          "width": 21,
+          "height": 10
+        },
+        "region_attributes": {
+          "artifact": "helmet"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/helmet/vypustek05-0000.jpg-1": {
+    "filename": "../system/helmet/vypustek05-0000.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 560,
+          "y": 456,
+          "width": 27,
+          "height": 16
+        },
+        "region_attributes": {
+          "artifact": "helmet"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/helmet/vypustek05-0001.jpg-1": {
+    "filename": "../system/helmet/vypustek05-0001.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 550,
+          "y": 462,
+          "width": 42,
+          "height": 27
+        },
+        "region_attributes": {
+          "artifact": "helmet"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/helmet/vypustek06-0000.jpg-1": {
+    "filename": "../system/helmet/vypustek06-0000.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 675,
+          "y": 469,
+          "width": 43,
+          "height": 21
+        },
+        "region_attributes": {
+          "artifact": "helmet"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/helmet/vypustek06-0001.jpg-1": {
+    "filename": "../system/helmet/vypustek06-0001.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 760,
+          "y": 475,
+          "width": 47,
+          "height": 27
+        },
+        "region_attributes": {
+          "artifact": "helmet"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/helmet/vypustek06-0002.jpg-1": {
+    "filename": "../system/helmet/vypustek06-0002.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 827,
+          "y": 474,
+          "width": 52,
+          "height": 42
+        },
+        "region_attributes": {
+          "artifact": "helmet"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/helmet/vypustek06-0003.jpg-1": {
+    "filename": "../system/helmet/vypustek06-0003.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 896,
+          "y": 491,
+          "width": 52,
+          "height": 47
+        },
+        "region_attributes": {
+          "artifact": "helmet"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/helmet/vypustek06-0004.jpg-1": {
+    "filename": "../system/helmet/vypustek06-0004.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 950,
+          "y": 504,
+          "width": 43,
+          "height": 55
+        },
+        "region_attributes": {
+          "artifact": "helmet"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/helmet/vypustek07-0000.jpg-1": {
+    "filename": "../system/helmet/vypustek07-0000.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 959,
+          "y": 496,
+          "width": 40,
+          "height": 59
+        },
+        "region_attributes": {
+          "artifact": "helmet"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/helmet/vypustek07-0001.jpg-1": {
+    "filename": "../system/helmet/vypustek07-0001.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 831,
+          "y": 481,
+          "width": 50,
+          "height": 38
+        },
+        "region_attributes": {
+          "artifact": "helmet"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/helmet/vypustek07-0002.jpg-1": {
+    "filename": "../system/helmet/vypustek07-0002.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 744,
+          "y": 470,
+          "width": 48,
+          "height": 26
+        },
+        "region_attributes": {
+          "artifact": "helmet"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/helmet/vypustek07-0003.jpg-1": {
+    "filename": "../system/helmet/vypustek07-0003.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 677,
+          "y": 462,
+          "width": 35,
+          "height": 21
+        },
+        "region_attributes": {
+          "artifact": "helmet"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/helmet/vypustek16-0006.jpg-1": {
+    "filename": "../system/helmet/vypustek16-0006.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 187,
+          "y": 225,
+          "width": 63,
+          "height": 47
+        },
+        "region_attributes": {
+          "artifact": "helmet"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/helmet/vypustek16-0007.jpg-1": {
+    "filename": "../system/helmet/vypustek16-0007.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 280,
+          "y": 270,
+          "width": 46,
+          "height": 34
+        },
+        "region_attributes": {
+          "artifact": "helmet"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/helmet/vypustek16-0008.jpg-1": {
+    "filename": "../system/helmet/vypustek16-0008.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 298,
+          "y": 298,
+          "width": 34,
+          "height": 34
+        },
+        "region_attributes": {
+          "artifact": "helmet"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/helmet/vypustek17-0000.jpg-1": {
+    "filename": "../system/helmet/vypustek17-0000.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 196,
+          "y": 205,
+          "width": 59,
+          "height": 50
+        },
+        "region_attributes": {
+          "artifact": "helmet"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/helmet/vypustek18-0000.jpg-1": {
+    "filename": "../system/helmet/vypustek18-0000.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 202,
+          "y": 159,
+          "width": 82,
+          "height": 50
+        },
+        "region_attributes": {
+          "artifact": "helmet"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/helmet/vypustek18-0001.jpg-1": {
+    "filename": "../system/helmet/vypustek18-0001.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 744,
+          "y": 103,
+          "width": 59,
+          "height": 57
+        },
+        "region_attributes": {
+          "artifact": "helmet"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/helmet/vypustek18-0002.jpg-1": {
+    "filename": "../system/helmet/vypustek18-0002.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 825,
+          "y": 13,
+          "width": 57,
+          "height": 77
+        },
+        "region_attributes": {
+          "artifact": "helmet"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/helmet/vypustek19-0003.jpg-1": {
+    "filename": "../system/helmet/vypustek19-0003.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 451,
+          "y": 443,
+          "width": 27,
+          "height": 14
+        },
+        "region_attributes": {
+          "artifact": "helmet"
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 342,
+          "y": 414,
+          "width": 29,
+          "height": 26
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 731,
+          "y": 257,
+          "width": 97,
+          "height": 86
+        },
+        "region_attributes": {
+          "artifact": "rope"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/helmet/vypustek19-0004.jpg-1": {
+    "filename": "../system/helmet/vypustek19-0004.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 947,
+          "y": 226,
+          "width": 74,
+          "height": 99
+        },
+        "region_attributes": {
+          "artifact": "rope"
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 479,
+          "y": 458,
+          "width": 27,
+          "height": 16
+        },
+        "region_attributes": {
+          "artifact": "helmet"
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 366,
+          "y": 406,
+          "width": 27,
+          "height": 34
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/helmet/vypustek20-0000.jpg-1": {
+    "filename": "../system/helmet/vypustek20-0000.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 422,
+          "y": 414,
+          "width": 30,
+          "height": 27
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 550,
+          "y": 435,
+          "width": 29,
+          "height": 17
+        },
+        "region_attributes": {
+          "artifact": "helmet"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/helmet/vypustek20-0001.jpg-1": {
+    "filename": "../system/helmet/vypustek20-0001.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 397,
+          "y": 367,
+          "width": 42,
+          "height": 50
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 586,
+          "y": 411,
+          "width": 46,
+          "height": 22
+        },
+        "region_attributes": {
+          "artifact": "helmet"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/helmet/vypustek20-0002.jpg-1": {
+    "filename": "../system/helmet/vypustek20-0002.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 600,
+          "y": 401,
+          "width": 51,
+          "height": 29
+        },
+        "region_attributes": {
+          "artifact": "helmet"
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 364,
+          "y": 359,
+          "width": 50,
+          "height": 52
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/helmet/vypustek20-0003.jpg-1": {
+    "filename": "../system/helmet/vypustek20-0003.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 357,
+          "y": 328,
+          "width": 60,
+          "height": 64
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 664,
+          "y": 381,
+          "width": 64,
+          "height": 30
+        },
+        "region_attributes": {
+          "artifact": "helmet"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/helmet/vypustek20-0004.jpg-1": {
+    "filename": "../system/helmet/vypustek20-0004.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 302,
+          "y": 269,
+          "width": 89,
+          "height": 82
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 772,
+          "y": 360,
+          "width": 85,
+          "height": 43
+        },
+        "region_attributes": {
+          "artifact": "helmet"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/helmet/vypustek20-0005.jpg-1": {
+    "filename": "../system/helmet/vypustek20-0005.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 221,
+          "y": 251,
+          "width": 107,
+          "height": 103
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 895,
+          "y": 328,
+          "width": 80,
+          "height": 65
+        },
+        "region_attributes": {
+          "artifact": "helmet"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/helmet/vypustek21-0000.jpg-1": {
+    "filename": "../system/helmet/vypustek21-0000.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 859,
+          "y": 414,
+          "width": 46,
+          "height": 107
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 718,
+          "y": 354,
+          "width": 20,
+          "height": 14
+        },
+        "region_attributes": {
+          "artifact": "helmet"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/helmet/vypustek21-0001.jpg-1": {
+    "filename": "../system/helmet/vypustek21-0001.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 923,
+          "y": 418,
+          "width": 52,
+          "height": 104
+        },
+        "region_attributes": {
+          "artifact": "backpack"
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 730,
+          "y": 345,
+          "width": 22,
+          "height": 16
+        },
+        "region_attributes": {
+          "artifact": "helmet"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/helmet/vypustek22-0003.jpg-1": {
+    "filename": "../system/helmet/vypustek22-0003.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 654,
+          "y": 462,
+          "width": 30,
+          "height": 17
+        },
+        "region_attributes": {
+          "artifact": "helmet"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/helmet/vypustek22-0004.jpg-1": {
+    "filename": "../system/helmet/vypustek22-0004.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 720,
+          "y": 472,
+          "width": 38,
+          "height": 21
+        },
+        "region_attributes": {
+          "artifact": "helmet"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/helmet/vypustek22-0005.jpg-1": {
+    "filename": "../system/helmet/vypustek22-0005.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 751,
+          "y": 475,
+          "width": 48,
+          "height": 27
+        },
+        "region_attributes": {
+          "artifact": "helmet"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/helmet/vypustek22-0006.jpg-1": {
+    "filename": "../system/helmet/vypustek22-0006.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 782,
+          "y": 490,
+          "width": 55,
+          "height": 37
+        },
+        "region_attributes": {
+          "artifact": "helmet"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/helmet/vypustek22-0007.jpg-1": {
+    "filename": "../system/helmet/vypustek22-0007.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 892,
+          "y": 503,
+          "width": 61,
+          "height": 52
+        },
+        "region_attributes": {
+          "artifact": "helmet"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/helmet/vypustek27-0007.jpg-1": {
+    "filename": "../system/helmet/vypustek27-0007.jpg",
+    "size": -1,
+    "regions": [],
+    "file_attributes": {}
+  },
+  "../system/helmet/vypustek32-0014.jpg-1": {
+    "filename": "../system/helmet/vypustek32-0014.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 486,
+          "y": 453,
+          "width": 25,
+          "height": 13
+        },
+        "region_attributes": {
+          "artifact": "helmet"
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 674,
+          "y": 383,
+          "width": 51,
+          "height": 47
+        },
+        "region_attributes": {
+          "artifact": "survivor"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/helmet/vypustek32-0015.jpg-1": {
+    "filename": "../system/helmet/vypustek32-0015.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 741,
+          "y": 362,
+          "width": 67,
+          "height": 65
+        },
+        "region_attributes": {
+          "artifact": "survivor"
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 466,
+          "y": 456,
+          "width": 29,
+          "height": 18
+        },
+        "region_attributes": {
+          "artifact": "helmet"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/helmet/vypustek32-0016.jpg-1": {
+    "filename": "../system/helmet/vypustek32-0016.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 465,
+          "y": 470,
+          "width": 46,
+          "height": 22
+        },
+        "region_attributes": {
+          "artifact": "helmet"
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 893,
+          "y": 319,
+          "width": 76,
+          "height": 108
+        },
+        "region_attributes": {
+          "artifact": "survivor"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/helmet/vypustek32-0017.jpg-1": {
+    "filename": "../system/helmet/vypustek32-0017.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 593,
+          "y": 481,
+          "width": 64,
+          "height": 35
+        },
+        "region_attributes": {
+          "artifact": "helmet"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/helmet/vypustek32-0018.jpg-1": {
+    "filename": "../system/helmet/vypustek32-0018.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 645,
+          "y": 492,
+          "width": 82,
+          "height": 44
+        },
+        "region_attributes": {
+          "artifact": "helmet"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/helmet/vypustek32-0019.jpg-1": {
+    "filename": "../system/helmet/vypustek32-0019.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 692,
+          "y": 500,
+          "width": 93,
+          "height": 55
+        },
+        "region_attributes": {
+          "artifact": "helmet"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/helmet/vypustek32-0020.jpg-1": {
+    "filename": "../system/helmet/vypustek32-0020.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 756,
+          "y": 512,
+          "width": 90,
+          "height": 72
+        },
+        "region_attributes": {
+          "artifact": "helmet"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/helmet/vypustek32-0021.jpg-1": {
+    "filename": "../system/helmet/vypustek32-0021.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 814,
+          "y": 539,
+          "width": 99,
+          "height": 85
+        },
+        "region_attributes": {
+          "artifact": "helmet"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/helmet/vypustek32-0022.jpg-1": {
+    "filename": "../system/helmet/vypustek32-0022.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 893,
+          "y": 555,
+          "width": 90,
+          "height": 110
+        },
+        "region_attributes": {
+          "artifact": "helmet"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/helmet/vypustek33-0000.jpg-1": {
+    "filename": "../system/helmet/vypustek33-0000.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 406,
+          "y": 443,
+          "width": 27,
+          "height": 20
+        },
+        "region_attributes": {
+          "artifact": "helmet"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/helmet/vypustek33-0001.jpg-1": {
+    "filename": "../system/helmet/vypustek33-0001.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 375,
+          "y": 441,
+          "width": 30,
+          "height": 26
+        },
+        "region_attributes": {
+          "artifact": "helmet"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/helmet/vypustek33-0002.jpg-1": {
+    "filename": "../system/helmet/vypustek33-0002.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 371,
+          "y": 449,
+          "width": 47,
+          "height": 33
+        },
+        "region_attributes": {
+          "artifact": "helmet"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/helmet/vypustek33-0003.jpg-1": {
+    "filename": "../system/helmet/vypustek33-0003.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 202,
+          "y": 460,
+          "width": 82,
+          "height": 57
+        },
+        "region_attributes": {
+          "artifact": "helmet"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/helmet/vypustek33-0004.jpg-1": {
+    "filename": "../system/helmet/vypustek33-0004.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 54,
+          "y": 492,
+          "width": 141,
+          "height": 103
+        },
+        "region_attributes": {
+          "artifact": "helmet"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/helmet/vypustek33-0016.jpg-1": {
+    "filename": "../system/helmet/vypustek33-0016.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 645,
+          "y": 384,
+          "width": 24,
+          "height": 21
+        },
+        "region_attributes": {
+          "artifact": "helmet"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/helmet/vypustek33-0017.jpg-1": {
+    "filename": "../system/helmet/vypustek33-0017.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 695,
+          "y": 400,
+          "width": 26,
+          "height": 27
+        },
+        "region_attributes": {
+          "artifact": "helmet"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/helmet/vypustek33-0018.jpg-1": {
+    "filename": "../system/helmet/vypustek33-0018.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 712,
+          "y": 423,
+          "width": 35,
+          "height": 34
+        },
+        "region_attributes": {
+          "artifact": "helmet"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/helmet/vypustek33-0019.jpg-1": {
+    "filename": "../system/helmet/vypustek33-0019.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 824,
+          "y": 516,
+          "width": 98,
+          "height": 103
+        },
+        "region_attributes": {
+          "artifact": "helmet"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/rope/b_skala05-0000.jpg-1": {
+    "filename": "../system/rope/b_skala05-0000.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 494,
+          "y": 252,
+          "width": 34,
+          "height": 51
+        },
+        "region_attributes": {
+          "artifact": "rope"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/rope/b_skala05-0001.jpg-1": {
+    "filename": "../system/rope/b_skala05-0001.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 601,
+          "y": 236,
+          "width": 33,
+          "height": 57
+        },
+        "region_attributes": {
+          "artifact": "rope"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/rope/b_skala05-0002.jpg-1": {
+    "filename": "../system/rope/b_skala05-0002.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 647,
+          "y": 166,
+          "width": 39,
+          "height": 63
+        },
+        "region_attributes": {
+          "artifact": "rope"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/rope/vypustek03-0000.jpg-1": {
+    "filename": "../system/rope/vypustek03-0000.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 577,
+          "y": 456,
+          "width": 31,
+          "height": 18
+        },
+        "region_attributes": {
+          "artifact": "rope"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/rope/vypustek03-0001.jpg-1": {
+    "filename": "../system/rope/vypustek03-0001.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 590,
+          "y": 457,
+          "width": 48,
+          "height": 20
+        },
+        "region_attributes": {
+          "artifact": "rope"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/rope/vypustek03-0002.jpg-1": {
+    "filename": "../system/rope/vypustek03-0002.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 637,
+          "y": 460,
+          "width": 54,
+          "height": 24
+        },
+        "region_attributes": {
+          "artifact": "rope"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/rope/vypustek04-0000.jpg-1": {
+    "filename": "../system/rope/vypustek04-0000.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 649,
+          "y": 461,
+          "width": 52,
+          "height": 26
+        },
+        "region_attributes": {
+          "artifact": "rope"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/rope/vypustek04-0001.jpg-1": {
+    "filename": "../system/rope/vypustek04-0001.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 686,
+          "y": 481,
+          "width": 85,
+          "height": 35
+        },
+        "region_attributes": {
+          "artifact": "rope"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/rope/vypustek04-0002.jpg-1": {
+    "filename": "../system/rope/vypustek04-0002.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 802,
+          "y": 507,
+          "width": 102,
+          "height": 46
+        },
+        "region_attributes": {
+          "artifact": "rope"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/rope/vypustek05-0002.jpg-1": {
+    "filename": "../system/rope/vypustek05-0002.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 401,
+          "y": 394,
+          "width": 30,
+          "height": 20
+        },
+        "region_attributes": {
+          "artifact": "rope"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/rope/vypustek05-0003.jpg-1": {
+    "filename": "../system/rope/vypustek05-0003.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 291,
+          "y": 419,
+          "width": 47,
+          "height": 31
+        },
+        "region_attributes": {
+          "artifact": "rope"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/rope/vypustek05-0004.jpg-1": {
+    "filename": "../system/rope/vypustek05-0004.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 223,
+          "y": 430,
+          "width": 55,
+          "height": 39
+        },
+        "region_attributes": {
+          "artifact": "rope"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/rope/vypustek08-0000.jpg-1": {
+    "filename": "../system/rope/vypustek08-0000.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 354,
+          "y": 470,
+          "width": 44,
+          "height": 22
+        },
+        "region_attributes": {
+          "artifact": "rope"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/rope/vypustek08-0001.jpg-1": {
+    "filename": "../system/rope/vypustek08-0001.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 371,
+          "y": 475,
+          "width": 56,
+          "height": 24
+        },
+        "region_attributes": {
+          "artifact": "rope"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/rope/vypustek08-0002.jpg-1": {
+    "filename": "../system/rope/vypustek08-0002.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 265,
+          "y": 492,
+          "width": 95,
+          "height": 38
+        },
+        "region_attributes": {
+          "artifact": "rope"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/rope/vypustek08-0003.jpg-1": {
+    "filename": "../system/rope/vypustek08-0003.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 133,
+          "y": 529,
+          "width": 153,
+          "height": 56
+        },
+        "region_attributes": {
+          "artifact": "rope"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/rope/vypustek08-0004.jpg-1": {
+    "filename": "../system/rope/vypustek08-0004.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 4,
+          "y": 575,
+          "width": 170,
+          "height": 76
+        },
+        "region_attributes": {
+          "artifact": "rope"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/rope/vypustek09-0008.jpg-1": {
+    "filename": "../system/rope/vypustek09-0008.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 661,
+          "y": 479,
+          "width": 140,
+          "height": 104
+        },
+        "region_attributes": {
+          "artifact": "rope"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/rope/vypustek09-0009.jpg-1": {
+    "filename": "../system/rope/vypustek09-0009.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 572,
+          "y": 421,
+          "width": 63,
+          "height": 42
+        },
+        "region_attributes": {
+          "artifact": "rope"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/rope/vypustek12-0000.jpg-1": {
+    "filename": "../system/rope/vypustek12-0000.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 431,
+          "y": 451,
+          "width": 35,
+          "height": 18
+        },
+        "region_attributes": {
+          "artifact": "rope"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/rope/vypustek12-0001.jpg-1": {
+    "filename": "../system/rope/vypustek12-0001.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 432,
+          "y": 458,
+          "width": 47,
+          "height": 27
+        },
+        "region_attributes": {
+          "artifact": "rope"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/rope/vypustek12-0002.jpg-1": {
+    "filename": "../system/rope/vypustek12-0002.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 434,
+          "y": 469,
+          "width": 63,
+          "height": 29
+        },
+        "region_attributes": {
+          "artifact": "rope"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/rope/vypustek12-0003.jpg-1": {
+    "filename": "../system/rope/vypustek12-0003.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 404,
+          "y": 483,
+          "width": 93,
+          "height": 38
+        },
+        "region_attributes": {
+          "artifact": "rope"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/rope/vypustek12-0004.jpg-1": {
+    "filename": "../system/rope/vypustek12-0004.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 308,
+          "y": 519,
+          "width": 175,
+          "height": 67
+        },
+        "region_attributes": {
+          "artifact": "rope"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/rope/vypustek12-0005.jpg-1": {
+    "filename": "../system/rope/vypustek12-0005.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 116,
+          "y": 607,
+          "width": 321,
+          "height": 116
+        },
+        "region_attributes": {
+          "artifact": "rope"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/rope/vypustek13-0000.jpg-1": {
+    "filename": "../system/rope/vypustek13-0000.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 427,
+          "y": 460,
+          "width": 44,
+          "height": 22
+        },
+        "region_attributes": {
+          "artifact": "rope"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/rope/vypustek13-0001.jpg-1": {
+    "filename": "../system/rope/vypustek13-0001.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 397,
+          "y": 468,
+          "width": 56,
+          "height": 21
+        },
+        "region_attributes": {
+          "artifact": "rope"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/rope/vypustek13-0002.jpg-1": {
+    "filename": "../system/rope/vypustek13-0002.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 289,
+          "y": 496,
+          "width": 115,
+          "height": 51
+        },
+        "region_attributes": {
+          "artifact": "rope"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/rope/vypustek21-0002.jpg-1": {
+    "filename": "../system/rope/vypustek21-0002.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 764,
+          "y": 389,
+          "width": 35,
+          "height": 55
+        },
+        "region_attributes": {
+          "artifact": "rope"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/rope/vypustek21-0003.jpg-1": {
+    "filename": "../system/rope/vypustek21-0003.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 933,
+          "y": 350,
+          "width": 64,
+          "height": 91
+        },
+        "region_attributes": {
+          "artifact": "rope"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/rope/vypustek22-0016.jpg-1": {
+    "filename": "../system/rope/vypustek22-0016.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 283,
+          "y": 622,
+          "width": 323,
+          "height": 137
+        },
+        "region_attributes": {
+          "artifact": "rope"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/rope/vypustek22-0017.jpg-1": {
+    "filename": "../system/rope/vypustek22-0017.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 385,
+          "y": 512,
+          "width": 148,
+          "height": 61
+        },
+        "region_attributes": {
+          "artifact": "rope"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/rope/vypustek22-0025.jpg-1": {
+    "filename": "../system/rope/vypustek22-0025.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 741,
+          "y": 422,
+          "width": 90,
+          "height": 81
+        },
+        "region_attributes": {
+          "artifact": "rope"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/rope/vypustek22-0026.jpg-1": {
+    "filename": "../system/rope/vypustek22-0026.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 683,
+          "y": 417,
+          "width": 94,
+          "height": 76
+        },
+        "region_attributes": {
+          "artifact": "rope"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/rope/vypustek22-0027.jpg-1": {
+    "filename": "../system/rope/vypustek22-0027.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 690,
+          "y": 422,
+          "width": 84,
+          "height": 65
+        },
+        "region_attributes": {
+          "artifact": "rope"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/rope/vypustek22-0028.jpg-1": {
+    "filename": "../system/rope/vypustek22-0028.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 784,
+          "y": 435,
+          "width": 88,
+          "height": 46
+        },
+        "region_attributes": {
+          "artifact": "rope"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/rope/vypustek22-0029.jpg-1": {
+    "filename": "../system/rope/vypustek22-0029.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 624,
+          "y": 410,
+          "width": 57,
+          "height": 47
+        },
+        "region_attributes": {
+          "artifact": "rope"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/rope/vypustek22-0040.jpg-1": {
+    "filename": "../system/rope/vypustek22-0040.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 434,
+          "y": 537,
+          "width": 246,
+          "height": 152
+        },
+        "region_attributes": {
+          "artifact": "rope"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/rope/vypustek22-0041.jpg-1": {
+    "filename": "../system/rope/vypustek22-0041.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 492,
+          "y": 449,
+          "width": 146,
+          "height": 74
+        },
+        "region_attributes": {
+          "artifact": "rope"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/rope/vypustek22-0042.jpg-1": {
+    "filename": "../system/rope/vypustek22-0042.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 424,
+          "y": 444,
+          "width": 132,
+          "height": 59
+        },
+        "region_attributes": {
+          "artifact": "rope"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/rope/vypustek22-0043.jpg-1": {
+    "filename": "../system/rope/vypustek22-0043.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 477,
+          "y": 408,
+          "width": 86,
+          "height": 47
+        },
+        "region_attributes": {
+          "artifact": "rope"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/rope/vypustek22-0044.jpg-1": {
+    "filename": "../system/rope/vypustek22-0044.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 522,
+          "y": 404,
+          "width": 71,
+          "height": 34
+        },
+        "region_attributes": {
+          "artifact": "rope"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/rope/vypustek22-0045.jpg-1": {
+    "filename": "../system/rope/vypustek22-0045.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 551,
+          "y": 392,
+          "width": 55,
+          "height": 29
+        },
+        "region_attributes": {
+          "artifact": "rope"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/rope/vypustek23-0005.jpg-1": {
+    "filename": "../system/rope/vypustek23-0005.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 691,
+          "y": 469,
+          "width": 42,
+          "height": 16
+        },
+        "region_attributes": {
+          "artifact": "rope"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/rope/vypustek23-0006.jpg-1": {
+    "filename": "../system/rope/vypustek23-0006.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 717,
+          "y": 460,
+          "width": 51,
+          "height": 26
+        },
+        "region_attributes": {
+          "artifact": "rope"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/rope/vypustek23-0007.jpg-1": {
+    "filename": "../system/rope/vypustek23-0007.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 842,
+          "y": 477,
+          "width": 64,
+          "height": 31
+        },
+        "region_attributes": {
+          "artifact": "rope"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/rope/vypustek24-0000.jpg-1": {
+    "filename": "../system/rope/vypustek24-0000.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 797,
+          "y": 483,
+          "width": 38,
+          "height": 37
+        },
+        "region_attributes": {
+          "artifact": "rope"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/rope/vypustek24-0004.jpg-1": {
+    "filename": "../system/rope/vypustek24-0004.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 397,
+          "y": 381,
+          "width": 40,
+          "height": 17
+        },
+        "region_attributes": {
+          "artifact": "rope"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/rope/vypustek24-0005.jpg-1": {
+    "filename": "../system/rope/vypustek24-0005.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 260,
+          "y": 396,
+          "width": 51,
+          "height": 18
+        },
+        "region_attributes": {
+          "artifact": "rope"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/rope/vypustek24-0006.jpg-1": {
+    "filename": "../system/rope/vypustek24-0006.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 221,
+          "y": 398,
+          "width": 50,
+          "height": 18
+        },
+        "region_attributes": {
+          "artifact": "rope"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/rope/vypustek25-0018.jpg-1": {
+    "filename": "../system/rope/vypustek25-0018.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 232,
+          "y": 404,
+          "width": 57,
+          "height": 24
+        },
+        "region_attributes": {
+          "artifact": "rope"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/rope/vypustek27-0000.jpg-1": {
+    "filename": "../system/rope/vypustek27-0000.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 358,
+          "y": 457,
+          "width": 42,
+          "height": 16
+        },
+        "region_attributes": {
+          "artifact": "rope"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/rope/vypustek27-0001.jpg-1": {
+    "filename": "../system/rope/vypustek27-0001.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 226,
+          "y": 464,
+          "width": 50,
+          "height": 20
+        },
+        "region_attributes": {
+          "artifact": "rope"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/rope/vypustek27-0002.jpg-1": {
+    "filename": "../system/rope/vypustek27-0002.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 222,
+          "y": 470,
+          "width": 56,
+          "height": 17
+        },
+        "region_attributes": {
+          "artifact": "rope"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/rope/vypustek27-0019.jpg-1": {
+    "filename": "../system/rope/vypustek27-0019.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 718,
+          "y": 174,
+          "width": 47,
+          "height": 35
+        },
+        "region_attributes": {
+          "artifact": "rope"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/rope/vypustek28-0009.jpg-1": {
+    "filename": "../system/rope/vypustek28-0009.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 242,
+          "y": 328,
+          "width": 20,
+          "height": 40
+        },
+        "region_attributes": {
+          "artifact": "drill"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/rope/vypustek28-0010.jpg-1": {
+    "filename": "../system/rope/vypustek28-0010.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 230,
+          "y": 324,
+          "width": 16,
+          "height": 40
+        },
+        "region_attributes": {
+          "artifact": "drill"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/rope/vypustek29-0000.jpg-1": {
+    "filename": "../system/rope/vypustek29-0000.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 589,
+          "y": 447,
+          "width": 18,
+          "height": 24
+        },
+        "region_attributes": {
+          "artifact": "drill"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/rope/vypustek29-0001.jpg-1": {
+    "filename": "../system/rope/vypustek29-0001.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 490,
+          "y": 447,
+          "width": 27,
+          "height": 9
+        },
+        "region_attributes": {
+          "artifact": "rope"
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 760,
+          "y": 456,
+          "width": 26,
+          "height": 40
+        },
+        "region_attributes": {
+          "artifact": "drill"
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 291,
+          "y": 439,
+          "width": 50,
+          "height": 27
+        },
+        "region_attributes": {
+          "artifact": "survivor"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/rope/vypustek29-0002.jpg-1": {
+    "filename": "../system/rope/vypustek29-0002.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 265,
+          "y": 432,
+          "width": 67,
+          "height": 38
+        },
+        "region_attributes": {
+          "artifact": "survivor"
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 539,
+          "y": 443,
+          "width": 35,
+          "height": 13
+        },
+        "region_attributes": {
+          "artifact": "rope"
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 972,
+          "y": 466,
+          "width": 33,
+          "height": 56
+        },
+        "region_attributes": {
+          "artifact": "drill"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/rope/vypustek29-0003.jpg-1": {
+    "filename": "../system/rope/vypustek29-0003.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 559,
+          "y": 479,
+          "width": 103,
+          "height": 34
+        },
+        "region_attributes": {
+          "artifact": "rope"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/rope/vypustek29-0004.jpg-1": {
+    "filename": "../system/rope/vypustek29-0004.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 593,
+          "y": 486,
+          "width": 106,
+          "height": 29
+        },
+        "region_attributes": {
+          "artifact": "rope"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/rope/vypustek29-0005.jpg-1": {
+    "filename": "../system/rope/vypustek29-0005.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 468,
+          "y": 490,
+          "width": 128,
+          "height": 31
+        },
+        "region_attributes": {
+          "artifact": "rope"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/rope/vypustek29-0006.jpg-1": {
+    "filename": "../system/rope/vypustek29-0006.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 387,
+          "y": 533,
+          "width": 239,
+          "height": 60
+        },
+        "region_attributes": {
+          "artifact": "rope"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/rope/vypustek29-0007.jpg-1": {
+    "filename": "../system/rope/vypustek29-0007.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 307,
+          "y": 598,
+          "width": 367,
+          "height": 106
+        },
+        "region_attributes": {
+          "artifact": "rope"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/rope/vypustek32-0000.jpg-1": {
+    "filename": "../system/rope/vypustek32-0000.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 389,
+          "y": 465,
+          "width": 52,
+          "height": 17
+        },
+        "region_attributes": {
+          "artifact": "rope"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/rope/vypustek32-0001.jpg-1": {
+    "filename": "../system/rope/vypustek32-0001.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 521,
+          "y": 481,
+          "width": 78,
+          "height": 24
+        },
+        "region_attributes": {
+          "artifact": "rope"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/rope/vypustek32-0002.jpg-1": {
+    "filename": "../system/rope/vypustek32-0002.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 695,
+          "y": 483,
+          "width": 82,
+          "height": 34
+        },
+        "region_attributes": {
+          "artifact": "rope"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/rope/vypustek32-0010.jpg-1": {
+    "filename": "../system/rope/vypustek32-0010.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 25,
+          "y": 547,
+          "width": 145,
+          "height": 60
+        },
+        "region_attributes": {
+          "artifact": "rope"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/rope/vypustek32-0011.jpg-1": {
+    "filename": "../system/rope/vypustek32-0011.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 191,
+          "y": 491,
+          "width": 51,
+          "height": 29
+        },
+        "region_attributes": {
+          "artifact": "rope"
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 502,
+          "y": 447,
+          "width": 17,
+          "height": 22
+        },
+        "region_attributes": {
+          "artifact": "drill"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/rope/vypustek33-0014.jpg-1": {
+    "filename": "../system/rope/vypustek33-0014.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 640,
+          "y": 223,
+          "width": 51,
+          "height": 22
+        },
+        "region_attributes": {
+          "artifact": "rope"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/rope/vypustek33-0015.jpg-1": {
+    "filename": "../system/rope/vypustek33-0015.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 666,
+          "y": 189,
+          "width": 40,
+          "height": 24
+        },
+        "region_attributes": {
+          "artifact": "rope"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/survivor/vypustek25-0000.jpg-1": {
+    "filename": "../system/survivor/vypustek25-0000.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 528,
+          "y": 417,
+          "width": 22,
+          "height": 29
+        },
+        "region_attributes": {
+          "artifact": "survivor"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/survivor/vypustek25-0001.jpg-1": {
+    "filename": "../system/survivor/vypustek25-0001.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 606,
+          "y": 415,
+          "width": 20,
+          "height": 25
+        },
+        "region_attributes": {
+          "artifact": "survivor"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/survivor/vypustek25-0002.jpg-1": {
+    "filename": "../system/survivor/vypustek25-0002.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 643,
+          "y": 413,
+          "width": 22,
+          "height": 31
+        },
+        "region_attributes": {
+          "artifact": "survivor"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/survivor/vypustek25-0003.jpg-1": {
+    "filename": "../system/survivor/vypustek25-0003.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 640,
+          "y": 405,
+          "width": 29,
+          "height": 35
+        },
+        "region_attributes": {
+          "artifact": "survivor"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/survivor/vypustek25-0004.jpg-1": {
+    "filename": "../system/survivor/vypustek25-0004.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 619,
+          "y": 406,
+          "width": 33,
+          "height": 46
+        },
+        "region_attributes": {
+          "artifact": "survivor"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/survivor/vypustek25-0005.jpg-1": {
+    "filename": "../system/survivor/vypustek25-0005.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 613,
+          "y": 391,
+          "width": 40,
+          "height": 56
+        },
+        "region_attributes": {
+          "artifact": "survivor"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/survivor/vypustek25-0006.jpg-1": {
+    "filename": "../system/survivor/vypustek25-0006.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 669,
+          "y": 368,
+          "width": 65,
+          "height": 84
+        },
+        "region_attributes": {
+          "artifact": "survivor"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/survivor/vypustek25-0007.jpg-1": {
+    "filename": "../system/survivor/vypustek25-0007.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 910,
+          "y": 337,
+          "width": 67,
+          "height": 91
+        },
+        "region_attributes": {
+          "artifact": "survivor"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/survivor/vypustek25-0008.jpg-1": {
+    "filename": "../system/survivor/vypustek25-0008.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 206,
+          "y": 306,
+          "width": 40,
+          "height": 69
+        },
+        "region_attributes": {
+          "artifact": "survivor"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/survivor/vypustek25-0009.jpg-1": {
+    "filename": "../system/survivor/vypustek25-0009.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 251,
+          "y": 336,
+          "width": 40,
+          "height": 47
+        },
+        "region_attributes": {
+          "artifact": "survivor"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/survivor/vypustek25-0010.jpg-1": {
+    "filename": "../system/survivor/vypustek25-0010.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 776,
+          "y": 217,
+          "width": 54,
+          "height": 78
+        },
+        "region_attributes": {
+          "artifact": "survivor"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/survivor/vypustek25-0011.jpg-1": {
+    "filename": "../system/survivor/vypustek25-0011.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 731,
+          "y": 266,
+          "width": 46,
+          "height": 56
+        },
+        "region_attributes": {
+          "artifact": "survivor"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/survivor/vypustek25-0012.jpg-1": {
+    "filename": "../system/survivor/vypustek25-0012.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 701,
+          "y": 273,
+          "width": 38,
+          "height": 47
+        },
+        "region_attributes": {
+          "artifact": "survivor"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/survivor/vypustek25-0013.jpg-1": {
+    "filename": "../system/survivor/vypustek25-0013.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 742,
+          "y": 300,
+          "width": 33,
+          "height": 42
+        },
+        "region_attributes": {
+          "artifact": "survivor"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/survivor/vypustek25-0014.jpg-1": {
+    "filename": "../system/survivor/vypustek25-0014.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 54,
+          "y": 302,
+          "width": 55,
+          "height": 78
+        },
+        "region_attributes": {
+          "artifact": "survivor"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/survivor/vypustek26-0001.jpg-1": {
+    "filename": "../system/survivor/vypustek26-0001.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 200,
+          "y": 290,
+          "width": 26,
+          "height": 24
+        },
+        "region_attributes": {
+          "artifact": "survivor"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/survivor/vypustek27-0008.jpg-1": {
+    "filename": "../system/survivor/vypustek27-0008.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 797,
+          "y": 187,
+          "width": 98,
+          "height": 76
+        },
+        "region_attributes": {
+          "artifact": "survivor"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/survivor/vypustek27-0009.jpg-1": {
+    "filename": "../system/survivor/vypustek27-0009.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 733,
+          "y": 240,
+          "width": 72,
+          "height": 50
+        },
+        "region_attributes": {
+          "artifact": "survivor"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/survivor/vypustek27-0010.jpg-1": {
+    "filename": "../system/survivor/vypustek27-0010.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 829,
+          "y": 253,
+          "width": 54,
+          "height": 38
+        },
+        "region_attributes": {
+          "artifact": "survivor"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/survivor/vypustek27-0011.jpg-1": {
+    "filename": "../system/survivor/vypustek27-0011.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 733,
+          "y": 276,
+          "width": 48,
+          "height": 42
+        },
+        "region_attributes": {
+          "artifact": "survivor"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/survivor/vypustek30-0003.jpg-1": {
+    "filename": "../system/survivor/vypustek30-0003.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 396,
+          "y": 402,
+          "width": 29,
+          "height": 29
+        },
+        "region_attributes": {
+          "artifact": "survivor"
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 200,
+          "y": 461,
+          "width": 56,
+          "height": 17
+        },
+        "region_attributes": {
+          "artifact": "rope"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/survivor/vypustek30-0004.jpg-1": {
+    "filename": "../system/survivor/vypustek30-0004.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 394,
+          "y": 402,
+          "width": 31,
+          "height": 29
+        },
+        "region_attributes": {
+          "artifact": "survivor"
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 124,
+          "y": 474,
+          "width": 64,
+          "height": 21
+        },
+        "region_attributes": {
+          "artifact": "rope"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/survivor/vypustek30-0005.jpg-1": {
+    "filename": "../system/survivor/vypustek30-0005.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 37,
+          "y": 495,
+          "width": 65,
+          "height": 26
+        },
+        "region_attributes": {
+          "artifact": "rope"
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 413,
+          "y": 405,
+          "width": 35,
+          "height": 33
+        },
+        "region_attributes": {
+          "artifact": "survivor"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/survivor/vypustek30-0006.jpg-1": {
+    "filename": "../system/survivor/vypustek30-0006.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 351,
+          "y": 384,
+          "width": 55,
+          "height": 51
+        },
+        "region_attributes": {
+          "artifact": "survivor"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/survivor/vypustek30-0007.jpg-1": {
+    "filename": "../system/survivor/vypustek30-0007.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 263,
+          "y": 366,
+          "width": 76,
+          "height": 72
+        },
+        "region_attributes": {
+          "artifact": "survivor"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/survivor/vypustek30-0008.jpg-1": {
+    "filename": "../system/survivor/vypustek30-0008.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 57,
+          "y": 340,
+          "width": 72,
+          "height": 85
+        },
+        "region_attributes": {
+          "artifact": "survivor"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/survivor/vypustek30-0009.jpg-1": {
+    "filename": "../system/survivor/vypustek30-0009.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 17,
+          "y": 336,
+          "width": 67,
+          "height": 88
+        },
+        "region_attributes": {
+          "artifact": "survivor"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/survivor/vypustek32-0023.jpg-1": {
+    "filename": "../system/survivor/vypustek32-0023.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 495,
+          "y": 383,
+          "width": 29,
+          "height": 33
+        },
+        "region_attributes": {
+          "artifact": "survivor"
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 539,
+          "y": 402,
+          "width": 21,
+          "height": 16
+        },
+        "region_attributes": {
+          "artifact": "rope"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/survivor/vypustek33-0005.jpg-1": {
+    "filename": "../system/survivor/vypustek33-0005.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 306,
+          "y": 431,
+          "width": 22,
+          "height": 22
+        },
+        "region_attributes": {
+          "artifact": "survivor"
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 566,
+          "y": 417,
+          "width": 22,
+          "height": 21
+        },
+        "region_attributes": {
+          "artifact": "drill"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/survivor/vypustek33-0006.jpg-1": {
+    "filename": "../system/survivor/vypustek33-0006.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 573,
+          "y": 397,
+          "width": 27,
+          "height": 27
+        },
+        "region_attributes": {
+          "artifact": "survivor"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/survivor/vypustek33-0007.jpg-1": {
+    "filename": "../system/survivor/vypustek33-0007.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 665,
+          "y": 389,
+          "width": 31,
+          "height": 31
+        },
+        "region_attributes": {
+          "artifact": "survivor"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/survivor/vypustek33-0008.jpg-1": {
+    "filename": "../system/survivor/vypustek33-0008.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 744,
+          "y": 376,
+          "width": 40,
+          "height": 35
+        },
+        "region_attributes": {
+          "artifact": "survivor"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/survivor/vypustek33-0009.jpg-1": {
+    "filename": "../system/survivor/vypustek33-0009.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 814,
+          "y": 368,
+          "width": 38,
+          "height": 34
+        },
+        "region_attributes": {
+          "artifact": "survivor"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/survivor/vypustek33-0010.jpg-1": {
+    "filename": "../system/survivor/vypustek33-0010.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 197,
+          "y": 310,
+          "width": 43,
+          "height": 43
+        },
+        "region_attributes": {
+          "artifact": "survivor"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/survivor/vypustek33-0011.jpg-1": {
+    "filename": "../system/survivor/vypustek33-0011.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 306,
+          "y": 313,
+          "width": 37,
+          "height": 38
+        },
+        "region_attributes": {
+          "artifact": "survivor"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/survivor/vypustek33-0012.jpg-1": {
+    "filename": "../system/survivor/vypustek33-0012.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 477,
+          "y": 333,
+          "width": 37,
+          "height": 29
+        },
+        "region_attributes": {
+          "artifact": "survivor"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/survivor/vypustek33-0013.jpg-1": {
+    "filename": "../system/survivor/vypustek33-0013.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 538,
+          "y": 332,
+          "width": 33,
+          "height": 29
+        },
+        "region_attributes": {
+          "artifact": "survivor"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/vent/b_skala01-0000.jpg-1": {
+    "filename": "../system/vent/b_skala01-0000.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 30,
+          "y": 317,
+          "width": 37,
+          "height": 69
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/vent/b_skala01-0001.jpg-1": {
+    "filename": "../system/vent/b_skala01-0001.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 16,
+          "y": 333,
+          "width": 33,
+          "height": 67
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/vent/b_skala01-0002.jpg-1": {
+    "filename": "../system/vent/b_skala01-0002.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 4,
+          "y": 350,
+          "width": 35,
+          "height": 67
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/vent/b_skala01-0003.jpg-1": {
+    "filename": "../system/vent/b_skala01-0003.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 101,
+          "y": 341,
+          "width": 44,
+          "height": 60
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/vent/b_skala01-0004.jpg-1": {
+    "filename": "../system/vent/b_skala01-0004.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 121,
+          "y": 345,
+          "width": 46,
+          "height": 64
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/vent/b_skala01-0005.jpg-1": {
+    "filename": "../system/vent/b_skala01-0005.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 50,
+          "y": 329,
+          "width": 42,
+          "height": 74
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/vent/b_skala01-0006.jpg-1": {
+    "filename": "../system/vent/b_skala01-0006.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1,
+          "y": 311,
+          "width": 37,
+          "height": 86
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/vent/b_skala01-0007.jpg-1": {
+    "filename": "../system/vent/b_skala01-0007.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 10,
+          "y": 338,
+          "width": 48,
+          "height": 61
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/vent/b_skala01-0008.jpg-1": {
+    "filename": "../system/vent/b_skala01-0008.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 699,
+          "y": 311,
+          "width": 26,
+          "height": 30
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/vent/b_skala01-0009.jpg-1": {
+    "filename": "../system/vent/b_skala01-0009.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 696,
+          "y": 324,
+          "width": 26,
+          "height": 34
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/vent/b_skala01-0010.jpg-1": {
+    "filename": "../system/vent/b_skala01-0010.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 764,
+          "y": 308,
+          "width": 37,
+          "height": 38
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/vent/b_skala01-0011.jpg-1": {
+    "filename": "../system/vent/b_skala01-0011.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 807,
+          "y": 328,
+          "width": 42,
+          "height": 52
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/vent/b_skala01-0012.jpg-1": {
+    "filename": "../system/vent/b_skala01-0012.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 869,
+          "y": 316,
+          "width": 43,
+          "height": 63
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/vent/b_skala01-0013.jpg-1": {
+    "filename": "../system/vent/b_skala01-0013.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 929,
+          "y": 307,
+          "width": 46,
+          "height": 68
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/vent/b_skala01-0014.jpg-1": {
+    "filename": "../system/vent/b_skala01-0014.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 963,
+          "y": 308,
+          "width": 47,
+          "height": 69
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/vent/b_skala02-0000.jpg-1": {
+    "filename": "../system/vent/b_skala02-0000.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 628,
+          "y": 381,
+          "width": 27,
+          "height": 33
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/vent/b_skala02-0001.jpg-1": {
+    "filename": "../system/vent/b_skala02-0001.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 632,
+          "y": 400,
+          "width": 37,
+          "height": 42
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/vent/b_skala02-0002.jpg-1": {
+    "filename": "../system/vent/b_skala02-0002.jpg",
+    "size": -1,
+    "regions": [],
+    "file_attributes": {}
+  },
+  "../system/vent/b_skala02-0003.jpg-1": {
+    "filename": "../system/vent/b_skala02-0003.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 805,
+          "y": 336,
+          "width": 67,
+          "height": 85
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/vent/b_skala02-0004.jpg-1": {
+    "filename": "../system/vent/b_skala02-0004.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 908,
+          "y": 333,
+          "width": 69,
+          "height": 101
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/vent/b_skala02-0005.jpg-1": {
+    "filename": "../system/vent/b_skala02-0005.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 972,
+          "y": 323,
+          "width": 50,
+          "height": 107
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/vent/b_skala02-0006.jpg-1": {
+    "filename": "../system/vent/b_skala02-0006.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 144,
+          "y": 303,
+          "width": 33,
+          "height": 55
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/vent/b_skala02-0007.jpg-1": {
+    "filename": "../system/vent/b_skala02-0007.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 165,
+          "y": 263,
+          "width": 42,
+          "height": 59
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/vent/b_skala02-0008.jpg-1": {
+    "filename": "../system/vent/b_skala02-0008.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 121,
+          "y": 293,
+          "width": 56,
+          "height": 78
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/vent/b_skala02-0009.jpg-1": {
+    "filename": "../system/vent/b_skala02-0009.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 88,
+          "y": 230,
+          "width": 69,
+          "height": 98
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/vent/b_skala02-0010.jpg-1": {
+    "filename": "../system/vent/b_skala02-0010.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 22,
+          "y": 263,
+          "width": 74,
+          "height": 101
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/vent/b_skala02-0011.jpg-1": {
+    "filename": "../system/vent/b_skala02-0011.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 141,
+          "y": 349,
+          "width": 33,
+          "height": 55
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/vent/b_skala02-0012.jpg-1": {
+    "filename": "../system/vent/b_skala02-0012.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 73,
+          "y": 338,
+          "width": 47,
+          "height": 72
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/vent/b_skala09-0004.jpg-1": {
+    "filename": "../system/vent/b_skala09-0004.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 661,
+          "y": 377,
+          "width": 24,
+          "height": 33
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/vent/b_skala09-0005.jpg-1": {
+    "filename": "../system/vent/b_skala09-0005.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 550,
+          "y": 359,
+          "width": 26,
+          "height": 34
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/vent/b_skala09-0006.jpg-1": {
+    "filename": "../system/vent/b_skala09-0006.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 665,
+          "y": 391,
+          "width": 40,
+          "height": 46
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/vent/b_skala09-0007.jpg-1": {
+    "filename": "../system/vent/b_skala09-0007.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 859,
+          "y": 334,
+          "width": 72,
+          "height": 86
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/vent/b_skala09-0008.jpg-1": {
+    "filename": "../system/vent/b_skala09-0008.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 956,
+          "y": 344,
+          "width": 64,
+          "height": 97
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/vent/b_skala09-0009.jpg-1": {
+    "filename": "../system/vent/b_skala09-0009.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 95,
+          "y": 299,
+          "width": 30,
+          "height": 55
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/vent/b_skala11-0000.jpg-1": {
+    "filename": "../system/vent/b_skala11-0000.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 632,
+          "y": 334,
+          "width": 26,
+          "height": 40
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/vent/b_skala11-0001.jpg-1": {
+    "filename": "../system/vent/b_skala11-0001.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 660,
+          "y": 389,
+          "width": 42,
+          "height": 51
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/vent/b_skala11-0002.jpg-1": {
+    "filename": "../system/vent/b_skala11-0002.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 976,
+          "y": 341,
+          "width": 47,
+          "height": 111
+        },
+        "region_attributes": {
+          "artifact": "vent"
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "../system/vent/b_skala11-0003.jpg-1": {
+    "filename": "../system/vent/b_skala11-0003.jpg",
+    "size": -1,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 182,
+          "y": 260,
+          "width": 42,
+          "height": 60
+        },
+        "region_attributes": {
+          "artifact": "vent"
         }
       }
     ],
