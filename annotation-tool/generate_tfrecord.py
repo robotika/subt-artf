@@ -21,10 +21,18 @@ import tensorflow as tf
 #sys.path.append("../../models/research")
 
 from PIL import Image
-from object_detection.utils import dataset_util
 from collections import namedtuple, OrderedDict
 
-flags = tf.app.flags
+try:
+    from tensorflow import app
+    from tensorflow.app import flags
+    from tensorflow.gfile import GFile
+    from tensorflow.python_io import TFRecordWriter
+except ImportError:
+    from tensorflow.compat.v1 import app, flags
+    from tensorflow.compat.v1.gfile import GFile
+    from tensorflow.compat.v1.python_io import TFRecordWriter
+
 flags.DEFINE_string('csv_input', '', 'Path to the CSV input')
 flags.DEFINE_string('output_path', '', 'Path to output TFRecord')
 flags.DEFINE_string('label', '', 'Name of class label')
@@ -56,16 +64,22 @@ def class_text_to_int(row_label):
         return 4
     if row_label == 'helmet':
         return 5
-    if row_label == 'robot':
+    if row_label == 'fire_extinguisher':
         return 6
-    if row_label == 'TOOLBOX':
+    if row_label == 'drill':
         return 7
-    if row_label == 'VALVE':
+    if row_label == 'vent':
         return 8
-    if row_label == 'RADIO':
+    if row_label == 'cube':
         return 9
+    if row_label == 'robot':
+        return 10
+    if row_label == 'breadcrumb':
+        return 11
+    if row_label == 'nothing':
+        return 12
     else:
-        None
+        pass
 
 
 def split(df, group):
@@ -74,8 +88,33 @@ def split(df, group):
     return [data(filename, gb.get_group(x)) for filename, x in zip(gb.groups.keys(), gb.groups)]
 
 
+def bytes_feature(value):
+  """Returns a bytes_list from a string / byte."""
+  return tf.train.Feature(bytes_list=tf.train.BytesList(value=[value]))
+
+
+def bytes_list_feature(values):
+  """Returns a bytes_list from a string / byte."""
+  return tf.train.Feature(bytes_list=tf.train.BytesList(value=values))
+
+
+def float_list_feature(values):
+  """Returns a float_list from a float / double."""
+  return tf.train.Feature(float_list=tf.train.FloatList(value=values))
+
+
+def int64_feature(value):
+  """Returns an int64_list from a bool / enum / int / uint."""
+  return tf.train.Feature(int64_list=tf.train.Int64List(value=[value]))
+
+
+def int64_list_feature(values):
+  """Returns an int64_list from a bool / enum / int / uint."""
+  return tf.train.Feature(int64_list=tf.train.Int64List(value=values))
+
+
 def create_tf_example(group, path):
-    with tf.gfile.GFile(os.path.join(path, '{}'.format(group.filename)), 'rb') as fid:
+    with GFile(os.path.join(path, '{}'.format(group.filename)), 'rb') as fid:
         encoded_jpg = fid.read()
     encoded_jpg_io = io.BytesIO(encoded_jpg)
     image = Image.open(encoded_jpg_io)
@@ -101,24 +140,24 @@ def create_tf_example(group, path):
         classes.append(class_text_to_int(row['class']))
 
     tf_example = tf.train.Example(features=tf.train.Features(feature={
-        'image/height': dataset_util.int64_feature(height),
-        'image/width': dataset_util.int64_feature(width),
-        'image/filename': dataset_util.bytes_feature(filename),
-        'image/source_id': dataset_util.bytes_feature(filename),
-        'image/encoded': dataset_util.bytes_feature(encoded_jpg),
-        'image/format': dataset_util.bytes_feature(image_format),
-        'image/object/bbox/xmin': dataset_util.float_list_feature(xmins),
-        'image/object/bbox/xmax': dataset_util.float_list_feature(xmaxs),
-        'image/object/bbox/ymin': dataset_util.float_list_feature(ymins),
-        'image/object/bbox/ymax': dataset_util.float_list_feature(ymaxs),
-        'image/object/class/text': dataset_util.bytes_list_feature(classes_text),
-        'image/object/class/label': dataset_util.int64_list_feature(classes),
+        'image/height': int64_feature(height),
+        'image/width': int64_feature(width),
+        'image/filename': bytes_feature(filename),
+        'image/source_id': bytes_feature(filename),
+        'image/encoded': bytes_feature(encoded_jpg),
+        'image/format': bytes_feature(image_format),
+        'image/object/bbox/xmin': float_list_feature(xmins),
+        'image/object/bbox/xmax': float_list_feature(xmaxs),
+        'image/object/bbox/ymin': float_list_feature(ymins),
+        'image/object/bbox/ymax': float_list_feature(ymaxs),
+        'image/object/class/text': bytes_list_feature(classes_text),
+        'image/object/class/label': int64_list_feature(classes),
     }))
     return tf_example
 
 
 def main(_):
-    writer = tf.python_io.TFRecordWriter(FLAGS.output_path)
+    writer = TFRecordWriter(FLAGS.output_path)
     path = os.path.join(os.getcwd(), FLAGS.img_path)
     print(FLAGS.csv_input)
     examples = pd.read_csv(FLAGS.csv_input)
@@ -133,4 +172,4 @@ def main(_):
 
 
 if __name__ == '__main__':
-    tf.app.run()
+    app.run()
